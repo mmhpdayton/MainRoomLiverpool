@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-17T21:43:01.116932Z",
+  "updated": "2026-08-17T21:44:46.954047Z",
   "fixtures": [
     {
       "id": "bbc-202608231530-newcastle-united",
@@ -909,13 +909,13 @@
     }
   ],
   "dataSources": {
-    "fixtures": "Liverpool FC official fixtures → BBC Sport UK fallback",
+    "fixtures": "Liverpool FC official schedule; BBC Sport UK used only as cross-check/result/cup fallback",
     "premierLeagueTable": "PremierLeague.com official → BBC Sport UK fallback",
     "broadcastUS": "match-specific U.S. rights listings / preserved confirmations",
-    "lastResort": "ESPN only after UK sources fail"
+    "lastResort": "ESPN is not required for core site operation"
   },
   "dataHealth": {
-    "fixtures": "BBC Sport UK fallback",
+    "fixtures": "Liverpool-confirmed PL schedule + BBC UK cross-check",
     "premierLeagueTable": "BBC Sport UK fallback"
   }
 }
