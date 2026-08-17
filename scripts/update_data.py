@@ -17,8 +17,6 @@ def gettext(url):
 def load(): return json.loads(DATA.read_text())
 def normalize_broadcasts(slug,names):
     names=list(dict.fromkeys([n.strip() for n in names if n and n.strip()]))
-    # The FA's U.S. deal guarantees every FA Cup match on ESPN+ through 2027-28.
-    # If ESPN/ESPN2/Deportes is also listed for a specific match, show every outlet.
     if slug=='eng.fa' and 'ESPN+' not in names: names.append('ESPN+')
     if names:return ' • '.join(names)
     if slug=='uefa.champions':return 'Paramount+'
@@ -35,6 +33,10 @@ def espn_fixtures(slug):
       broadcast=normalize_broadcasts(slug,b)
       out.append({'id':str(ev.get('id')),'date':ev.get('date'),'opponent':opp.get('team',{}).get('displayName'),'homeAway':'H' if lfc.get('homeAway')=='home' else 'A','competition':COMPETITIONS.get(slug,slug),'venue':(comp.get('venue') or {}).get('fullName',''),'broadcastUS':broadcast,'broadcastUSSource':'ESPN match listing' if b else ('U.S. rights package' if broadcast!='TBA' else ''),'status':'final' if done else 'scheduled','scoreFor':lfc.get('score',{}).get('displayValue') if isinstance(lfc.get('score'),dict) else lfc.get('score'),'scoreAgainst':opp.get('score',{}).get('displayValue') if isinstance(opp.get('score'),dict) else opp.get('score')})
     return out
+def statval(stats,*names,default=0):
+    for name in names:
+      if name in stats and stats[name] is not None:return stats[name]
+    return default
 def standings(slug):
     j=getjson(f'https://site.api.espn.com/apis/v2/sports/soccer/{slug}/standings?season=2026')
     groups=j.get('children') or [j];entries=[]
@@ -44,7 +46,11 @@ def standings(slug):
     out=[]
     for e in entries:
       team=e.get('team',{});stats={s.get('name'):s.get('value') for s in e.get('stats',[])}
-      out.append({'pos':int(stats.get('rank') or len(out)+1),'team':team.get('displayName'),'p':int(stats.get('gamesPlayed') or 0),'w':int(stats.get('wins') or 0),'d':int(stats.get('ties') or 0),'l':int(stats.get('losses') or 0),'gd':int(stats.get('pointDifferential') or stats.get('goalDifference') or 0),'pts':int(stats.get('points') or 0)})
+      gf=int(statval(stats,'pointsFor','goalsFor','for',default=0) or 0)
+      ga=int(statval(stats,'pointsAgainst','goalsAgainst','against',default=0) or 0)
+      gd=int(statval(stats,'pointDifferential','goalDifference',default=gf-ga) or 0)
+      logos=team.get('logos') or []
+      out.append({'pos':int(statval(stats,'rank',default=len(out)+1) or len(out)+1),'team':team.get('displayName'),'teamId':str(team.get('id') or ''),'logo':(logos[0].get('href') if logos else ''),'color':team.get('color') or '999999','alternateColor':team.get('alternateColor') or 'ffffff','p':int(statval(stats,'gamesPlayed',default=0) or 0),'w':int(statval(stats,'wins',default=0) or 0),'d':int(statval(stats,'ties','draws',default=0) or 0),'l':int(statval(stats,'losses',default=0) or 0),'gf':gf,'ga':ga,'gd':gd,'pts':int(statval(stats,'points',default=0) or 0)})
     return sorted(out,key=lambda x:x['pos'])
 def news():
   sources=[('The Anfield Wrap','theanfieldwrap.com'),('The Athletic','nytimes.com/athletic'),('BBC','bbc.com/sport'),('Liverpool FC','liverpoolfc.com/news'),('The Guardian','theguardian.com/football'),('Reuters','reuters.com/sports/soccer'),('Liverpool Offside','liverpooloffside.sbnation.com')]
@@ -62,15 +68,9 @@ def news():
   items.sort(key=lambda x:x.get('published',''),reverse=True);return items[:18]
 def merge_broadcasts(new,old):
   old_by_key={(x['date'][:10],x['opponent'],x.get('competition')):x for x in old}
-  uk_confirmed={
-    ('2026-08-23','Newcastle United'):'Sky Sports',
-    ('2026-08-29','Nottingham Forest'):'TNT Sports',
-    ('2026-09-04','Ipswich Town'):'Sky Sports',
-    ('2026-09-20','AFC Bournemouth'):'Sky Sports'
-  }
+  uk_confirmed={('2026-08-23','Newcastle United'):'Sky Sports',('2026-08-29','Nottingham Forest'):'TNT Sports',('2026-09-04','Ipswich Town'):'Sky Sports',('2026-09-20','AFC Bournemouth'):'Sky Sports'}
   for x in new:
-    key3=(x['date'][:10],x['opponent'],x.get('competition'));prior=old_by_key.get(key3,{})
-    key2=(x['date'][:10],x['opponent'])
+    key3=(x['date'][:10],x['opponent'],x.get('competition'));prior=old_by_key.get(key3,{});key2=(x['date'][:10],x['opponent'])
     if prior.get('broadcastUS') not in (None,'','TBA') and x.get('broadcastUS') in ('',None,'TBA'):
       x['broadcastUS']=prior['broadcastUS'];x['broadcastUSSource']=prior.get('broadcastUSSource','Previous confirmed listing')
     if prior.get('broadcastUK'): x['broadcastUK']=prior['broadcastUK']
@@ -79,19 +79,14 @@ def merge_broadcasts(new,old):
       x['broadcastUS']='USA Network';x['broadcastUSSource']='NBC Sports'
   return new
 def main():
-  d=load();old=d.get('fixtures',[]);fixtures=[];loaded=set()
+  d=load();old=d.get('fixtures',[]);fixtures=[]
   for slug,label in COMPETITIONS.items():
-    try:
-      rows=merge_broadcasts(espn_fixtures(slug),old);fixtures+=rows;loaded.add(label)
-    except Exception as e:
-      print(label,'fixtures',e);fixtures += [x for x in old if x.get('competition')==label]
-  # Preserve any manually-added/other competitions that this updater does not know about.
+    try:fixtures+=merge_broadcasts(espn_fixtures(slug),old)
+    except Exception as e:print(label,'fixtures',e);fixtures += [x for x in old if x.get('competition')==label]
   fixtures += [x for x in old if x.get('competition') not in set(COMPETITIONS.values())]
-  # Deduplicate by event id where available, otherwise by date/opponent/competition.
   dedup={}
   for x in fixtures:
-    k=x.get('id') or (x.get('date'),x.get('opponent'),x.get('competition'))
-    dedup[k]=x
+    k=x.get('id') or (x.get('date'),x.get('opponent'),x.get('competition'));dedup[k]=x
   if dedup:d['fixtures']=sorted(dedup.values(),key=lambda x:x['date'])
   try:d['premierLeagueTable']=standings('eng.1') or d.get('premierLeagueTable',[])
   except Exception as e:print('PL table',e)
