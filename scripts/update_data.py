@@ -4,11 +4,25 @@ from pathlib import Path
 ROOT=Path(__file__).resolve().parent.parent
 DATA=ROOT/'site-data.json'
 HEAD={'User-Agent':'Mozilla/5.0 MainRoomLiverpool/1.0'}
+COMPETITIONS={
+  'eng.1':'Premier League',
+  'uefa.champions':'Champions League',
+  'eng.fa':'FA Cup',
+  'eng.league_cup':'Carabao Cup'
+}
 def getjson(url):
     req=urllib.request.Request(url,headers=HEAD);return json.loads(urllib.request.urlopen(req,timeout=25).read())
 def gettext(url):
     req=urllib.request.Request(url,headers=HEAD);return urllib.request.urlopen(req,timeout=25).read()
 def load(): return json.loads(DATA.read_text())
+def normalize_broadcasts(slug,names):
+    names=list(dict.fromkeys([n.strip() for n in names if n and n.strip()]))
+    # The FA's U.S. deal guarantees every FA Cup match on ESPN+ through 2027-28.
+    # If ESPN/ESPN2/Deportes is also listed for a specific match, show every outlet.
+    if slug=='eng.fa' and 'ESPN+' not in names: names.append('ESPN+')
+    if names:return ' • '.join(names)
+    if slug=='uefa.champions':return 'Paramount+'
+    return 'TBA'
 def espn_fixtures(slug):
     j=getjson(f'https://site.api.espn.com/apis/site/v2/sports/soccer/{slug}/teams/364/schedule?season=2026')
     out=[]
@@ -18,7 +32,8 @@ def espn_fixtures(slug):
       status=(comp.get('status') or {}).get('type',{});done=status.get('completed',False)
       b=[]
       for br in comp.get('broadcasts',[]) or []: b += br.get('names',[]) or []
-      out.append({'id':str(ev.get('id')),'date':ev.get('date'),'opponent':opp.get('team',{}).get('displayName'),'homeAway':'H' if lfc.get('homeAway')=='home' else 'A','competition':'Champions League' if slug=='uefa.champions' else 'Premier League','venue':(comp.get('venue') or {}).get('fullName',''),'broadcastUS':', '.join(dict.fromkeys(b)) if b else ('Paramount+' if slug=='uefa.champions' else 'TBA'),'status':'final' if done else 'scheduled','scoreFor':lfc.get('score',{}).get('displayValue') if isinstance(lfc.get('score'),dict) else lfc.get('score'),'scoreAgainst':opp.get('score',{}).get('displayValue') if isinstance(opp.get('score'),dict) else opp.get('score')})
+      broadcast=normalize_broadcasts(slug,b)
+      out.append({'id':str(ev.get('id')),'date':ev.get('date'),'opponent':opp.get('team',{}).get('displayName'),'homeAway':'H' if lfc.get('homeAway')=='home' else 'A','competition':COMPETITIONS.get(slug,slug),'venue':(comp.get('venue') or {}).get('fullName',''),'broadcastUS':broadcast,'broadcastUSSource':'ESPN match listing' if b else ('U.S. rights package' if broadcast!='TBA' else ''),'status':'final' if done else 'scheduled','scoreFor':lfc.get('score',{}).get('displayValue') if isinstance(lfc.get('score'),dict) else lfc.get('score'),'scoreAgainst':opp.get('score',{}).get('displayValue') if isinstance(opp.get('score'),dict) else opp.get('score')})
     return out
 def standings(slug):
     j=getjson(f'https://site.api.espn.com/apis/v2/sports/soccer/{slug}/standings?season=2026')
@@ -46,7 +61,7 @@ def news():
     except Exception as e: print('news',label,e)
   items.sort(key=lambda x:x.get('published',''),reverse=True);return items[:18]
 def merge_broadcasts(new,old):
-  old_by_key={(x['date'][:10],x['opponent']):x for x in old}
+  old_by_key={(x['date'][:10],x['opponent'],x.get('competition')):x for x in old}
   uk_confirmed={
     ('2026-08-23','Newcastle United'):'Sky Sports',
     ('2026-08-29','Nottingham Forest'):'TNT Sports',
@@ -54,22 +69,30 @@ def merge_broadcasts(new,old):
     ('2026-09-20','AFC Bournemouth'):'Sky Sports'
   }
   for x in new:
-    key=(x['date'][:10],x['opponent']);prior=old_by_key.get(key,{})
-    if prior.get('broadcastUS') not in (None,'','TBA') and x.get('broadcastUS') in ('',None,'TBA'): x['broadcastUS']=prior['broadcastUS']
+    key3=(x['date'][:10],x['opponent'],x.get('competition'));prior=old_by_key.get(key3,{})
+    key2=(x['date'][:10],x['opponent'])
+    if prior.get('broadcastUS') not in (None,'','TBA') and x.get('broadcastUS') in ('',None,'TBA'):
+      x['broadcastUS']=prior['broadcastUS'];x['broadcastUSSource']=prior.get('broadcastUSSource','Previous confirmed listing')
     if prior.get('broadcastUK'): x['broadcastUK']=prior['broadcastUK']
-    if key in uk_confirmed: x['broadcastUK']=uk_confirmed[key]
-    if key==('2026-08-23','Newcastle United'):
+    if key2 in uk_confirmed: x['broadcastUK']=uk_confirmed[key2]
+    if key2==('2026-08-23','Newcastle United') and x.get('competition')=='Premier League':
       x['broadcastUS']='USA Network';x['broadcastUSSource']='NBC Sports'
-    elif x.get('broadcastUS') not in (None,'','TBA'):
-      x['broadcastUSSource']=prior.get('broadcastUSSource','Schedule feed')
   return new
 def main():
-  d=load();old=d.get('fixtures',[]);fixtures=[]
-  try: fixtures+=merge_broadcasts(espn_fixtures('eng.1'),old)
-  except Exception as e: print('PL fixtures',e);fixtures += [x for x in old if x.get('competition')=='Premier League']
-  try: fixtures+=espn_fixtures('uefa.champions')
-  except Exception as e: print('UCL fixtures',e);fixtures += [x for x in old if x.get('competition')=='Champions League']
-  if fixtures:d['fixtures']=sorted(fixtures,key=lambda x:x['date'])
+  d=load();old=d.get('fixtures',[]);fixtures=[];loaded=set()
+  for slug,label in COMPETITIONS.items():
+    try:
+      rows=merge_broadcasts(espn_fixtures(slug),old);fixtures+=rows;loaded.add(label)
+    except Exception as e:
+      print(label,'fixtures',e);fixtures += [x for x in old if x.get('competition')==label]
+  # Preserve any manually-added/other competitions that this updater does not know about.
+  fixtures += [x for x in old if x.get('competition') not in set(COMPETITIONS.values())]
+  # Deduplicate by event id where available, otherwise by date/opponent/competition.
+  dedup={}
+  for x in fixtures:
+    k=x.get('id') or (x.get('date'),x.get('opponent'),x.get('competition'))
+    dedup[k]=x
+  if dedup:d['fixtures']=sorted(dedup.values(),key=lambda x:x['date'])
   try:d['premierLeagueTable']=standings('eng.1') or d.get('premierLeagueTable',[])
   except Exception as e:print('PL table',e)
   try:
