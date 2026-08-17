@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-17T21:57:07.117861Z",
+  "updated": "2026-08-17T21:57:42.263106Z",
   "fixtures": [
     {
       "id": "20260823-newcastle-united",
@@ -8,12 +8,12 @@
       "homeAway": "A",
       "competition": "Premier League",
       "venue": "St. James' Park",
-      "broadcastUS": "USA Network • Peacock • NBC • NBCSN",
+      "broadcastUS": "USA Network",
       "status": "scheduled",
       "scoreFor": null,
       "scoreAgainst": null,
       "broadcastUSSource": "https://www.nbcsports.com/pressbox/press-releases/the-2026-27-premier-league-season-kicks-off-in-one-month-across-platforms-of-nbcuniversal-with-nbc-sports-studio-team-on-site-in-u-k",
-      "broadcastCheckedAt": "2026-08-17T21:57:02.385189Z",
+      "broadcastCheckedAt": "2026-08-17T21:57:38.382574Z",
       "broadcastConfidence": "official match-specific"
     },
     {
@@ -28,7 +28,7 @@
       "scoreFor": null,
       "scoreAgainst": null,
       "broadcastUSSource": "",
-      "broadcastCheckedAt": "2026-08-17T21:57:02.385189Z",
+      "broadcastCheckedAt": "2026-08-17T21:57:38.382574Z",
       "broadcastConfidence": ""
     },
     {
@@ -43,7 +43,7 @@
       "scoreFor": null,
       "scoreAgainst": null,
       "broadcastUSSource": "",
-      "broadcastCheckedAt": "2026-08-17T21:57:02.385189Z",
+      "broadcastCheckedAt": "2026-08-17T21:57:38.382574Z",
       "broadcastConfidence": ""
     },
     {
@@ -58,7 +58,7 @@
       "scoreFor": null,
       "scoreAgainst": null,
       "broadcastUSSource": "",
-      "broadcastCheckedAt": "2026-08-17T21:57:02.385189Z",
+      "broadcastCheckedAt": "2026-08-17T21:57:38.382574Z",
       "broadcastConfidence": ""
     },
     {
@@ -73,7 +73,7 @@
       "scoreFor": null,
       "scoreAgainst": null,
       "broadcastUSSource": "",
-      "broadcastCheckedAt": "2026-08-17T21:57:02.385189Z",
+      "broadcastCheckedAt": "2026-08-17T21:57:38.382574Z",
       "broadcastConfidence": ""
     },
     {
@@ -88,7 +88,7 @@
       "scoreFor": null,
       "scoreAgainst": null,
       "broadcastUSSource": "",
-      "broadcastCheckedAt": "2026-08-17T21:57:02.385189Z",
+      "broadcastCheckedAt": "2026-08-17T21:57:38.382574Z",
       "broadcastConfidence": ""
     },
     {
@@ -103,7 +103,7 @@
       "scoreFor": null,
       "scoreAgainst": null,
       "broadcastUSSource": "",
-      "broadcastCheckedAt": "2026-08-17T21:57:02.385189Z",
+      "broadcastCheckedAt": "2026-08-17T21:57:38.382574Z",
       "broadcastConfidence": ""
     },
     {
@@ -118,7 +118,7 @@
       "scoreFor": null,
       "scoreAgainst": null,
       "broadcastUSSource": "",
-      "broadcastCheckedAt": "2026-08-17T21:57:02.385189Z",
+      "broadcastCheckedAt": "2026-08-17T21:57:38.382574Z",
       "broadcastConfidence": ""
     },
     {
@@ -133,7 +133,7 @@
       "scoreFor": null,
       "scoreAgainst": null,
       "broadcastUSSource": "",
-      "broadcastCheckedAt": "2026-08-17T21:57:02.385189Z",
+      "broadcastCheckedAt": "2026-08-17T21:57:38.382574Z",
       "broadcastConfidence": ""
     },
     {
@@ -148,7 +148,7 @@
       "scoreFor": null,
       "scoreAgainst": null,
       "broadcastUSSource": "",
-      "broadcastCheckedAt": "2026-08-17T21:57:02.385189Z",
+      "broadcastCheckedAt": "2026-08-17T21:57:38.382574Z",
       "broadcastConfidence": ""
     },
     {
@@ -163,7 +163,7 @@
       "scoreFor": null,
       "scoreAgainst": null,
       "broadcastUSSource": "",
-      "broadcastCheckedAt": "2026-08-17T21:57:02.385189Z",
+      "broadcastCheckedAt": "2026-08-17T21:57:38.382574Z",
       "broadcastConfidence": ""
     },
     {
@@ -178,7 +178,7 @@
       "scoreFor": null,
       "scoreAgainst": null,
       "broadcastUSSource": "",
-      "broadcastCheckedAt": "2026-08-17T21:57:02.385189Z",
+      "broadcastCheckedAt": "2026-08-17T21:57:38.382574Z",
       "broadcastConfidence": ""
     },
     {
@@ -193,7 +193,7 @@
       "scoreFor": null,
       "scoreAgainst": null,
       "broadcastUSSource": "",
-      "broadcastCheckedAt": "2026-08-17T21:57:02.385189Z",
+      "broadcastCheckedAt": "2026-08-17T21:57:38.382574Z",
       "broadcastConfidence": ""
     },
     {
@@ -208,7 +208,7 @@
       "scoreFor": null,
       "scoreAgainst": null,
       "broadcastUSSource": "",
-      "broadcastCheckedAt": "2026-08-17T21:57:02.385189Z",
+      "broadcastCheckedAt": "2026-08-17T21:57:38.382574Z",
       "broadcastConfidence": ""
     },
     {
@@ -223,7 +223,7 @@
       "scoreFor": null,
       "scoreAgainst": null,
       "broadcastUSSource": "",
-      "broadcastCheckedAt": "2026-08-17T21:57:02.385189Z",
+      "broadcastCheckedAt": "2026-08-17T21:57:38.382574Z",
       "broadcastConfidence": ""
     },
     {
@@ -238,7 +238,7 @@
       "scoreFor": null,
       "scoreAgainst": null,
       "broadcastUSSource": "",
-      "broadcastCheckedAt": "2026-08-17T21:57:02.385189Z",
+      "broadcastCheckedAt": "2026-08-17T21:57:38.382574Z",
       "broadcastConfidence": ""
     },
     {
@@ -253,7 +253,7 @@
       "scoreFor": null,
       "scoreAgainst": null,
       "broadcastUSSource": "",
-      "broadcastCheckedAt": "2026-08-17T21:57:02.385189Z",
+      "broadcastCheckedAt": "2026-08-17T21:57:38.382574Z",
       "broadcastConfidence": ""
     },
     {
@@ -268,7 +268,7 @@
       "scoreFor": null,
       "scoreAgainst": null,
       "broadcastUSSource": "",
-      "broadcastCheckedAt": "2026-08-17T21:57:02.385189Z",
+      "broadcastCheckedAt": "2026-08-17T21:57:38.382574Z",
       "broadcastConfidence": ""
     },
     {
@@ -283,7 +283,7 @@
       "scoreFor": null,
       "scoreAgainst": null,
       "broadcastUSSource": "",
-      "broadcastCheckedAt": "2026-08-17T21:57:02.385189Z",
+      "broadcastCheckedAt": "2026-08-17T21:57:38.382574Z",
       "broadcastConfidence": ""
     },
     {
@@ -298,7 +298,7 @@
       "scoreFor": null,
       "scoreAgainst": null,
       "broadcastUSSource": "",
-      "broadcastCheckedAt": "2026-08-17T21:57:02.385189Z",
+      "broadcastCheckedAt": "2026-08-17T21:57:38.382574Z",
       "broadcastConfidence": ""
     },
     {
@@ -313,7 +313,7 @@
       "scoreFor": null,
       "scoreAgainst": null,
       "broadcastUSSource": "",
-      "broadcastCheckedAt": "2026-08-17T21:57:02.385189Z",
+      "broadcastCheckedAt": "2026-08-17T21:57:38.382574Z",
       "broadcastConfidence": ""
     },
     {
@@ -328,7 +328,7 @@
       "scoreFor": null,
       "scoreAgainst": null,
       "broadcastUSSource": "",
-      "broadcastCheckedAt": "2026-08-17T21:57:02.385189Z",
+      "broadcastCheckedAt": "2026-08-17T21:57:38.382574Z",
       "broadcastConfidence": ""
     },
     {
@@ -343,7 +343,7 @@
       "scoreFor": null,
       "scoreAgainst": null,
       "broadcastUSSource": "",
-      "broadcastCheckedAt": "2026-08-17T21:57:02.385189Z",
+      "broadcastCheckedAt": "2026-08-17T21:57:38.382574Z",
       "broadcastConfidence": ""
     },
     {
@@ -358,7 +358,7 @@
       "scoreFor": null,
       "scoreAgainst": null,
       "broadcastUSSource": "",
-      "broadcastCheckedAt": "2026-08-17T21:57:02.385189Z",
+      "broadcastCheckedAt": "2026-08-17T21:57:38.382574Z",
       "broadcastConfidence": ""
     },
     {
@@ -373,7 +373,7 @@
       "scoreFor": null,
       "scoreAgainst": null,
       "broadcastUSSource": "",
-      "broadcastCheckedAt": "2026-08-17T21:57:02.385189Z",
+      "broadcastCheckedAt": "2026-08-17T21:57:38.382574Z",
       "broadcastConfidence": ""
     },
     {
@@ -388,7 +388,7 @@
       "scoreFor": null,
       "scoreAgainst": null,
       "broadcastUSSource": "",
-      "broadcastCheckedAt": "2026-08-17T21:57:02.385189Z",
+      "broadcastCheckedAt": "2026-08-17T21:57:38.382574Z",
       "broadcastConfidence": ""
     },
     {
@@ -403,7 +403,7 @@
       "scoreFor": null,
       "scoreAgainst": null,
       "broadcastUSSource": "",
-      "broadcastCheckedAt": "2026-08-17T21:57:02.385189Z",
+      "broadcastCheckedAt": "2026-08-17T21:57:38.382574Z",
       "broadcastConfidence": ""
     },
     {
@@ -418,7 +418,7 @@
       "scoreFor": null,
       "scoreAgainst": null,
       "broadcastUSSource": "",
-      "broadcastCheckedAt": "2026-08-17T21:57:02.385189Z",
+      "broadcastCheckedAt": "2026-08-17T21:57:38.382574Z",
       "broadcastConfidence": ""
     },
     {
@@ -433,7 +433,7 @@
       "scoreFor": null,
       "scoreAgainst": null,
       "broadcastUSSource": "",
-      "broadcastCheckedAt": "2026-08-17T21:57:02.385189Z",
+      "broadcastCheckedAt": "2026-08-17T21:57:38.382574Z",
       "broadcastConfidence": ""
     },
     {
@@ -448,7 +448,7 @@
       "scoreFor": null,
       "scoreAgainst": null,
       "broadcastUSSource": "",
-      "broadcastCheckedAt": "2026-08-17T21:57:02.385189Z",
+      "broadcastCheckedAt": "2026-08-17T21:57:38.382574Z",
       "broadcastConfidence": ""
     },
     {
@@ -463,7 +463,7 @@
       "scoreFor": null,
       "scoreAgainst": null,
       "broadcastUSSource": "",
-      "broadcastCheckedAt": "2026-08-17T21:57:02.385189Z",
+      "broadcastCheckedAt": "2026-08-17T21:57:38.382574Z",
       "broadcastConfidence": ""
     },
     {
@@ -478,7 +478,7 @@
       "scoreFor": null,
       "scoreAgainst": null,
       "broadcastUSSource": "",
-      "broadcastCheckedAt": "2026-08-17T21:57:02.385189Z",
+      "broadcastCheckedAt": "2026-08-17T21:57:38.382574Z",
       "broadcastConfidence": ""
     },
     {
@@ -493,7 +493,7 @@
       "scoreFor": null,
       "scoreAgainst": null,
       "broadcastUSSource": "",
-      "broadcastCheckedAt": "2026-08-17T21:57:02.385189Z",
+      "broadcastCheckedAt": "2026-08-17T21:57:38.382574Z",
       "broadcastConfidence": ""
     },
     {
@@ -508,7 +508,7 @@
       "scoreFor": null,
       "scoreAgainst": null,
       "broadcastUSSource": "",
-      "broadcastCheckedAt": "2026-08-17T21:57:02.385189Z",
+      "broadcastCheckedAt": "2026-08-17T21:57:38.382574Z",
       "broadcastConfidence": ""
     },
     {
@@ -523,7 +523,7 @@
       "scoreFor": null,
       "scoreAgainst": null,
       "broadcastUSSource": "",
-      "broadcastCheckedAt": "2026-08-17T21:57:02.385189Z",
+      "broadcastCheckedAt": "2026-08-17T21:57:38.382574Z",
       "broadcastConfidence": ""
     },
     {
@@ -538,7 +538,7 @@
       "scoreFor": null,
       "scoreAgainst": null,
       "broadcastUSSource": "",
-      "broadcastCheckedAt": "2026-08-17T21:57:02.385189Z",
+      "broadcastCheckedAt": "2026-08-17T21:57:38.382574Z",
       "broadcastConfidence": ""
     },
     {
@@ -553,7 +553,7 @@
       "scoreFor": null,
       "scoreAgainst": null,
       "broadcastUSSource": "",
-      "broadcastCheckedAt": "2026-08-17T21:57:02.385189Z",
+      "broadcastCheckedAt": "2026-08-17T21:57:38.382574Z",
       "broadcastConfidence": ""
     },
     {
@@ -568,7 +568,7 @@
       "scoreFor": null,
       "scoreAgainst": null,
       "broadcastUSSource": "",
-      "broadcastCheckedAt": "2026-08-17T21:57:02.385189Z",
+      "broadcastCheckedAt": "2026-08-17T21:57:38.382574Z",
       "broadcastConfidence": ""
     }
   ],
@@ -948,12 +948,12 @@
   ],
   "dataHealth": {
     "fixtures": "PL preserved; LFC cup/UCL additions enabled",
-    "broadcastUS": "exact-row/date official scan completed",
+    "broadcastUS": "official broadcaster table-row scan completed",
     "premierLeagueTable": "BBC Sport UK fallback"
   },
   "dataSources": {
     "fixtures": "Liverpool FC official; PL identity protected; named UCL/FA/Carabao fixtures added automatically",
     "premierLeagueTable": "PremierLeague.com official → BBC Sport fallback",
-    "broadcastUS": "Exact match row + exact date required from NBC Sports / CBS Sports / ESPN; Paramount+ guaranteed baseline for UCL"
+    "broadcastUS": "Same match + same date + same official broadcaster table row required; Paramount+ guaranteed baseline for UCL"
   }
 }
