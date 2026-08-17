@@ -1,461 +1,873 @@
 {
-  "updated": "2026-08-17T21:03:57.414994Z",
+  "updated": "2026-08-17T21:41:56.019721Z",
   "fixtures": [
     {
-      "id": "20260823-newcastle-united",
+      "id": "bbc-202608231130-nottingham-forest",
+      "date": "2026-08-23T11:30:00Z",
+      "opponent": "Nottingham Forest",
+      "homeAway": "H",
+      "competition": "Premier League",
+      "venue": "Anfield",
+      "broadcastUS": "TBA",
+      "broadcastUSSource": "",
+      "status": "scheduled",
+      "scoreFor": null,
+      "scoreAgainst": null,
+      "fixtureSource": "BBC Sport UK fallback"
+    },
+    {
+      "id": "bbc-202608231530-newcastle-united",
       "date": "2026-08-23T15:30:00Z",
       "opponent": "Newcastle United",
       "homeAway": "A",
       "competition": "Premier League",
       "venue": "St. James' Park",
       "broadcastUS": "USA Network",
+      "broadcastUSSource": "",
       "status": "scheduled",
       "scoreFor": null,
-      "scoreAgainst": null
+      "scoreAgainst": null,
+      "fixtureSource": "BBC Sport UK fallback"
     },
     {
-      "id": "20260829-nottingham-forest",
+      "id": "bbc-202608291130-nottingham-forest",
       "date": "2026-08-29T11:30:00Z",
       "opponent": "Nottingham Forest",
+      "homeAway": "A",
+      "competition": "Premier League",
+      "venue": "Anfield",
+      "broadcastUS": "TBA",
+      "broadcastUSSource": "",
+      "status": "scheduled",
+      "scoreFor": null,
+      "scoreAgainst": null,
+      "fixtureSource": "BBC Sport UK fallback"
+    },
+    {
+      "id": "bbc-202609041400-fulham",
+      "date": "2026-09-04T14:00:00Z",
+      "opponent": "Fulham",
       "homeAway": "H",
       "competition": "Premier League",
       "venue": "Anfield",
       "broadcastUS": "TBA",
+      "broadcastUSSource": "",
       "status": "scheduled",
       "scoreFor": null,
-      "scoreAgainst": null
+      "scoreAgainst": null,
+      "fixtureSource": "BBC Sport UK fallback"
     },
     {
-      "id": "20260904-ipswich-town",
+      "id": "bbc-202609041900-ipswich-town",
       "date": "2026-09-04T19:00:00Z",
       "opponent": "Ipswich Town",
       "homeAway": "A",
       "competition": "Premier League",
       "venue": "Portman Road",
       "broadcastUS": "TBA",
+      "broadcastUSSource": "",
       "status": "scheduled",
       "scoreFor": null,
-      "scoreAgainst": null
+      "scoreAgainst": null,
+      "fixtureSource": "BBC Sport UK fallback"
     },
     {
-      "id": "20260912-fulham",
+      "id": "bbc-202609121300-afc-bournemouth",
+      "date": "2026-09-12T13:00:00Z",
+      "opponent": "AFC Bournemouth",
+      "homeAway": "A",
+      "competition": "Premier League",
+      "venue": "Vitality Stadium",
+      "broadcastUS": "TBA",
+      "broadcastUSSource": "",
+      "status": "scheduled",
+      "scoreFor": null,
+      "scoreAgainst": null,
+      "fixtureSource": "BBC Sport UK fallback"
+    },
+    {
+      "id": "bbc-202609121400-fulham",
       "date": "2026-09-12T14:00:00Z",
       "opponent": "Fulham",
       "homeAway": "H",
       "competition": "Premier League",
       "venue": "Anfield",
       "broadcastUS": "TBA",
+      "broadcastUSSource": "",
       "status": "scheduled",
       "scoreFor": null,
-      "scoreAgainst": null
+      "scoreAgainst": null,
+      "fixtureSource": "BBC Sport UK fallback"
     },
     {
-      "id": "20260920-afc-bournemouth",
+      "id": "bbc-202609201300-afc-bournemouth",
       "date": "2026-09-20T13:00:00Z",
       "opponent": "AFC Bournemouth",
       "homeAway": "A",
       "competition": "Premier League",
       "venue": "Vitality Stadium",
       "broadcastUS": "TBA",
+      "broadcastUSSource": "",
       "status": "scheduled",
       "scoreFor": null,
-      "scoreAgainst": null
+      "scoreAgainst": null,
+      "fixtureSource": "BBC Sport UK fallback"
     },
     {
-      "id": "20261010-manchester-city",
-      "date": "2026-10-10T14:00:00Z",
+      "id": "bbc-202610111530-manchester-city",
+      "date": "2026-10-11T15:30:00Z",
       "opponent": "Manchester City",
-      "homeAway": "H",
+      "homeAway": "A",
       "competition": "Premier League",
       "venue": "Anfield",
       "broadcastUS": "TBA",
+      "broadcastUSSource": "",
       "status": "scheduled",
       "scoreFor": null,
-      "scoreAgainst": null
+      "scoreAgainst": null,
+      "fixtureSource": "BBC Sport UK fallback"
     },
     {
-      "id": "20261017-brentford",
+      "id": "bbc-202610171400-brentford",
       "date": "2026-10-17T14:00:00Z",
       "opponent": "Brentford",
-      "homeAway": "A",
+      "homeAway": "H",
       "competition": "Premier League",
       "venue": "Gtech Community Stadium",
       "broadcastUS": "TBA",
+      "broadcastUSSource": "",
       "status": "scheduled",
       "scoreFor": null,
-      "scoreAgainst": null
+      "scoreAgainst": null,
+      "fixtureSource": "BBC Sport UK fallback"
     },
     {
-      "id": "20261024-brighton",
-      "date": "2026-10-24T14:00:00Z",
+      "id": "bbc-202610171400-brighton-hove-albion",
+      "date": "2026-10-17T14:00:00Z",
       "opponent": "Brighton & Hove Albion",
       "homeAway": "H",
       "competition": "Premier League",
       "venue": "Anfield",
       "broadcastUS": "TBA",
+      "broadcastUSSource": "",
       "status": "scheduled",
       "scoreFor": null,
-      "scoreAgainst": null
+      "scoreAgainst": null,
+      "fixtureSource": "BBC Sport UK fallback"
     },
     {
-      "id": "20261031-arsenal",
-      "date": "2026-10-31T15:00:00Z",
+      "id": "bbc-202610241400-brighton-hove-albion",
+      "date": "2026-10-24T14:00:00Z",
+      "opponent": "Brighton & Hove Albion",
+      "homeAway": "A",
+      "competition": "Premier League",
+      "venue": "Anfield",
+      "broadcastUS": "TBA",
+      "broadcastUSSource": "",
+      "status": "scheduled",
+      "scoreFor": null,
+      "scoreAgainst": null,
+      "fixtureSource": "BBC Sport UK fallback"
+    },
+    {
+      "id": "bbc-202611011500-crystal-palace",
+      "date": "2026-11-01T15:00:00Z",
+      "opponent": "Crystal Palace",
+      "homeAway": "A",
+      "competition": "Premier League",
+      "venue": "Selhurst Park",
+      "broadcastUS": "TBA",
+      "broadcastUSSource": "",
+      "status": "scheduled",
+      "scoreFor": null,
+      "scoreAgainst": null,
+      "fixtureSource": "BBC Sport UK fallback"
+    },
+    {
+      "id": "bbc-202611011630-arsenal",
+      "date": "2026-11-01T16:30:00Z",
       "opponent": "Arsenal",
       "homeAway": "H",
       "competition": "Premier League",
       "venue": "Anfield",
       "broadcastUS": "TBA",
+      "broadcastUSSource": "",
       "status": "scheduled",
       "scoreFor": null,
-      "scoreAgainst": null
+      "scoreAgainst": null,
+      "fixtureSource": "BBC Sport UK fallback"
     },
     {
-      "id": "20261107-crystal-palace",
+      "id": "bbc-202611071500-crystal-palace",
       "date": "2026-11-07T15:00:00Z",
       "opponent": "Crystal Palace",
       "homeAway": "A",
       "competition": "Premier League",
       "venue": "Selhurst Park",
       "broadcastUS": "TBA",
+      "broadcastUSSource": "",
       "status": "scheduled",
       "scoreFor": null,
-      "scoreAgainst": null
+      "scoreAgainst": null,
+      "fixtureSource": "BBC Sport UK fallback"
     },
     {
-      "id": "20261121-manchester-united",
-      "date": "2026-11-21T15:00:00Z",
+      "id": "bbc-202611071500-manchester-united",
+      "date": "2026-11-07T15:00:00Z",
       "opponent": "Manchester United",
       "homeAway": "H",
       "competition": "Premier League",
       "venue": "Anfield",
       "broadcastUS": "TBA",
+      "broadcastUSSource": "",
       "status": "scheduled",
       "scoreFor": null,
-      "scoreAgainst": null
+      "scoreAgainst": null,
+      "fixtureSource": "BBC Sport UK fallback"
     },
     {
-      "id": "20261128-everton",
-      "date": "2026-11-28T15:00:00Z",
-      "opponent": "Everton",
+      "id": "bbc-202611211500-manchester-united",
+      "date": "2026-11-21T15:00:00Z",
+      "opponent": "Manchester United",
       "homeAway": "A",
-      "competition": "Premier League",
-      "venue": "Hill Dickinson Stadium",
-      "broadcastUS": "TBA",
-      "status": "scheduled",
-      "scoreFor": null,
-      "scoreAgainst": null
-    },
-    {
-      "id": "20261202-sunderland",
-      "date": "2026-12-02T20:00:00Z",
-      "opponent": "Sunderland",
-      "homeAway": "H",
       "competition": "Premier League",
       "venue": "Anfield",
       "broadcastUS": "TBA",
+      "broadcastUSSource": "",
       "status": "scheduled",
       "scoreFor": null,
-      "scoreAgainst": null
+      "scoreAgainst": null,
+      "fixtureSource": "BBC Sport UK fallback"
     },
     {
-      "id": "20261205-chelsea",
+      "id": "bbc-202611281500-everton",
+      "date": "2026-11-28T15:00:00Z",
+      "opponent": "Everton",
+      "homeAway": "H",
+      "competition": "Premier League",
+      "venue": "Hill Dickinson Stadium",
+      "broadcastUS": "TBA",
+      "broadcastUSSource": "",
+      "status": "scheduled",
+      "scoreFor": null,
+      "scoreAgainst": null,
+      "fixtureSource": "BBC Sport UK fallback"
+    },
+    {
+      "id": "bbc-202612022000-sunderland",
+      "date": "2026-12-02T20:00:00Z",
+      "opponent": "Sunderland",
+      "homeAway": "A",
+      "competition": "Premier League",
+      "venue": "Anfield",
+      "broadcastUS": "TBA",
+      "broadcastUSSource": "",
+      "status": "scheduled",
+      "scoreFor": null,
+      "scoreAgainst": null,
+      "fixtureSource": "BBC Sport UK fallback"
+    },
+    {
+      "id": "bbc-202612051500-chelsea",
       "date": "2026-12-05T15:00:00Z",
       "opponent": "Chelsea",
-      "homeAway": "A",
+      "homeAway": "H",
       "competition": "Premier League",
       "venue": "Stamford Bridge",
       "broadcastUS": "TBA",
+      "broadcastUSSource": "",
       "status": "scheduled",
       "scoreFor": null,
-      "scoreAgainst": null
+      "scoreAgainst": null,
+      "fixtureSource": "BBC Sport UK fallback"
     },
     {
-      "id": "20261212-leeds-united",
-      "date": "2026-12-12T15:00:00Z",
+      "id": "bbc-202612051500-leeds-united",
+      "date": "2026-12-05T15:00:00Z",
       "opponent": "Leeds United",
       "homeAway": "H",
       "competition": "Premier League",
       "venue": "Anfield",
       "broadcastUS": "TBA",
+      "broadcastUSSource": "",
       "status": "scheduled",
       "scoreFor": null,
-      "scoreAgainst": null
+      "scoreAgainst": null,
+      "fixtureSource": "BBC Sport UK fallback"
     },
     {
-      "id": "20261219-tottenham",
-      "date": "2026-12-19T15:00:00Z",
-      "opponent": "Tottenham Hotspur",
-      "homeAway": "H",
+      "id": "bbc-202612121500-leeds-united",
+      "date": "2026-12-12T15:00:00Z",
+      "opponent": "Leeds United",
+      "homeAway": "A",
       "competition": "Premier League",
       "venue": "Anfield",
       "broadcastUS": "TBA",
+      "broadcastUSSource": "",
       "status": "scheduled",
       "scoreFor": null,
-      "scoreAgainst": null
+      "scoreAgainst": null,
+      "fixtureSource": "BBC Sport UK fallback"
     },
     {
-      "id": "20261226-hull-city",
+      "id": "bbc-202612121500-tottenham-hotspur",
+      "date": "2026-12-12T15:00:00Z",
+      "opponent": "Tottenham Hotspur",
+      "homeAway": "A",
+      "competition": "Premier League",
+      "venue": "Anfield",
+      "broadcastUS": "TBA",
+      "broadcastUSSource": "",
+      "status": "scheduled",
+      "scoreFor": null,
+      "scoreAgainst": null,
+      "fixtureSource": "BBC Sport UK fallback"
+    },
+    {
+      "id": "bbc-202612191500-tottenham-hotspur",
+      "date": "2026-12-19T15:00:00Z",
+      "opponent": "Tottenham Hotspur",
+      "homeAway": "A",
+      "competition": "Premier League",
+      "venue": "Anfield",
+      "broadcastUS": "TBA",
+      "broadcastUSSource": "",
+      "status": "scheduled",
+      "scoreFor": null,
+      "scoreAgainst": null,
+      "fixtureSource": "BBC Sport UK fallback"
+    },
+    {
+      "id": "bbc-202612191500-hull-city",
+      "date": "2026-12-19T15:00:00Z",
+      "opponent": "Hull City",
+      "homeAway": "A",
+      "competition": "Premier League",
+      "venue": "MKM Stadium",
+      "broadcastUS": "TBA",
+      "broadcastUSSource": "",
+      "status": "scheduled",
+      "scoreFor": null,
+      "scoreAgainst": null,
+      "fixtureSource": "BBC Sport UK fallback"
+    },
+    {
+      "id": "bbc-202612261500-hull-city",
       "date": "2026-12-26T15:00:00Z",
       "opponent": "Hull City",
       "homeAway": "A",
       "competition": "Premier League",
       "venue": "MKM Stadium",
       "broadcastUS": "TBA",
+      "broadcastUSSource": "",
       "status": "scheduled",
       "scoreFor": null,
-      "scoreAgainst": null
+      "scoreAgainst": null,
+      "fixtureSource": "BBC Sport UK fallback"
     },
     {
-      "id": "20261230-aston-villa",
+      "id": "bbc-202612262000-aston-villa",
+      "date": "2026-12-26T20:00:00Z",
+      "opponent": "Aston Villa",
+      "homeAway": "H",
+      "competition": "Premier League",
+      "venue": "Villa Park",
+      "broadcastUS": "TBA",
+      "broadcastUSSource": "",
+      "status": "scheduled",
+      "scoreFor": null,
+      "scoreAgainst": null,
+      "fixtureSource": "BBC Sport UK fallback"
+    },
+    {
+      "id": "bbc-202612302000-aston-villa",
       "date": "2026-12-30T20:00:00Z",
       "opponent": "Aston Villa",
       "homeAway": "A",
       "competition": "Premier League",
       "venue": "Villa Park",
       "broadcastUS": "TBA",
+      "broadcastUSSource": "",
       "status": "scheduled",
       "scoreFor": null,
-      "scoreAgainst": null
+      "scoreAgainst": null,
+      "fixtureSource": "BBC Sport UK fallback"
     },
     {
-      "id": "20270102-coventry-city",
+      "id": "bbc-202701021500-coventry-city",
       "date": "2027-01-02T15:00:00Z",
       "opponent": "Coventry City",
+      "homeAway": "A",
+      "competition": "Premier League",
+      "venue": "Anfield",
+      "broadcastUS": "TBA",
+      "broadcastUSSource": "",
+      "status": "scheduled",
+      "scoreFor": null,
+      "scoreAgainst": null,
+      "fixtureSource": "BBC Sport UK fallback"
+    },
+    {
+      "id": "bbc-202701022000-sunderland",
+      "date": "2027-01-02T20:00:00Z",
+      "opponent": "Sunderland",
+      "homeAway": "A",
+      "competition": "Premier League",
+      "venue": "Stadium of Light",
+      "broadcastUS": "TBA",
+      "broadcastUSSource": "",
+      "status": "scheduled",
+      "scoreFor": null,
+      "scoreAgainst": null,
+      "fixtureSource": "BBC Sport UK fallback"
+    },
+    {
+      "id": "bbc-202701061500-crystal-palace",
+      "date": "2027-01-06T15:00:00Z",
+      "opponent": "Crystal Palace",
       "homeAway": "H",
       "competition": "Premier League",
       "venue": "Anfield",
       "broadcastUS": "TBA",
+      "broadcastUSSource": "",
       "status": "scheduled",
       "scoreFor": null,
-      "scoreAgainst": null
+      "scoreAgainst": null,
+      "fixtureSource": "BBC Sport UK fallback"
     },
     {
-      "id": "20270106-sunderland",
+      "id": "bbc-202701062000-sunderland",
       "date": "2027-01-06T20:00:00Z",
       "opponent": "Sunderland",
       "homeAway": "A",
       "competition": "Premier League",
       "venue": "Stadium of Light",
       "broadcastUS": "TBA",
+      "broadcastUSSource": "",
       "status": "scheduled",
       "scoreFor": null,
-      "scoreAgainst": null
+      "scoreAgainst": null,
+      "fixtureSource": "BBC Sport UK fallback"
     },
     {
-      "id": "20270116-crystal-palace",
+      "id": "bbc-202701161500-crystal-palace",
       "date": "2027-01-16T15:00:00Z",
       "opponent": "Crystal Palace",
-      "homeAway": "H",
+      "homeAway": "A",
       "competition": "Premier League",
       "venue": "Anfield",
       "broadcastUS": "TBA",
+      "broadcastUSSource": "",
       "status": "scheduled",
       "scoreFor": null,
-      "scoreAgainst": null
+      "scoreAgainst": null,
+      "fixtureSource": "BBC Sport UK fallback"
     },
     {
-      "id": "20270123-manchester-united",
+      "id": "bbc-202701161500-manchester-united",
+      "date": "2027-01-16T15:00:00Z",
+      "opponent": "Manchester United",
+      "homeAway": "A",
+      "competition": "Premier League",
+      "venue": "Old Trafford",
+      "broadcastUS": "TBA",
+      "broadcastUSSource": "",
+      "status": "scheduled",
+      "scoreFor": null,
+      "scoreAgainst": null,
+      "fixtureSource": "BBC Sport UK fallback"
+    },
+    {
+      "id": "bbc-202701231500-manchester-united",
       "date": "2027-01-23T15:00:00Z",
       "opponent": "Manchester United",
       "homeAway": "A",
       "competition": "Premier League",
       "venue": "Old Trafford",
       "broadcastUS": "TBA",
+      "broadcastUSSource": "",
       "status": "scheduled",
       "scoreFor": null,
-      "scoreAgainst": null
+      "scoreAgainst": null,
+      "fixtureSource": "BBC Sport UK fallback"
     },
     {
-      "id": "20270130-everton",
+      "id": "bbc-202701231500-everton",
+      "date": "2027-01-23T15:00:00Z",
+      "opponent": "Everton",
+      "homeAway": "H",
+      "competition": "Premier League",
+      "venue": "Anfield",
+      "broadcastUS": "TBA",
+      "broadcastUSSource": "",
+      "status": "scheduled",
+      "scoreFor": null,
+      "scoreAgainst": null,
+      "fixtureSource": "BBC Sport UK fallback"
+    },
+    {
+      "id": "bbc-202701301500-everton",
       "date": "2027-01-30T15:00:00Z",
       "opponent": "Everton",
       "homeAway": "H",
       "competition": "Premier League",
       "venue": "Anfield",
       "broadcastUS": "TBA",
+      "broadcastUSSource": "",
       "status": "scheduled",
       "scoreFor": null,
-      "scoreAgainst": null
+      "scoreAgainst": null,
+      "fixtureSource": "BBC Sport UK fallback"
     },
     {
-      "id": "20270206-arsenal",
+      "id": "bbc-202702061500-arsenal",
       "date": "2027-02-06T15:00:00Z",
       "opponent": "Arsenal",
-      "homeAway": "A",
+      "homeAway": "H",
       "competition": "Premier League",
       "venue": "Emirates Stadium",
       "broadcastUS": "TBA",
+      "broadcastUSSource": "",
       "status": "scheduled",
       "scoreFor": null,
-      "scoreAgainst": null
+      "scoreAgainst": null,
+      "fixtureSource": "BBC Sport UK fallback"
     },
     {
-      "id": "20270210-coventry-city",
+      "id": "bbc-202702062000-coventry-city",
+      "date": "2027-02-06T20:00:00Z",
+      "opponent": "Coventry City",
+      "homeAway": "H",
+      "competition": "Premier League",
+      "venue": "Coventry Building Society Arena",
+      "broadcastUS": "TBA",
+      "broadcastUSSource": "",
+      "status": "scheduled",
+      "scoreFor": null,
+      "scoreAgainst": null,
+      "fixtureSource": "BBC Sport UK fallback"
+    },
+    {
+      "id": "bbc-202702101500-hull-city",
+      "date": "2027-02-10T15:00:00Z",
+      "opponent": "Hull City",
+      "homeAway": "H",
+      "competition": "Premier League",
+      "venue": "Anfield",
+      "broadcastUS": "TBA",
+      "broadcastUSSource": "",
+      "status": "scheduled",
+      "scoreFor": null,
+      "scoreAgainst": null,
+      "fixtureSource": "BBC Sport UK fallback"
+    },
+    {
+      "id": "bbc-202702102000-coventry-city",
       "date": "2027-02-10T20:00:00Z",
       "opponent": "Coventry City",
       "homeAway": "A",
       "competition": "Premier League",
       "venue": "Coventry Building Society Arena",
       "broadcastUS": "TBA",
+      "broadcastUSSource": "",
       "status": "scheduled",
       "scoreFor": null,
-      "scoreAgainst": null
+      "scoreAgainst": null,
+      "fixtureSource": "BBC Sport UK fallback"
     },
     {
-      "id": "20270220-hull-city",
+      "id": "bbc-202702201500-hull-city",
       "date": "2027-02-20T15:00:00Z",
       "opponent": "Hull City",
-      "homeAway": "H",
+      "homeAway": "A",
       "competition": "Premier League",
       "venue": "Anfield",
       "broadcastUS": "TBA",
+      "broadcastUSSource": "",
       "status": "scheduled",
       "scoreFor": null,
-      "scoreAgainst": null
+      "scoreAgainst": null,
+      "fixtureSource": "BBC Sport UK fallback"
     },
     {
-      "id": "20270227-tottenham",
+      "id": "bbc-202702201500-tottenham-hotspur",
+      "date": "2027-02-20T15:00:00Z",
+      "opponent": "Tottenham Hotspur",
+      "homeAway": "A",
+      "competition": "Premier League",
+      "venue": "Tottenham Hotspur Stadium",
+      "broadcastUS": "TBA",
+      "broadcastUSSource": "",
+      "status": "scheduled",
+      "scoreFor": null,
+      "scoreAgainst": null,
+      "fixtureSource": "BBC Sport UK fallback"
+    },
+    {
+      "id": "bbc-202702271500-tottenham-hotspur",
       "date": "2027-02-27T15:00:00Z",
       "opponent": "Tottenham Hotspur",
       "homeAway": "A",
       "competition": "Premier League",
       "venue": "Tottenham Hotspur Stadium",
       "broadcastUS": "TBA",
+      "broadcastUSSource": "",
       "status": "scheduled",
       "scoreFor": null,
-      "scoreAgainst": null
+      "scoreAgainst": null,
+      "fixtureSource": "BBC Sport UK fallback"
     },
     {
-      "id": "20270303-aston-villa",
+      "id": "bbc-202703031500-ipswich-town",
+      "date": "2027-03-03T15:00:00Z",
+      "opponent": "Ipswich Town",
+      "homeAway": "A",
+      "competition": "Premier League",
+      "venue": "Anfield",
+      "broadcastUS": "TBA",
+      "broadcastUSSource": "",
+      "status": "scheduled",
+      "scoreFor": null,
+      "scoreAgainst": null,
+      "fixtureSource": "BBC Sport UK fallback"
+    },
+    {
+      "id": "bbc-202703032000-aston-villa",
       "date": "2027-03-03T20:00:00Z",
       "opponent": "Aston Villa",
-      "homeAway": "H",
+      "homeAway": "A",
       "competition": "Premier League",
       "venue": "Anfield",
       "broadcastUS": "TBA",
+      "broadcastUSSource": "",
       "status": "scheduled",
       "scoreFor": null,
-      "scoreAgainst": null
+      "scoreAgainst": null,
+      "fixtureSource": "BBC Sport UK fallback"
     },
     {
-      "id": "20270313-ipswich-town",
+      "id": "bbc-202703131500-ipswich-town",
       "date": "2027-03-13T15:00:00Z",
       "opponent": "Ipswich Town",
-      "homeAway": "H",
+      "homeAway": "A",
       "competition": "Premier League",
       "venue": "Anfield",
       "broadcastUS": "TBA",
+      "broadcastUSSource": "",
       "status": "scheduled",
       "scoreFor": null,
-      "scoreAgainst": null
+      "scoreAgainst": null,
+      "fixtureSource": "BBC Sport UK fallback"
     },
     {
-      "id": "20270320-fulham",
+      "id": "bbc-202703201500-fulham",
       "date": "2027-03-20T15:00:00Z",
       "opponent": "Fulham",
-      "homeAway": "A",
+      "homeAway": "H",
       "competition": "Premier League",
       "venue": "Craven Cottage",
       "broadcastUS": "TBA",
+      "broadcastUSSource": "",
       "status": "scheduled",
       "scoreFor": null,
-      "scoreAgainst": null
+      "scoreAgainst": null,
+      "fixtureSource": "BBC Sport UK fallback"
     },
     {
-      "id": "20270410-newcastle-united",
+      "id": "bbc-202704101400-newcastle-united",
       "date": "2027-04-10T14:00:00Z",
       "opponent": "Newcastle United",
-      "homeAway": "H",
+      "homeAway": "A",
       "competition": "Premier League",
       "venue": "Anfield",
       "broadcastUS": "TBA",
+      "broadcastUSSource": "",
       "status": "scheduled",
       "scoreFor": null,
-      "scoreAgainst": null
+      "scoreAgainst": null,
+      "fixtureSource": "BBC Sport UK fallback"
     },
     {
-      "id": "20270417-nottingham-forest",
+      "id": "bbc-202704101400-nottingham-forest",
+      "date": "2027-04-10T14:00:00Z",
+      "opponent": "Nottingham Forest",
+      "homeAway": "A",
+      "competition": "Premier League",
+      "venue": "City Ground",
+      "broadcastUS": "TBA",
+      "broadcastUSSource": "",
+      "status": "scheduled",
+      "scoreFor": null,
+      "scoreAgainst": null,
+      "fixtureSource": "BBC Sport UK fallback"
+    },
+    {
+      "id": "bbc-202704171400-nottingham-forest",
       "date": "2027-04-17T14:00:00Z",
       "opponent": "Nottingham Forest",
       "homeAway": "A",
       "competition": "Premier League",
       "venue": "City Ground",
       "broadcastUS": "TBA",
+      "broadcastUSSource": "",
       "status": "scheduled",
       "scoreFor": null,
-      "scoreAgainst": null
+      "scoreAgainst": null,
+      "fixtureSource": "BBC Sport UK fallback"
     },
     {
-      "id": "20270424-leeds-united",
+      "id": "bbc-202704171400-leeds-united",
+      "date": "2027-04-17T14:00:00Z",
+      "opponent": "Leeds United",
+      "homeAway": "H",
+      "competition": "Premier League",
+      "venue": "Elland Road",
+      "broadcastUS": "TBA",
+      "broadcastUSSource": "",
+      "status": "scheduled",
+      "scoreFor": null,
+      "scoreAgainst": null,
+      "fixtureSource": "BBC Sport UK fallback"
+    },
+    {
+      "id": "bbc-202704241400-leeds-united",
       "date": "2027-04-24T14:00:00Z",
       "opponent": "Leeds United",
       "homeAway": "A",
       "competition": "Premier League",
       "venue": "Elland Road",
       "broadcastUS": "TBA",
+      "broadcastUSSource": "",
       "status": "scheduled",
       "scoreFor": null,
-      "scoreAgainst": null
+      "scoreAgainst": null,
+      "fixtureSource": "BBC Sport UK fallback"
     },
     {
-      "id": "20270501-chelsea",
+      "id": "bbc-202705011400-chelsea",
       "date": "2027-05-01T14:00:00Z",
       "opponent": "Chelsea",
       "homeAway": "H",
       "competition": "Premier League",
       "venue": "Anfield",
       "broadcastUS": "TBA",
+      "broadcastUSSource": "",
       "status": "scheduled",
       "scoreFor": null,
-      "scoreAgainst": null
+      "scoreAgainst": null,
+      "fixtureSource": "BBC Sport UK fallback"
     },
     {
-      "id": "20270508-manchester-city",
+      "id": "bbc-202705011400-manchester-city",
+      "date": "2027-05-01T14:00:00Z",
+      "opponent": "Manchester City",
+      "homeAway": "A",
+      "competition": "Premier League",
+      "venue": "Etihad Stadium",
+      "broadcastUS": "TBA",
+      "broadcastUSSource": "",
+      "status": "scheduled",
+      "scoreFor": null,
+      "scoreAgainst": null,
+      "fixtureSource": "BBC Sport UK fallback"
+    },
+    {
+      "id": "bbc-202705081400-manchester-city",
       "date": "2027-05-08T14:00:00Z",
       "opponent": "Manchester City",
       "homeAway": "A",
       "competition": "Premier League",
       "venue": "Etihad Stadium",
       "broadcastUS": "TBA",
+      "broadcastUSSource": "",
       "status": "scheduled",
       "scoreFor": null,
-      "scoreAgainst": null
+      "scoreAgainst": null,
+      "fixtureSource": "BBC Sport UK fallback"
     },
     {
-      "id": "20270515-brentford",
+      "id": "bbc-202705081400-brentford",
+      "date": "2027-05-08T14:00:00Z",
+      "opponent": "Brentford",
+      "homeAway": "H",
+      "competition": "Premier League",
+      "venue": "Anfield",
+      "broadcastUS": "TBA",
+      "broadcastUSSource": "",
+      "status": "scheduled",
+      "scoreFor": null,
+      "scoreAgainst": null,
+      "fixtureSource": "BBC Sport UK fallback"
+    },
+    {
+      "id": "bbc-202705151400-brentford",
       "date": "2027-05-15T14:00:00Z",
       "opponent": "Brentford",
       "homeAway": "H",
       "competition": "Premier League",
       "venue": "Anfield",
       "broadcastUS": "TBA",
+      "broadcastUSSource": "",
       "status": "scheduled",
       "scoreFor": null,
-      "scoreAgainst": null
+      "scoreAgainst": null,
+      "fixtureSource": "BBC Sport UK fallback"
     },
     {
-      "id": "20270523-brighton",
+      "id": "bbc-202705151400-brighton-hove-albion",
+      "date": "2027-05-15T14:00:00Z",
+      "opponent": "Brighton & Hove Albion",
+      "homeAway": "A",
+      "competition": "Premier League",
+      "venue": "Amex Stadium",
+      "broadcastUS": "TBA",
+      "broadcastUSSource": "",
+      "status": "scheduled",
+      "scoreFor": null,
+      "scoreAgainst": null,
+      "fixtureSource": "BBC Sport UK fallback"
+    },
+    {
+      "id": "bbc-202705231400-brighton-hove-albion",
       "date": "2027-05-23T14:00:00Z",
       "opponent": "Brighton & Hove Albion",
       "homeAway": "A",
       "competition": "Premier League",
       "venue": "Amex Stadium",
       "broadcastUS": "TBA",
+      "broadcastUSSource": "",
       "status": "scheduled",
       "scoreFor": null,
-      "scoreAgainst": null
+      "scoreAgainst": null,
+      "fixtureSource": "BBC Sport UK fallback"
     },
     {
-      "id": "20270530-afc-bournemouth",
-      "date": "2027-05-30T15:00:00Z",
+      "id": "bbc-202705231500-afc-bournemouth",
+      "date": "2027-05-23T15:00:00Z",
       "opponent": "AFC Bournemouth",
       "homeAway": "H",
       "competition": "Premier League",
       "venue": "Anfield",
       "broadcastUS": "TBA",
+      "broadcastUSSource": "",
       "status": "scheduled",
       "scoreFor": null,
-      "scoreAgainst": null
+      "scoreAgainst": null,
+      "fixtureSource": "BBC Sport UK fallback"
+    },
+    {
+      "id": "bbc-202705301500-afc-bournemouth",
+      "date": "2027-05-30T15:00:00Z",
+      "opponent": "AFC Bournemouth",
+      "homeAway": "A",
+      "competition": "Premier League",
+      "venue": "Anfield",
+      "broadcastUS": "TBA",
+      "broadcastUSSource": "",
+      "status": "scheduled",
+      "scoreFor": null,
+      "scoreAgainst": null,
+      "fixtureSource": "BBC Sport UK fallback"
     }
   ],
   "premierLeagueTable": [
@@ -466,8 +878,11 @@
       "w": 0,
       "d": 0,
       "l": 0,
+      "gf": 0,
+      "ga": 0,
       "gd": 0,
-      "pts": 0
+      "pts": 0,
+      "tableSource": "BBC Sport UK fallback"
     },
     {
       "pos": 2,
@@ -476,8 +891,11 @@
       "w": 0,
       "d": 0,
       "l": 0,
+      "gf": 0,
+      "ga": 0,
       "gd": 0,
-      "pts": 0
+      "pts": 0,
+      "tableSource": "BBC Sport UK fallback"
     },
     {
       "pos": 3,
@@ -486,8 +904,11 @@
       "w": 0,
       "d": 0,
       "l": 0,
+      "gf": 0,
+      "ga": 0,
       "gd": 0,
-      "pts": 0
+      "pts": 0,
+      "tableSource": "BBC Sport UK fallback"
     },
     {
       "pos": 4,
@@ -496,8 +917,11 @@
       "w": 0,
       "d": 0,
       "l": 0,
+      "gf": 0,
+      "ga": 0,
       "gd": 0,
-      "pts": 0
+      "pts": 0,
+      "tableSource": "BBC Sport UK fallback"
     },
     {
       "pos": 5,
@@ -506,8 +930,11 @@
       "w": 0,
       "d": 0,
       "l": 0,
+      "gf": 0,
+      "ga": 0,
       "gd": 0,
-      "pts": 0
+      "pts": 0,
+      "tableSource": "BBC Sport UK fallback"
     },
     {
       "pos": 6,
@@ -516,8 +943,11 @@
       "w": 0,
       "d": 0,
       "l": 0,
+      "gf": 0,
+      "ga": 0,
       "gd": 0,
-      "pts": 0
+      "pts": 0,
+      "tableSource": "BBC Sport UK fallback"
     },
     {
       "pos": 7,
@@ -526,8 +956,11 @@
       "w": 0,
       "d": 0,
       "l": 0,
+      "gf": 0,
+      "ga": 0,
       "gd": 0,
-      "pts": 0
+      "pts": 0,
+      "tableSource": "BBC Sport UK fallback"
     },
     {
       "pos": 8,
@@ -536,8 +969,11 @@
       "w": 0,
       "d": 0,
       "l": 0,
+      "gf": 0,
+      "ga": 0,
       "gd": 0,
-      "pts": 0
+      "pts": 0,
+      "tableSource": "BBC Sport UK fallback"
     },
     {
       "pos": 9,
@@ -546,8 +982,11 @@
       "w": 0,
       "d": 0,
       "l": 0,
+      "gf": 0,
+      "ga": 0,
       "gd": 0,
-      "pts": 0
+      "pts": 0,
+      "tableSource": "BBC Sport UK fallback"
     },
     {
       "pos": 10,
@@ -556,8 +995,11 @@
       "w": 0,
       "d": 0,
       "l": 0,
+      "gf": 0,
+      "ga": 0,
       "gd": 0,
-      "pts": 0
+      "pts": 0,
+      "tableSource": "BBC Sport UK fallback"
     },
     {
       "pos": 11,
@@ -566,8 +1008,11 @@
       "w": 0,
       "d": 0,
       "l": 0,
+      "gf": 0,
+      "ga": 0,
       "gd": 0,
-      "pts": 0
+      "pts": 0,
+      "tableSource": "BBC Sport UK fallback"
     },
     {
       "pos": 12,
@@ -576,8 +1021,11 @@
       "w": 0,
       "d": 0,
       "l": 0,
+      "gf": 0,
+      "ga": 0,
       "gd": 0,
-      "pts": 0
+      "pts": 0,
+      "tableSource": "BBC Sport UK fallback"
     },
     {
       "pos": 13,
@@ -586,8 +1034,11 @@
       "w": 0,
       "d": 0,
       "l": 0,
+      "gf": 0,
+      "ga": 0,
       "gd": 0,
-      "pts": 0
+      "pts": 0,
+      "tableSource": "BBC Sport UK fallback"
     },
     {
       "pos": 14,
@@ -596,8 +1047,11 @@
       "w": 0,
       "d": 0,
       "l": 0,
+      "gf": 0,
+      "ga": 0,
       "gd": 0,
-      "pts": 0
+      "pts": 0,
+      "tableSource": "BBC Sport UK fallback"
     },
     {
       "pos": 15,
@@ -606,8 +1060,11 @@
       "w": 0,
       "d": 0,
       "l": 0,
+      "gf": 0,
+      "ga": 0,
       "gd": 0,
-      "pts": 0
+      "pts": 0,
+      "tableSource": "BBC Sport UK fallback"
     },
     {
       "pos": 16,
@@ -616,8 +1073,11 @@
       "w": 0,
       "d": 0,
       "l": 0,
+      "gf": 0,
+      "ga": 0,
       "gd": 0,
-      "pts": 0
+      "pts": 0,
+      "tableSource": "BBC Sport UK fallback"
     },
     {
       "pos": 17,
@@ -626,8 +1086,11 @@
       "w": 0,
       "d": 0,
       "l": 0,
+      "gf": 0,
+      "ga": 0,
       "gd": 0,
-      "pts": 0
+      "pts": 0,
+      "tableSource": "BBC Sport UK fallback"
     },
     {
       "pos": 18,
@@ -636,8 +1099,11 @@
       "w": 0,
       "d": 0,
       "l": 0,
+      "gf": 0,
+      "ga": 0,
       "gd": 0,
-      "pts": 0
+      "pts": 0,
+      "tableSource": "BBC Sport UK fallback"
     },
     {
       "pos": 19,
@@ -646,8 +1112,11 @@
       "w": 0,
       "d": 0,
       "l": 0,
+      "gf": 0,
+      "ga": 0,
       "gd": 0,
-      "pts": 0
+      "pts": 0,
+      "tableSource": "BBC Sport UK fallback"
     },
     {
       "pos": 20,
@@ -656,8 +1125,11 @@
       "w": 0,
       "d": 0,
       "l": 0,
+      "gf": 0,
+      "ga": 0,
       "gd": 0,
-      "pts": 0
+      "pts": 0,
+      "tableSource": "BBC Sport UK fallback"
     }
   ],
   "championsLeagueTable": [],
@@ -771,5 +1243,15 @@
       "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNWEJaQTBxNXFqZ21HSkdXRlB3WTdhNFlFWl90MFJoUUM5UERvdW5fWTJHbE5sMXJ4UVo5dk1aZ3dXbFJ3UFN1aFVFQm9UUW96MGNXZnl5ZHVnaWhpYml4YnJHLU9YaUlKYThuRS1LUHQ0b1EyUDROc2paZFJ0ZXVjb3VNZ1hTVXRTMmJmRS1tUHBUV0FYRnV3MTRXWTFTcXRyRFVBVmZJVl95Q3FXMEZoMXc0cVJaYzN4UXlmaGlwNE9jbFhBa01IZHI5ckcyMUlOc20zLXBLdTNTc2M?oc=5",
       "published": "2026-08-11T07:07:31Z"
     }
-  ]
+  ],
+  "dataSources": {
+    "fixtures": "Liverpool FC official fixtures → BBC Sport UK fallback",
+    "premierLeagueTable": "PremierLeague.com official → BBC Sport UK fallback",
+    "broadcastUS": "match-specific U.S. rights listings / preserved confirmations",
+    "lastResort": "ESPN only after UK sources fail"
+  },
+  "dataHealth": {
+    "fixtures": "BBC Sport UK fallback",
+    "premierLeagueTable": "BBC Sport UK fallback"
+  }
 }
