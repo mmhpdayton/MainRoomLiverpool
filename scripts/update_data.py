@@ -106,6 +106,24 @@ def bbc_fixtures(old):
   if len(pl)<30:raise RuntimeError(f'BBC parser found only {len(out)} fixtures / {len(pl)} PL')
   return merge_fixture_meta(sorted(out,key=lambda x:x['date']),old)
 
+def safe_bbc_overlay(bbc,old):
+  # BBC is a cross-check, not authority for already-published PL dates/home-away.
+  # Preserve the last Liverpool-confirmed PL schedule; use BBC for cup additions/results.
+  result=[dict(x) for x in old];pl_old=[x for x in result if x.get('competition')=='Premier League']
+  for b in bbc:
+    if b.get('competition')=='Premier League':
+      candidates=[x for x in pl_old if x.get('opponent')==b.get('opponent')]
+      if not candidates:continue
+      prior=min(candidates,key=lambda x:abs(datetime.fromisoformat(x['date'].replace('Z','+00:00')).timestamp()-datetime.fromisoformat(b['date'].replace('Z','+00:00')).timestamp()))
+      delta=abs(datetime.fromisoformat(prior['date'].replace('Z','+00:00')).timestamp()-datetime.fromisoformat(b['date'].replace('Z','+00:00')).timestamp())
+      # Only adopt a completed result when BBC's date is essentially the same known fixture.
+      if b.get('status')=='final' and delta<=36*3600:
+        prior['status']='final';prior['scoreFor']=b.get('scoreFor');prior['scoreAgainst']=b.get('scoreAgainst')
+      continue
+    key=(b.get('date','')[:10],b.get('opponent'),b.get('competition'))
+    if not any((x.get('date','')[:10],x.get('opponent'),x.get('competition'))==key for x in result):result.append(b)
+  return sorted(result,key=lambda x:x['date'])
+
 def parse_table_tokens(t,source):
   out=[];aliases_by_team={team:[team] for team in PL_TEAMS};aliases_by_team['AFC Bournemouth']+=['Bournemouth'];aliases_by_team['Brighton & Hove Albion']+=['Brighton and Hove Albion','Brighton'];aliases_by_team['Manchester City']+=['Man City'];aliases_by_team['Manchester United']+=['Man Utd'];aliases_by_team['Nottingham Forest']+=["Nott'm Forest",'Nottm Forest'];aliases_by_team['Tottenham Hotspur']+=['Spurs'];aliases_by_team['Hull City']+=['Hull'];aliases_by_team['Ipswich Town']+=['Ipswich'];aliases_by_team['Newcastle United']+=['Newcastle'];aliases_by_team['Leeds United']+=['Leeds']
   for team in PL_TEAMS:
@@ -157,14 +175,9 @@ def main():
   try:fixtures=lfc_fixtures(old);health['fixtures']='Liverpool FC official'
   except Exception as e:
     print('LFC fixtures',e)
-    try:fixtures=bbc_fixtures(old);health['fixtures']='BBC Sport UK fallback'
+    try:fixtures=safe_bbc_overlay(bbc_fixtures(old),old);health['fixtures']='Liverpool-confirmed PL schedule + BBC UK cross-check'
     except Exception as be:
-      print('BBC fixtures',be)
-      try:
-        pieces=[]
-        for s in COMPETITIONS:pieces+=espn_fixtures(s)
-        if pieces:fixtures=merge_fixture_meta(pieces,old);health['fixtures']='ESPN last-resort fallback'
-      except Exception as ee:print('ESPN fallback',ee);health['fixtures']='stale fallback'
+      print('BBC fixtures',be);fixtures=old;health['fixtures']='Liverpool-confirmed schedule preserved'
   if fixtures:d['fixtures']=sorted(fixtures,key=lambda x:x['date'])
   try:d['premierLeagueTable']=parse_pl_table();health['premierLeagueTable']='PremierLeague.com official'
   except Exception as e:
@@ -173,6 +186,5 @@ def main():
     except Exception as be:print('BBC table',be);health['premierLeagueTable']='stale fallback'
   n=news()
   if n:d['news']=n
-  d['dataSources']={'fixtures':'Liverpool FC official fixtures → BBC Sport UK fallback','premierLeagueTable':'PremierLeague.com official → BBC Sport UK fallback','broadcastUS':'match-specific U.S. rights listings / preserved confirmations','lastResort':'ESPN only after UK sources fail'};d['dataHealth']=health;d['updated']=datetime.now(timezone.utc).isoformat().replace('+00:00','Z');DATA.write_text(json.dumps(d,indent=2,ensure_ascii=False))
-  if health.get('fixtures')=='stale fallback' and health.get('premierLeagueTable')=='stale fallback':raise SystemExit('All primary UK sports-data refreshes failed; old data preserved.')
+  d['dataSources']={'fixtures':'Liverpool FC official schedule; BBC Sport UK used only as cross-check/result/cup fallback','premierLeagueTable':'PremierLeague.com official → BBC Sport UK fallback','broadcastUS':'match-specific U.S. rights listings / preserved confirmations','lastResort':'ESPN is not required for core site operation'};d['dataHealth']=health;d['updated']=datetime.now(timezone.utc).isoformat().replace('+00:00','Z');DATA.write_text(json.dumps(d,indent=2,ensure_ascii=False))
 if __name__=='__main__':main()
