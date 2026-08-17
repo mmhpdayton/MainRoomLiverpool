@@ -46,12 +46,22 @@ def news():
     except Exception as e: print('news',label,e)
   items.sort(key=lambda x:x.get('published',''),reverse=True);return items[:18]
 def merge_broadcasts(new,old):
-  manual={(x['date'][:10],x['opponent']):x.get('broadcastUS') for x in old if x.get('broadcastUS') not in (None,'','TBA')}
+  old_by_key={(x['date'][:10],x['opponent']):x for x in old}
+  uk_confirmed={
+    ('2026-08-23','Newcastle United'):'Sky Sports',
+    ('2026-08-29','Nottingham Forest'):'TNT Sports',
+    ('2026-09-04','Ipswich Town'):'Sky Sports',
+    ('2026-09-20','AFC Bournemouth'):'Sky Sports'
+  }
   for x in new:
-    key=(x['date'][:10],x['opponent'])
-    if key in manual and x.get('broadcastUS') in ('',None,'TBA'): x['broadcastUS']=manual[key]
-  for x in new:
-    if x['opponent']=='Newcastle United' and x['date'].startswith('2026-08-23'): x['broadcastUS']='USA Network'
+    key=(x['date'][:10],x['opponent']);prior=old_by_key.get(key,{})
+    if prior.get('broadcastUS') not in (None,'','TBA') and x.get('broadcastUS') in ('',None,'TBA'): x['broadcastUS']=prior['broadcastUS']
+    if prior.get('broadcastUK'): x['broadcastUK']=prior['broadcastUK']
+    if key in uk_confirmed: x['broadcastUK']=uk_confirmed[key]
+    if key==('2026-08-23','Newcastle United'):
+      x['broadcastUS']='USA Network';x['broadcastUSSource']='NBC Sports'
+    elif x.get('broadcastUS') not in (None,'','TBA'):
+      x['broadcastUSSource']=prior.get('broadcastUSSource','Schedule feed')
   return new
 def main():
   d=load();old=d.get('fixtures',[]);fixtures=[]
