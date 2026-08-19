@@ -1,0 +1,17 @@
+{
+  "name": "The Main Room",
+  "short_name": "Main Room",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#8b0018",
+  "theme_color": "#8b0018",
+  "icons": [
+    {
+      "src": "liverbird-icon.png",
+      "sizes": "180x180",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
