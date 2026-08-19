@@ -6,6 +6,7 @@ on:
   push:
     paths:
       - 'scripts/update_data_v6.py'
+      - 'scripts/update_competitions.py'
       - '.github/workflows/update.yml'
 permissions:
   contents: write
@@ -19,10 +20,12 @@ jobs:
           python-version: '3.12'
       - name: Refresh verified fixtures, broadcasts, table and news
         run: python scripts/update_data_v6.py
+      - name: Refresh competition-wide schedules
+        run: python scripts/update_competitions.py
       - name: Commit refreshed data
         run: |
           git config user.name "Main Room Bot"
           git config user.email "actions@users.noreply.github.com"
-          git add site-data.json
+          git add site-data.json competition-data.json
           git diff --cached --quiet || git commit -m "Refresh Liverpool data"
           git push
