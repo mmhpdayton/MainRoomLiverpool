@@ -2,6 +2,7 @@ import json, urllib.request, re
 from datetime import datetime, timezone
 from pathlib import Path
 
+# Competition-wide schedule refresh for the Premier League and Champions League tabs.
 ROOT=Path(__file__).resolve().parent.parent
 OUT=ROOT/'competition-data.json'
 HEAD={'User-Agent':'Mozilla/5.0','Accept':'application/json,text/plain,*/*'}
@@ -47,8 +48,6 @@ def main():
         d['premierLeagueMatches']=update_pl(d);health['premierLeagueMatches']='full 380-match feed loaded'
     except Exception as e:
         print('PL competition feed',e);health['premierLeagueMatches']='preserved last-known-good competition schedule'
-    # League phase draw is 27 Aug 2026. Keep a structured status now; this field is ready
-    # for the full competition-wide feed as soon as UEFA publishes league-phase fixtures.
     d.setdefault('championsLeagueMatches',[])
     d['championsLeagueStatus']='League-phase draw: Thursday, August 27. Full matchweek schedule will populate here after UEFA publishes the draw.'
     d['championsLeagueMatchdays']=[
