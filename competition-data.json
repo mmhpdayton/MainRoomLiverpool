@@ -6,9 +6,9 @@
       "home": "Arsenal",
       "away": "Coventry City",
       "venue": "Emirates Stadium",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
+      "homeScore": 3,
+      "awayScore": 0,
+      "status": "final",
       "source": "FixtureDownload baseline; official PL schedule cross-check"
     },
     {
@@ -4228,5 +4228,5 @@
   "health": {
     "premierLeagueMatches": "full 380-match feed loaded"
   },
-  "updated": "2026-08-22T03:11:40.510945Z"
+  "updated": "2026-08-22T04:57:25.540513Z"
 }
