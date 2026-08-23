@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-23T09:14:04.548364Z",
+  "updated": "2026-08-23T09:59:21.989195Z",
   "fixtures": [
     {
       "id": "20260823-newcastle-united",
@@ -13,7 +13,7 @@
       "scoreFor": null,
       "scoreAgainst": null,
       "broadcastUSSource": "https://www.nbcsports.com/pressbox/press-releases/the-2026-27-premier-league-season-kicks-off-in-one-month-across-platforms-of-nbcuniversal-with-nbc-sports-studio-team-on-site-in-u-k",
-      "broadcastCheckedAt": "2026-08-23T09:13:59.791561Z",
+      "broadcastCheckedAt": "2026-08-23T09:59:18.128476Z",
       "broadcastConfidence": "official match-specific"
     },
     {
@@ -28,7 +28,7 @@
       "scoreFor": null,
       "scoreAgainst": null,
       "broadcastUSSource": "",
-      "broadcastCheckedAt": "2026-08-23T09:13:59.791561Z",
+      "broadcastCheckedAt": "2026-08-23T09:59:18.128476Z",
       "broadcastConfidence": ""
     },
     {
@@ -43,7 +43,7 @@
       "scoreFor": null,
       "scoreAgainst": null,
       "broadcastUSSource": "",
-      "broadcastCheckedAt": "2026-08-23T09:13:59.791561Z",
+      "broadcastCheckedAt": "2026-08-23T09:59:18.128476Z",
       "broadcastConfidence": ""
     },
     {
@@ -58,7 +58,7 @@
       "scoreFor": null,
       "scoreAgainst": null,
       "broadcastUSSource": "",
-      "broadcastCheckedAt": "2026-08-23T09:13:59.791561Z",
+      "broadcastCheckedAt": "2026-08-23T09:59:18.128476Z",
       "broadcastConfidence": ""
     },
     {
@@ -73,7 +73,7 @@
       "scoreFor": null,
       "scoreAgainst": null,
       "broadcastUSSource": "",
-      "broadcastCheckedAt": "2026-08-23T09:13:59.791561Z",
+      "broadcastCheckedAt": "2026-08-23T09:59:18.128476Z",
       "broadcastConfidence": ""
     },
     {
@@ -88,7 +88,7 @@
       "scoreFor": null,
       "scoreAgainst": null,
       "broadcastUSSource": "",
-      "broadcastCheckedAt": "2026-08-23T09:13:59.791561Z",
+      "broadcastCheckedAt": "2026-08-23T09:59:18.128476Z",
       "broadcastConfidence": "",
       "fixtureChangeSource": "Premier League fixture amendment — 2026-08-17",
       "broadcastUK": "Sky Sports"
@@ -105,7 +105,7 @@
       "scoreFor": null,
       "scoreAgainst": null,
       "broadcastUSSource": "",
-      "broadcastCheckedAt": "2026-08-23T09:13:59.791561Z",
+      "broadcastCheckedAt": "2026-08-23T09:59:18.128476Z",
       "broadcastConfidence": ""
     },
     {
@@ -120,7 +120,7 @@
       "scoreFor": null,
       "scoreAgainst": null,
       "broadcastUSSource": "",
-      "broadcastCheckedAt": "2026-08-23T09:13:59.791561Z",
+      "broadcastCheckedAt": "2026-08-23T09:59:18.128476Z",
       "broadcastConfidence": ""
     },
     {
@@ -135,7 +135,7 @@
       "scoreFor": null,
       "scoreAgainst": null,
       "broadcastUSSource": "",
-      "broadcastCheckedAt": "2026-08-23T09:13:59.791561Z",
+      "broadcastCheckedAt": "2026-08-23T09:59:18.128476Z",
       "broadcastConfidence": "",
       "fixtureChangeSource": "Premier League fixture amendment — 2026-08-17",
       "broadcastUK": "Sky Sports"
@@ -152,7 +152,7 @@
       "scoreFor": null,
       "scoreAgainst": null,
       "broadcastUSSource": "",
-      "broadcastCheckedAt": "2026-08-23T09:13:59.791561Z",
+      "broadcastCheckedAt": "2026-08-23T09:59:18.128476Z",
       "broadcastConfidence": ""
     },
     {
@@ -167,7 +167,7 @@
       "scoreFor": null,
       "scoreAgainst": null,
       "broadcastUSSource": "",
-      "broadcastCheckedAt": "2026-08-23T09:13:59.791561Z",
+      "broadcastCheckedAt": "2026-08-23T09:59:18.128476Z",
       "broadcastConfidence": ""
     },
     {
@@ -182,7 +182,7 @@
       "scoreFor": null,
       "scoreAgainst": null,
       "broadcastUSSource": "",
-      "broadcastCheckedAt": "2026-08-23T09:13:59.791561Z",
+      "broadcastCheckedAt": "2026-08-23T09:59:18.128476Z",
       "broadcastConfidence": ""
     },
     {
@@ -197,7 +197,7 @@
       "scoreFor": null,
       "scoreAgainst": null,
       "broadcastUSSource": "",
-      "broadcastCheckedAt": "2026-08-23T09:13:59.791561Z",
+      "broadcastCheckedAt": "2026-08-23T09:59:18.128476Z",
       "broadcastConfidence": ""
     },
     {
@@ -212,7 +212,7 @@
       "scoreFor": null,
       "scoreAgainst": null,
       "broadcastUSSource": "",
-      "broadcastCheckedAt": "2026-08-23T09:13:59.791561Z",
+      "broadcastCheckedAt": "2026-08-23T09:59:18.128476Z",
       "broadcastConfidence": ""
     },
     {
@@ -227,7 +227,7 @@
       "scoreFor": null,
       "scoreAgainst": null,
       "broadcastUSSource": "",
-      "broadcastCheckedAt": "2026-08-23T09:13:59.791561Z",
+      "broadcastCheckedAt": "2026-08-23T09:59:18.128476Z",
       "broadcastConfidence": ""
     },
     {
@@ -242,7 +242,7 @@
       "scoreFor": null,
       "scoreAgainst": null,
       "broadcastUSSource": "",
-      "broadcastCheckedAt": "2026-08-23T09:13:59.791561Z",
+      "broadcastCheckedAt": "2026-08-23T09:59:18.128476Z",
       "broadcastConfidence": ""
     },
     {
@@ -257,7 +257,7 @@
       "scoreFor": null,
       "scoreAgainst": null,
       "broadcastUSSource": "",
-      "broadcastCheckedAt": "2026-08-23T09:13:59.791561Z",
+      "broadcastCheckedAt": "2026-08-23T09:59:18.128476Z",
       "broadcastConfidence": ""
     },
     {
@@ -272,7 +272,7 @@
       "scoreFor": null,
       "scoreAgainst": null,
       "broadcastUSSource": "",
-      "broadcastCheckedAt": "2026-08-23T09:13:59.791561Z",
+      "broadcastCheckedAt": "2026-08-23T09:59:18.128476Z",
       "broadcastConfidence": ""
     },
     {
@@ -287,7 +287,7 @@
       "scoreFor": null,
       "scoreAgainst": null,
       "broadcastUSSource": "",
-      "broadcastCheckedAt": "2026-08-23T09:13:59.791561Z",
+      "broadcastCheckedAt": "2026-08-23T09:59:18.128476Z",
       "broadcastConfidence": ""
     },
     {
@@ -302,7 +302,7 @@
       "scoreFor": null,
       "scoreAgainst": null,
       "broadcastUSSource": "",
-      "broadcastCheckedAt": "2026-08-23T09:13:59.791561Z",
+      "broadcastCheckedAt": "2026-08-23T09:59:18.128476Z",
       "broadcastConfidence": ""
     },
     {
@@ -317,7 +317,7 @@
       "scoreFor": null,
       "scoreAgainst": null,
       "broadcastUSSource": "",
-      "broadcastCheckedAt": "2026-08-23T09:13:59.791561Z",
+      "broadcastCheckedAt": "2026-08-23T09:59:18.128476Z",
       "broadcastConfidence": ""
     },
     {
@@ -332,7 +332,7 @@
       "scoreFor": null,
       "scoreAgainst": null,
       "broadcastUSSource": "",
-      "broadcastCheckedAt": "2026-08-23T09:13:59.791561Z",
+      "broadcastCheckedAt": "2026-08-23T09:59:18.128476Z",
       "broadcastConfidence": ""
     },
     {
@@ -347,7 +347,7 @@
       "scoreFor": null,
       "scoreAgainst": null,
       "broadcastUSSource": "",
-      "broadcastCheckedAt": "2026-08-23T09:13:59.791561Z",
+      "broadcastCheckedAt": "2026-08-23T09:59:18.128476Z",
       "broadcastConfidence": ""
     },
     {
@@ -362,7 +362,7 @@
       "scoreFor": null,
       "scoreAgainst": null,
       "broadcastUSSource": "",
-      "broadcastCheckedAt": "2026-08-23T09:13:59.791561Z",
+      "broadcastCheckedAt": "2026-08-23T09:59:18.128476Z",
       "broadcastConfidence": ""
     },
     {
@@ -377,7 +377,7 @@
       "scoreFor": null,
       "scoreAgainst": null,
       "broadcastUSSource": "",
-      "broadcastCheckedAt": "2026-08-23T09:13:59.791561Z",
+      "broadcastCheckedAt": "2026-08-23T09:59:18.128476Z",
       "broadcastConfidence": ""
     },
     {
@@ -392,7 +392,7 @@
       "scoreFor": null,
       "scoreAgainst": null,
       "broadcastUSSource": "",
-      "broadcastCheckedAt": "2026-08-23T09:13:59.791561Z",
+      "broadcastCheckedAt": "2026-08-23T09:59:18.128476Z",
       "broadcastConfidence": ""
     },
     {
@@ -407,7 +407,7 @@
       "scoreFor": null,
       "scoreAgainst": null,
       "broadcastUSSource": "",
-      "broadcastCheckedAt": "2026-08-23T09:13:59.791561Z",
+      "broadcastCheckedAt": "2026-08-23T09:59:18.128476Z",
       "broadcastConfidence": ""
     },
     {
@@ -422,7 +422,7 @@
       "scoreFor": null,
       "scoreAgainst": null,
       "broadcastUSSource": "",
-      "broadcastCheckedAt": "2026-08-23T09:13:59.791561Z",
+      "broadcastCheckedAt": "2026-08-23T09:59:18.128476Z",
       "broadcastConfidence": ""
     },
     {
@@ -437,7 +437,7 @@
       "scoreFor": null,
       "scoreAgainst": null,
       "broadcastUSSource": "",
-      "broadcastCheckedAt": "2026-08-23T09:13:59.791561Z",
+      "broadcastCheckedAt": "2026-08-23T09:59:18.128476Z",
       "broadcastConfidence": ""
     },
     {
@@ -452,7 +452,7 @@
       "scoreFor": null,
       "scoreAgainst": null,
       "broadcastUSSource": "",
-      "broadcastCheckedAt": "2026-08-23T09:13:59.791561Z",
+      "broadcastCheckedAt": "2026-08-23T09:59:18.128476Z",
       "broadcastConfidence": ""
     },
     {
@@ -467,7 +467,7 @@
       "scoreFor": null,
       "scoreAgainst": null,
       "broadcastUSSource": "",
-      "broadcastCheckedAt": "2026-08-23T09:13:59.791561Z",
+      "broadcastCheckedAt": "2026-08-23T09:59:18.128476Z",
       "broadcastConfidence": ""
     },
     {
@@ -482,7 +482,7 @@
       "scoreFor": null,
       "scoreAgainst": null,
       "broadcastUSSource": "",
-      "broadcastCheckedAt": "2026-08-23T09:13:59.791561Z",
+      "broadcastCheckedAt": "2026-08-23T09:59:18.128476Z",
       "broadcastConfidence": ""
     },
     {
@@ -497,7 +497,7 @@
       "scoreFor": null,
       "scoreAgainst": null,
       "broadcastUSSource": "",
-      "broadcastCheckedAt": "2026-08-23T09:13:59.791561Z",
+      "broadcastCheckedAt": "2026-08-23T09:59:18.128476Z",
       "broadcastConfidence": ""
     },
     {
@@ -512,7 +512,7 @@
       "scoreFor": null,
       "scoreAgainst": null,
       "broadcastUSSource": "",
-      "broadcastCheckedAt": "2026-08-23T09:13:59.791561Z",
+      "broadcastCheckedAt": "2026-08-23T09:59:18.128476Z",
       "broadcastConfidence": ""
     },
     {
@@ -527,7 +527,7 @@
       "scoreFor": null,
       "scoreAgainst": null,
       "broadcastUSSource": "",
-      "broadcastCheckedAt": "2026-08-23T09:13:59.791561Z",
+      "broadcastCheckedAt": "2026-08-23T09:59:18.128476Z",
       "broadcastConfidence": ""
     },
     {
@@ -542,7 +542,7 @@
       "scoreFor": null,
       "scoreAgainst": null,
       "broadcastUSSource": "",
-      "broadcastCheckedAt": "2026-08-23T09:13:59.791561Z",
+      "broadcastCheckedAt": "2026-08-23T09:59:18.128476Z",
       "broadcastConfidence": ""
     },
     {
@@ -557,7 +557,7 @@
       "scoreFor": null,
       "scoreAgainst": null,
       "broadcastUSSource": "",
-      "broadcastCheckedAt": "2026-08-23T09:13:59.791561Z",
+      "broadcastCheckedAt": "2026-08-23T09:59:18.128476Z",
       "broadcastConfidence": ""
     },
     {
@@ -572,7 +572,7 @@
       "scoreFor": null,
       "scoreAgainst": null,
       "broadcastUSSource": "",
-      "broadcastCheckedAt": "2026-08-23T09:13:59.791561Z",
+      "broadcastCheckedAt": "2026-08-23T09:59:18.128476Z",
       "broadcastConfidence": ""
     }
   ],
@@ -857,7 +857,7 @@
       "title": "Andoni Iraola’s impact at Liverpool: Leading training sessions, Formby home and fewer meetings",
       "source": "The Athletic",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNT2tIWWplcWJ2MWN2ZWtQWmpUQVZJZ2M4aUZsM3dIOGNhZWVQNGpIQm5zZS1tcGN0Y2Q3ZkxiaFdEWktXLXEzUnVTNkdVX0NrbE5XM1VxOFR3NlpWMXVXdC1VaWVObGtMb1BPUTRqbkYzcFNQQWg3bl92cFYzZEJRd1d2SzJabFIwbVc1dzRn?oc=5",
-      "published": "2026-08-23T04:02:40Z"
+      "published": "2026-08-23T04:02:00Z"
     },
     {
       "title": "Newcastle United vs. Liverpool: Premier League 2026-27 Preview & Team News",
@@ -902,12 +902,6 @@
       "published": "2026-08-22T07:00:00Z"
     },
     {
-      "title": "Arsenal sweep Coventry aside 3-0 to start title defence with a bang",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxONW9Mc1dqcWR2VUhyV1dJZnJQNHc0d2VNc29sVUJZQVZtY0J5eWo1czdIcko3UXAzZzdKT2lZTHE2NlNpMTNSRllfQkI1WGFDMHZQN0R1SHRBLS1FcUZmNWZ5TWJzWlFTckIzRkpPZExNNU5XbXUyMjVUYVU2bC0ya0Jjc2lJdUpxZkhKUkNLSi1YVDljcG5LVzdXMmFpWk1CdF9OZmxhRjlVUlBQc3AyUQ?oc=5",
-      "published": "2026-08-21T22:36:47Z"
-    },
-    {
       "title": "Premier League news: Iraola warns against writing off Liverpool title hopes",
       "source": "The Guardian",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPWl91WVJ4Y3RZX0x0WnBmMmk0ZzN4NHl2c05jaDZBQ3ptMV91bzZ4QnE3TzFXME9JM2p4Q3ZDd0RNdkpMa0VhOUpkQi0wa3JjeV9hWTFYVG1TbkFjejF0dVY1ZGdjTHk0aGt6SnRvUlRTR0dZZTZ0NG45ckxXWDM4SG9fZ3ZNeTMyTHNsZHBfdWRKbi14ZnVrRXJWckVZQTVTVFZfblVB?oc=5",
@@ -942,6 +936,12 @@
       "source": "The Athletic",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPeHlXOUowOXc4V2xuQ2tHT0c1S19QN29tUS1Xenp0aFpvaENPQmNlX2R0emNwcW9Ld1JpM0ZDWmQ4dEhpMHZnYVI3ZWV6ejFFTUN0aWNka1ozOWNGVXhIQ0d6eUpNeEJHVVNQb0FjRFlkOFBtWkhhSnhkOFNvQ3Z6NnFIVDZjZ3d0bVBZcEh4QWRYQTQybjN6ZXlZRQ?oc=5",
       "published": "2026-08-20T16:14:52Z"
+    },
+    {
+      "title": "Arsenal launch title defence as new-look Premier League kicks off",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOVTN0dmg3b0FaaUFPVFg5WUZrQTg5bWg4QVQxUFl3NmdPb2UxdkNhZHdpUy0wd1FjcGZWWHJrdUF4SktGc0kzUVpBb3hkeWNJbkZGV3BhcDNhYmo5NmFWMTY1OFdJNVl5ZlpITHRLd1JSS0QtUlBEZTNMcTZvckFqUE9kRnZmV3AxcVMwUTl5LU9tRG5WNElDT0MzcU9UQTlaeHZBTkE1UWJwVVM0dU5LMHpB?oc=5",
+      "published": "2026-08-20T12:33:43Z"
     },
     {
       "title": "Minority investment or takeover - what does Bezos' Liverpool deal mean?",
