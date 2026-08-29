@@ -116,9 +116,9 @@
       "home": "Crystal Palace",
       "away": "Manchester City",
       "venue": "Selhurst Park",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
+      "homeScore": 1,
+      "awayScore": 4,
+      "status": "final",
       "source": "FixtureDownload baseline; official PL schedule cross-check"
     },
     {
@@ -4228,5 +4228,5 @@
   "health": {
     "premierLeagueMatches": "full 380-match feed loaded"
   },
-  "updated": "2026-08-29T00:18:50.140684Z"
+  "updated": "2026-08-29T01:18:44.719043Z"
 }
