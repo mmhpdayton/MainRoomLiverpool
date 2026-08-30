@@ -127,9 +127,9 @@
       "home": "Liverpool",
       "away": "Nottingham Forest",
       "venue": "Anfield",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
+      "homeScore": 2,
+      "awayScore": 2,
+      "status": "final",
       "source": "FixtureDownload baseline; official PL schedule cross-check"
     },
     {
@@ -138,9 +138,9 @@
       "home": "AFC Bournemouth",
       "away": "Everton",
       "venue": "Vitality Stadium",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "final",
       "source": "FixtureDownload baseline; official PL schedule cross-check"
     },
     {
@@ -149,9 +149,9 @@
       "home": "Coventry City",
       "away": "Hull City",
       "venue": "Coventry Building Society Arena",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
+      "homeScore": 0,
+      "awayScore": 1,
+      "status": "final",
       "source": "FixtureDownload baseline; official PL schedule cross-check"
     },
     {
@@ -160,9 +160,9 @@
       "home": "Tottenham Hotspur",
       "away": "Newcastle United",
       "venue": "Tottenham Hotspur Stadium",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
+      "homeScore": 0,
+      "awayScore": 2,
+      "status": "final",
       "source": "FixtureDownload baseline; official PL schedule cross-check"
     },
     {
@@ -4228,5 +4228,5 @@
   "health": {
     "premierLeagueMatches": "full 380-match feed loaded"
   },
-  "updated": "2026-08-30T03:18:46.430904Z"
+  "updated": "2026-08-30T04:18:58.347739Z"
 }
