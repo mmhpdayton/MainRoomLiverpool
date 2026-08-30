@@ -498,17 +498,6 @@
     {
       "round": 5,
       "date": "2026-09-19T14:00:00Z",
-      "home": "Manchester City",
-      "away": "Sunderland",
-      "venue": "Etihad Stadium",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
-      "source": "FixtureDownload baseline; official PL schedule cross-check"
-    },
-    {
-      "round": 5,
-      "date": "2026-09-19T14:00:00Z",
       "home": "Newcastle United",
       "away": "Hull City",
       "venue": "St. James' Park",
@@ -534,6 +523,17 @@
       "home": "AFC Bournemouth",
       "away": "Liverpool",
       "venue": "Vitality Stadium",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "source": "FixtureDownload baseline; official PL schedule cross-check"
+    },
+    {
+      "round": 5,
+      "date": "2026-09-20T13:00:00Z",
+      "home": "Manchester City",
+      "away": "Sunderland",
+      "venue": "Etihad Stadium",
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
@@ -4228,5 +4228,5 @@
   "health": {
     "premierLeagueMatches": "full 380-match feed loaded"
   },
-  "updated": "2026-08-30T09:18:46.133352Z"
+  "updated": "2026-08-30T10:18:50.501326Z"
 }
