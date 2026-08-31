@@ -171,9 +171,9 @@
       "home": "Chelsea",
       "away": "Brighton & Hove Albion",
       "venue": "Stamford Bridge",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
+      "homeScore": 4,
+      "awayScore": 3,
+      "status": "final",
       "source": "FixtureDownload baseline; official PL schedule cross-check"
     },
     {
@@ -182,9 +182,9 @@
       "home": "Leeds United",
       "away": "Brentford",
       "venue": "Elland Road",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "final",
       "source": "FixtureDownload baseline; official PL schedule cross-check"
     },
     {
@@ -193,9 +193,9 @@
       "home": "Sunderland",
       "away": "Fulham",
       "venue": "Stadium of Light",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
+      "homeScore": 1,
+      "awayScore": 0,
+      "status": "final",
       "source": "FixtureDownload baseline; official PL schedule cross-check"
     },
     {
@@ -204,9 +204,9 @@
       "home": "Manchester United",
       "away": "Ipswich Town",
       "venue": "Old Trafford",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
+      "homeScore": 5,
+      "awayScore": 2,
+      "status": "final",
       "source": "FixtureDownload baseline; official PL schedule cross-check"
     },
     {
@@ -4228,5 +4228,5 @@
   "health": {
     "premierLeagueMatches": "full 380-match feed loaded"
   },
-  "updated": "2026-08-31T12:19:05.556348Z"
+  "updated": "2026-08-31T13:18:49.182743Z"
 }
