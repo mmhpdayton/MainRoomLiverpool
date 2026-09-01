@@ -215,9 +215,9 @@
       "home": "Aston Villa",
       "away": "Arsenal",
       "venue": "Villa Park",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
+      "homeScore": 0,
+      "awayScore": 1,
+      "status": "final",
       "source": "FixtureDownload baseline; official PL schedule cross-check"
     },
     {
@@ -4228,5 +4228,5 @@
   "health": {
     "premierLeagueMatches": "full 380-match feed loaded"
   },
-  "updated": "2026-09-01T12:30:39.314164Z"
+  "updated": "2026-09-01T13:25:44.631350Z"
 }
