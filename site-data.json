@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-02T20:25:33.532392Z",
+  "updated": "2026-09-02T21:23:22.919602Z",
   "fixtures": [
     {
       "id": "20260823-newcastle-united",
@@ -13,7 +13,7 @@
       "scoreFor": null,
       "scoreAgainst": null,
       "broadcastUSSource": "https://www.nbcsports.com/pressbox/press-releases/the-2026-27-premier-league-season-kicks-off-in-one-month-across-platforms-of-nbcuniversal-with-nbc-sports-studio-team-on-site-in-u-k",
-      "broadcastCheckedAt": "2026-09-02T20:25:26.230191Z",
+      "broadcastCheckedAt": "2026-09-02T21:23:09.628265Z",
       "broadcastConfidence": "official match-specific"
     },
     {
@@ -23,13 +23,13 @@
       "homeAway": "H",
       "competition": "Premier League",
       "venue": "Anfield",
-      "broadcastUS": "TBA",
+      "broadcastUS": "USA Network",
       "status": "scheduled",
       "scoreFor": null,
       "scoreAgainst": null,
-      "broadcastUSSource": "",
-      "broadcastCheckedAt": "2026-09-02T20:25:26.230191Z",
-      "broadcastConfidence": ""
+      "broadcastUSSource": "https://www.nbcsports.com/pressbox/press-releases/spurs-host-newcastle-united-this-saturday-aug-29-at-12-30-p-m-et-on-nbc-peacock-and-universo-headlining-nbc-sports-premier-league-coverage-this-weekend",
+      "broadcastCheckedAt": "2026-09-02T21:23:09.628265Z",
+      "broadcastConfidence": "official match-specific"
     },
     {
       "id": "20260904-ipswich-town",
@@ -43,7 +43,7 @@
       "scoreFor": null,
       "scoreAgainst": null,
       "broadcastUSSource": "",
-      "broadcastCheckedAt": "2026-09-02T20:25:26.230191Z",
+      "broadcastCheckedAt": "2026-09-02T21:23:09.628265Z",
       "broadcastConfidence": ""
     },
     {
@@ -58,7 +58,7 @@
       "scoreFor": null,
       "scoreAgainst": null,
       "broadcastUSSource": "",
-      "broadcastCheckedAt": "2026-09-02T20:25:26.230191Z",
+      "broadcastCheckedAt": "2026-09-02T21:23:09.628265Z",
       "broadcastConfidence": ""
     },
     {
@@ -73,7 +73,7 @@
       "scoreFor": null,
       "scoreAgainst": null,
       "broadcastUSSource": "",
-      "broadcastCheckedAt": "2026-09-02T20:25:26.230191Z",
+      "broadcastCheckedAt": "2026-09-02T21:23:09.628265Z",
       "broadcastConfidence": ""
     },
     {
@@ -88,7 +88,7 @@
       "scoreFor": null,
       "scoreAgainst": null,
       "broadcastUSSource": "",
-      "broadcastCheckedAt": "2026-09-02T20:25:26.230191Z",
+      "broadcastCheckedAt": "2026-09-02T21:23:09.628265Z",
       "broadcastConfidence": "",
       "fixtureChangeSource": "Premier League fixture amendment — 2026-08-17",
       "broadcastUK": "Sky Sports"
@@ -105,7 +105,7 @@
       "scoreFor": null,
       "scoreAgainst": null,
       "broadcastUSSource": "",
-      "broadcastCheckedAt": "2026-09-02T20:25:26.230191Z",
+      "broadcastCheckedAt": "2026-09-02T21:23:09.628265Z",
       "broadcastConfidence": ""
     },
     {
@@ -120,7 +120,7 @@
       "scoreFor": null,
       "scoreAgainst": null,
       "broadcastUSSource": "",
-      "broadcastCheckedAt": "2026-09-02T20:25:26.230191Z",
+      "broadcastCheckedAt": "2026-09-02T21:23:09.628265Z",
       "broadcastConfidence": ""
     },
     {
@@ -135,7 +135,7 @@
       "scoreFor": null,
       "scoreAgainst": null,
       "broadcastUSSource": "",
-      "broadcastCheckedAt": "2026-09-02T20:25:26.230191Z",
+      "broadcastCheckedAt": "2026-09-02T21:23:09.628265Z",
       "broadcastConfidence": "",
       "fixtureChangeSource": "Premier League fixture amendment — 2026-08-17",
       "broadcastUK": "Sky Sports"
@@ -152,7 +152,7 @@
       "scoreFor": null,
       "scoreAgainst": null,
       "broadcastUSSource": "",
-      "broadcastCheckedAt": "2026-09-02T20:25:26.230191Z",
+      "broadcastCheckedAt": "2026-09-02T21:23:09.628265Z",
       "broadcastConfidence": ""
     },
     {
@@ -167,7 +167,7 @@
       "scoreFor": null,
       "scoreAgainst": null,
       "broadcastUSSource": "",
-      "broadcastCheckedAt": "2026-09-02T20:25:26.230191Z",
+      "broadcastCheckedAt": "2026-09-02T21:23:09.628265Z",
       "broadcastConfidence": ""
     },
     {
@@ -182,7 +182,7 @@
       "scoreFor": null,
       "scoreAgainst": null,
       "broadcastUSSource": "",
-      "broadcastCheckedAt": "2026-09-02T20:25:26.230191Z",
+      "broadcastCheckedAt": "2026-09-02T21:23:09.628265Z",
       "broadcastConfidence": ""
     },
     {
@@ -197,7 +197,7 @@
       "scoreFor": null,
       "scoreAgainst": null,
       "broadcastUSSource": "",
-      "broadcastCheckedAt": "2026-09-02T20:25:26.230191Z",
+      "broadcastCheckedAt": "2026-09-02T21:23:09.628265Z",
       "broadcastConfidence": ""
     },
     {
@@ -212,7 +212,7 @@
       "scoreFor": null,
       "scoreAgainst": null,
       "broadcastUSSource": "",
-      "broadcastCheckedAt": "2026-09-02T20:25:26.230191Z",
+      "broadcastCheckedAt": "2026-09-02T21:23:09.628265Z",
       "broadcastConfidence": ""
     },
     {
@@ -227,7 +227,7 @@
       "scoreFor": null,
       "scoreAgainst": null,
       "broadcastUSSource": "",
-      "broadcastCheckedAt": "2026-09-02T20:25:26.230191Z",
+      "broadcastCheckedAt": "2026-09-02T21:23:09.628265Z",
       "broadcastConfidence": ""
     },
     {
@@ -242,7 +242,7 @@
       "scoreFor": null,
       "scoreAgainst": null,
       "broadcastUSSource": "",
-      "broadcastCheckedAt": "2026-09-02T20:25:26.230191Z",
+      "broadcastCheckedAt": "2026-09-02T21:23:09.628265Z",
       "broadcastConfidence": ""
     },
     {
@@ -257,7 +257,7 @@
       "scoreFor": null,
       "scoreAgainst": null,
       "broadcastUSSource": "",
-      "broadcastCheckedAt": "2026-09-02T20:25:26.230191Z",
+      "broadcastCheckedAt": "2026-09-02T21:23:09.628265Z",
       "broadcastConfidence": ""
     },
     {
@@ -272,7 +272,7 @@
       "scoreFor": null,
       "scoreAgainst": null,
       "broadcastUSSource": "",
-      "broadcastCheckedAt": "2026-09-02T20:25:26.230191Z",
+      "broadcastCheckedAt": "2026-09-02T21:23:09.628265Z",
       "broadcastConfidence": ""
     },
     {
@@ -287,7 +287,7 @@
       "scoreFor": null,
       "scoreAgainst": null,
       "broadcastUSSource": "",
-      "broadcastCheckedAt": "2026-09-02T20:25:26.230191Z",
+      "broadcastCheckedAt": "2026-09-02T21:23:09.628265Z",
       "broadcastConfidence": ""
     },
     {
@@ -302,7 +302,7 @@
       "scoreFor": null,
       "scoreAgainst": null,
       "broadcastUSSource": "",
-      "broadcastCheckedAt": "2026-09-02T20:25:26.230191Z",
+      "broadcastCheckedAt": "2026-09-02T21:23:09.628265Z",
       "broadcastConfidence": ""
     },
     {
@@ -317,7 +317,7 @@
       "scoreFor": null,
       "scoreAgainst": null,
       "broadcastUSSource": "",
-      "broadcastCheckedAt": "2026-09-02T20:25:26.230191Z",
+      "broadcastCheckedAt": "2026-09-02T21:23:09.628265Z",
       "broadcastConfidence": ""
     },
     {
@@ -332,7 +332,7 @@
       "scoreFor": null,
       "scoreAgainst": null,
       "broadcastUSSource": "",
-      "broadcastCheckedAt": "2026-09-02T20:25:26.230191Z",
+      "broadcastCheckedAt": "2026-09-02T21:23:09.628265Z",
       "broadcastConfidence": ""
     },
     {
@@ -347,7 +347,7 @@
       "scoreFor": null,
       "scoreAgainst": null,
       "broadcastUSSource": "",
-      "broadcastCheckedAt": "2026-09-02T20:25:26.230191Z",
+      "broadcastCheckedAt": "2026-09-02T21:23:09.628265Z",
       "broadcastConfidence": ""
     },
     {
@@ -362,7 +362,7 @@
       "scoreFor": null,
       "scoreAgainst": null,
       "broadcastUSSource": "",
-      "broadcastCheckedAt": "2026-09-02T20:25:26.230191Z",
+      "broadcastCheckedAt": "2026-09-02T21:23:09.628265Z",
       "broadcastConfidence": ""
     },
     {
@@ -377,7 +377,7 @@
       "scoreFor": null,
       "scoreAgainst": null,
       "broadcastUSSource": "",
-      "broadcastCheckedAt": "2026-09-02T20:25:26.230191Z",
+      "broadcastCheckedAt": "2026-09-02T21:23:09.628265Z",
       "broadcastConfidence": ""
     },
     {
@@ -392,7 +392,7 @@
       "scoreFor": null,
       "scoreAgainst": null,
       "broadcastUSSource": "",
-      "broadcastCheckedAt": "2026-09-02T20:25:26.230191Z",
+      "broadcastCheckedAt": "2026-09-02T21:23:09.628265Z",
       "broadcastConfidence": ""
     },
     {
@@ -407,7 +407,7 @@
       "scoreFor": null,
       "scoreAgainst": null,
       "broadcastUSSource": "",
-      "broadcastCheckedAt": "2026-09-02T20:25:26.230191Z",
+      "broadcastCheckedAt": "2026-09-02T21:23:09.628265Z",
       "broadcastConfidence": ""
     },
     {
@@ -422,7 +422,7 @@
       "scoreFor": null,
       "scoreAgainst": null,
       "broadcastUSSource": "",
-      "broadcastCheckedAt": "2026-09-02T20:25:26.230191Z",
+      "broadcastCheckedAt": "2026-09-02T21:23:09.628265Z",
       "broadcastConfidence": ""
     },
     {
@@ -437,7 +437,7 @@
       "scoreFor": null,
       "scoreAgainst": null,
       "broadcastUSSource": "",
-      "broadcastCheckedAt": "2026-09-02T20:25:26.230191Z",
+      "broadcastCheckedAt": "2026-09-02T21:23:09.628265Z",
       "broadcastConfidence": ""
     },
     {
@@ -452,7 +452,7 @@
       "scoreFor": null,
       "scoreAgainst": null,
       "broadcastUSSource": "",
-      "broadcastCheckedAt": "2026-09-02T20:25:26.230191Z",
+      "broadcastCheckedAt": "2026-09-02T21:23:09.628265Z",
       "broadcastConfidence": ""
     },
     {
@@ -467,7 +467,7 @@
       "scoreFor": null,
       "scoreAgainst": null,
       "broadcastUSSource": "",
-      "broadcastCheckedAt": "2026-09-02T20:25:26.230191Z",
+      "broadcastCheckedAt": "2026-09-02T21:23:09.628265Z",
       "broadcastConfidence": ""
     },
     {
@@ -482,7 +482,7 @@
       "scoreFor": null,
       "scoreAgainst": null,
       "broadcastUSSource": "",
-      "broadcastCheckedAt": "2026-09-02T20:25:26.230191Z",
+      "broadcastCheckedAt": "2026-09-02T21:23:09.628265Z",
       "broadcastConfidence": ""
     },
     {
@@ -497,7 +497,7 @@
       "scoreFor": null,
       "scoreAgainst": null,
       "broadcastUSSource": "",
-      "broadcastCheckedAt": "2026-09-02T20:25:26.230191Z",
+      "broadcastCheckedAt": "2026-09-02T21:23:09.628265Z",
       "broadcastConfidence": ""
     },
     {
@@ -512,7 +512,7 @@
       "scoreFor": null,
       "scoreAgainst": null,
       "broadcastUSSource": "",
-      "broadcastCheckedAt": "2026-09-02T20:25:26.230191Z",
+      "broadcastCheckedAt": "2026-09-02T21:23:09.628265Z",
       "broadcastConfidence": ""
     },
     {
@@ -527,7 +527,7 @@
       "scoreFor": null,
       "scoreAgainst": null,
       "broadcastUSSource": "",
-      "broadcastCheckedAt": "2026-09-02T20:25:26.230191Z",
+      "broadcastCheckedAt": "2026-09-02T21:23:09.628265Z",
       "broadcastConfidence": ""
     },
     {
@@ -542,7 +542,7 @@
       "scoreFor": null,
       "scoreAgainst": null,
       "broadcastUSSource": "",
-      "broadcastCheckedAt": "2026-09-02T20:25:26.230191Z",
+      "broadcastCheckedAt": "2026-09-02T21:23:09.628265Z",
       "broadcastConfidence": ""
     },
     {
@@ -557,7 +557,7 @@
       "scoreFor": null,
       "scoreAgainst": null,
       "broadcastUSSource": "",
-      "broadcastCheckedAt": "2026-09-02T20:25:26.230191Z",
+      "broadcastCheckedAt": "2026-09-02T21:23:09.628265Z",
       "broadcastConfidence": ""
     },
     {
@@ -572,7 +572,7 @@
       "scoreFor": null,
       "scoreAgainst": null,
       "broadcastUSSource": "",
-      "broadcastCheckedAt": "2026-09-02T20:25:26.230191Z",
+      "broadcastCheckedAt": "2026-09-02T21:23:09.628265Z",
       "broadcastConfidence": ""
     }
   ],
@@ -845,7 +845,7 @@
       "title": "Inside Liverpool’s £250m transfer window: Marquee signings, youth investment but a short-term gamble",
       "source": "The Athletic",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPZ1NQbnNnRDRCMWJhWGNSaElKQTcwVk5yTkNHejhLTV9MZF9oRy14NlFuQjZtSlNPeHZCYXZjZHBiZ19CblFkcDh0QW9Ua0VfMkQwT2QyanNvNlBDeUE3bnBwVE9NQ0Z4dkdqem5QYXNjM1MxVGhfY1dtLUVqUkhlZ3F0a1lwZFEwZWItZTdJZnJEa1dIMkE?oc=5",
-      "published": "2026-09-02T16:56:50Z"
+      "published": "2026-09-02T19:28:48Z"
     },
     {
       "title": "How two Liverpool players could meet in a La Liga derby this season",
@@ -858,6 +858,12 @@
       "source": "Liverpool FC",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOWUJjbzY1THl6TnpXSlJGaGRTbGNYc2s4SVRmaXo4WHBYd0dySGRuNUlRWjBWa0xEVzJHbzFVQmptOW1yMkZGd3NfOF9RZE5CSmpXZzM5d2RfMWFzV3hZU0hoRkprYW9qdmZFaGcwQmVoT0dQOFZxYUgzZTF1T05RRjlfMEdhVDkyRHFkcnE4bVVmQdIBmgFBVV95cUxQRnJwRldBVE1mMlBYdlhjaVVsZGNNUDF0aU5kTzlnZDRFbVRTbHpmLUhtV0stQVI2X1BUVG50d2VJOUlDdFF2YklpTG5MTkJrUDRnNVNwM3M1d3hCd1A1TE5pUGVudERUQnRmdk02eXVuWGJOZWc3NVZJbVVvYnF4WHVKeFdPS2hLbERXZkRzektEdEJ4cnhEZkRR?oc=5",
       "published": "2026-09-02T12:11:49Z"
+    },
+    {
+      "title": "Thursday: Watch Andoni Iraola's press conference ahead of Ipswich v Liverpool",
+      "source": "Liverpool FC",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNcHQwczRvNmdLZDNBUzFSTHVVOXBZRGJoejVhcGRqUnIyZHNJaDdiWDZrTVR0XzFYSkMwQmt3b3RHQ1BCaVM2d1FQeWpDdTZpeGFGNkR1SkMycjYzRGZIcXdLY19MeHlKMVMtcjBRMEtZdjIydVZYNm5GTmhSZHVKUnlvTDFpU0FsLWhzd0xncEhLTHd0R1RZczB2US1nX1NOQVNZMDdqYXbSAbABQVVfeXFMTVNIM2doampSbVoxaTMzU25Ka3ZwSVJ6RkVveU5rbHB1di1uRjRJNWJVb0U5QkpZZ1p2czZvelBkeDRoYWNQdWFhbFlhZDV1ZkpiMzB3cDlWWnVwajNmZ1N4c0phS3dKMmhSOU55N1FkRVI1c1FGYTU4bFVkYzVqdndsX0pKaU9OaGdmMXFhOFMwazVGcDZ2dE44cXo1alNYUENrX0VKQ2RsRDU2V1NHNVI?oc=5",
+      "published": "2026-09-02T10:31:49Z"
     },
     {
       "title": "Liverpool's transfer window: Questions remain after summer of change",
@@ -876,12 +882,6 @@
       "source": "The Athletic",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNQklPTzFqTEtMbmpmVkl2SF9pRzZpYVlGcE1QazlkOENRaEVPLWF2cV9WS3M3SnN5dlJpbzM0TTBRU2sxLVBla3c5amtYYXl3dFFuSUh0Y2lLdDcwbGJCU1FwY2lVcEt1bm84RHlJcElXQlB0T0lXaW1maG5lQTdQcFU2OXRydzFwZm1lWUxjNWFtRmxUdWpQbTRn?oc=5",
       "published": "2026-09-02T01:35:00Z"
-    },
-    {
-      "title": "French Reds unite as Bradley Barcola begins life at Liverpool",
-      "source": "Liverpool FC",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQTW5VTTBJWVNLdEg1eTZCWGREVXB4dVp5MVZyRE1TX2tYQjR4dEVWLUNqM0djUFd5N3loUUtBNlhPTHpFTU1kdUVhcXh3OFNNbEZKR0VwSjY3OWRJakhuU3RINnp1R1QxZk5Ed1lNVGFaMFdKREM2Vjl6RFFqdmRwT19vLUJfeGJTaG12Y0oyZkI2UdIBmgFBVV95cUxPalE2SlJKQjZXb3JBUV9ZWjhNRXpwTTRJcDhCOTVvaHBxazh1Zk9zcWF1R2ZOUHMydWdiSFRialExb0wyV0lvZUZLeG1PTUNvUUVfV2VNc1psLXJmSk5acGlNMDgtNjdoaUdIdXl3LVhkTC1uU3hXdGUtQ3I0bWg1TTA5Y0pKUTgxcUVoeXluNTVJaEs5YmtPVzNB?oc=5",
-      "published": "2026-09-02T00:37:49Z"
     },
     {
       "title": "Window Closes with Minimal Drama — No Rumored Midfielder or Winger in Late",
@@ -908,16 +908,16 @@
       "published": "2026-09-01T17:28:53Z"
     },
     {
+      "title": "Official: Harvey Elliott Joins Valencia On Loan for 2026-27 Season",
+      "source": "Liverpool Offside",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQQ0tIMTdDal8tYm41aUdOQ3psRXZKZ3o1ZWE2RWs3RnRSV3ZGMUtCM09CUzYxYkMzbkp1OFBMWnBrUXBTZ0RNXzUwMmFjVURFZl9YcHhUNG5vSjZtZklEd0E4MHdpbXVGSFFBUG1MZXo4a2dFMUp3aDdCeE5ISjhlZUdvYk1DR1FiWkZSbDhLX0F3OWhaV25uSm9ibk9mOXUwZGZRVjBJbGVoQnN3ekdOa3ZpY2xsa3BVaWl5ZGdwS3puZERJVlVoS0daSU9DRm9WN0E?oc=5",
+      "published": "2026-09-01T16:34:23Z"
+    },
+    {
       "title": "Harvey Elliott to Valencia: Liverpool midfielder joins on season-long loan",
       "source": "BBC",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1HZ1lhMHducHhPVzNHN19PMDJZRUJmVlNLNGdyQjhPVS1qTjhYZWljQ1B5RFpKTDBWY3Mxa21qYVJMMkNNQ240eWkzcGJOVlYzb0FYOGc2cW9WOGhxX2tWend1eUlUazg?oc=5",
       "published": "2026-09-01T16:23:52Z"
-    },
-    {
-      "title": "Liverpool Rebuff West Brom Interest in Jayden Danns Loan",
-      "source": "Liverpool Offside",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQUTFjUGRrZ0V2bmhPOTdKR0Z0OEVuOF9NT1JpZWs3bGVGNk9BOTVxanduRzV1WWM1algzUlAzZEtNY2ljc3NyRDVrTDhudU5yTDU1cHpLSGlIMG1kWXh1N0JKREJ6RGgxYXpxSnRqX05QX2hwY0VLa2hqUUZ5TmtVYmRPSTNidmJOY1lEQWJ1WFh6TDFMREVRRkkxNFBCQUMxOXFZaWh1NGlwc3ZnR0w4WmMwcXJGMjJ4ZEV2VVRhUlJFV0htQXc?oc=5",
-      "published": "2026-09-01T15:52:29Z"
     },
     {
       "title": "English Football League disappointed with UEFA over fixtures clash",
