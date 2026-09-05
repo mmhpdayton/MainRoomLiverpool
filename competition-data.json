@@ -226,9 +226,9 @@
       "home": "Ipswich Town",
       "away": "Liverpool",
       "venue": "Portman Road",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
+      "homeScore": 0,
+      "awayScore": 2,
+      "status": "final",
       "source": "FixtureDownload baseline; official PL schedule cross-check"
     },
     {
@@ -4228,5 +4228,5 @@
   "health": {
     "premierLeagueMatches": "full 380-match feed loaded"
   },
-  "updated": "2026-09-04T23:21:30.951824Z"
+  "updated": "2026-09-05T00:33:49.647175Z"
 }
