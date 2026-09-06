@@ -237,9 +237,9 @@
       "home": "Newcastle United",
       "away": "AFC Bournemouth",
       "venue": "St. James' Park",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
+      "homeScore": 2,
+      "awayScore": 2,
+      "status": "final",
       "source": "FixtureDownload baseline; official PL schedule cross-check"
     },
     {
@@ -248,9 +248,9 @@
       "home": "Brentford",
       "away": "Sunderland",
       "venue": "Gtech Community Stadium",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "final",
       "source": "FixtureDownload baseline; official PL schedule cross-check"
     },
     {
@@ -259,9 +259,9 @@
       "home": "Brighton & Hove Albion",
       "away": "Leeds United",
       "venue": "American Express Stadium",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "final",
       "source": "FixtureDownload baseline; official PL schedule cross-check"
     },
     {
@@ -270,9 +270,9 @@
       "home": "Fulham",
       "away": "Crystal Palace",
       "venue": "Craven Cottage",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
+      "homeScore": 2,
+      "awayScore": 3,
+      "status": "final",
       "source": "FixtureDownload baseline; official PL schedule cross-check"
     },
     {
@@ -281,9 +281,9 @@
       "home": "Manchester City",
       "away": "Coventry City",
       "venue": "Etihad Stadium",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
+      "homeScore": 1,
+      "awayScore": 0,
+      "status": "final",
       "source": "FixtureDownload baseline; official PL schedule cross-check"
     },
     {
@@ -292,9 +292,9 @@
       "home": "Nottingham Forest",
       "away": "Tottenham Hotspur",
       "venue": "The City Ground",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "final",
       "source": "FixtureDownload baseline; official PL schedule cross-check"
     },
     {
@@ -303,9 +303,9 @@
       "home": "Hull City",
       "away": "Aston Villa",
       "venue": "MKM Stadium",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "final",
       "source": "FixtureDownload baseline; official PL schedule cross-check"
     },
     {
@@ -4228,5 +4228,5 @@
   "health": {
     "premierLeagueMatches": "full 380-match feed loaded"
   },
-  "updated": "2026-09-06T03:24:15.467199Z"
+  "updated": "2026-09-06T04:24:34.251188Z"
 }
