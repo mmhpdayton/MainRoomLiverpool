@@ -4188,11 +4188,10 @@
       "home": "Club Brugge",
       "away": "Aston Villa",
       "venue": "Jan Breydelstadion",
-      "homeScore": 2,
-      "awayScore": 3,
-      "status": "live",
-      "source": "FixtureDownload schedule baseline; UEFA official fixture cross-check",
-      "liveStatus": "90"
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "source": "FixtureDownload schedule baseline; UEFA official fixture cross-check"
     },
     {
       "round": 1,
@@ -4200,11 +4199,10 @@
       "home": "AEK Athens",
       "away": "LASK",
       "venue": "AEK Arena",
-      "homeScore": 1,
-      "awayScore": 0,
-      "status": "live",
-      "source": "FixtureDownload schedule baseline; UEFA official fixture cross-check",
-      "liveStatus": "90"
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "source": "FixtureDownload schedule baseline; UEFA official fixture cross-check"
     },
     {
       "round": 1,
@@ -4227,7 +4225,7 @@
       "awayScore": 0,
       "status": "live",
       "source": "FixtureDownload schedule baseline; UEFA official fixture cross-check",
-      "liveStatus": "56"
+      "liveStatus": "63"
     },
     {
       "round": 1,
@@ -4239,7 +4237,7 @@
       "awayScore": 1,
       "status": "live",
       "source": "FixtureDownload schedule baseline; UEFA official fixture cross-check",
-      "liveStatus": "57"
+      "liveStatus": "64"
     },
     {
       "round": 1,
@@ -4251,7 +4249,7 @@
       "awayScore": 3,
       "status": "live",
       "source": "FixtureDownload schedule baseline; UEFA official fixture cross-check",
-      "liveStatus": "58"
+      "liveStatus": "65"
     },
     {
       "round": 1,
@@ -5819,5 +5817,5 @@
     "premierLeagueMatches": "full 380-match schedule/results baseline loaded",
     "championsLeagueMatches": "full 144-match league-phase schedule loaded"
   },
-  "updated": "2026-09-08T20:18:09.231466Z"
+  "updated": "2026-09-08T20:25:02.606382Z"
 }
