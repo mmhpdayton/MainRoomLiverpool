@@ -8,6 +8,7 @@ on:
       - 'scripts/update_data_v6.py'
       - 'scripts/update_competitions.py'
       - '.github/workflows/update.yml'
+      - '.github/workflows/live-scores.yml'
 permissions:
   contents: write
 concurrency:
