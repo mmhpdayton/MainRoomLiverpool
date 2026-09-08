@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-08T13:27:30.952697Z",
+  "updated": "2026-09-08T14:11:51.325410Z",
   "fixtures": [
     {
       "id": "20260823-newcastle-united",
@@ -9,12 +9,13 @@
       "competition": "Premier League",
       "venue": "St. James' Park",
       "broadcastUS": "USA Network",
-      "status": "scheduled",
-      "scoreFor": null,
-      "scoreAgainst": null,
+      "status": "final",
+      "scoreFor": 2,
+      "scoreAgainst": 2,
       "broadcastUSSource": "https://www.nbcsports.com/pressbox/press-releases/the-2026-27-premier-league-season-kicks-off-in-one-month-across-platforms-of-nbcuniversal-with-nbc-sports-studio-team-on-site-in-u-k",
       "broadcastCheckedAt": "2026-09-08T13:27:26.197873Z",
-      "broadcastConfidence": "official match-specific"
+      "broadcastConfidence": "official match-specific",
+      "liveStatus": ""
     },
     {
       "id": "20260829-nottingham-forest",
@@ -24,12 +25,13 @@
       "competition": "Premier League",
       "venue": "Anfield",
       "broadcastUS": "USA Network",
-      "status": "scheduled",
-      "scoreFor": null,
-      "scoreAgainst": null,
+      "status": "final",
+      "scoreFor": 2,
+      "scoreAgainst": 2,
       "broadcastUSSource": "https://www.nbcsports.com/pressbox/press-releases/spurs-host-newcastle-united-this-saturday-aug-29-at-12-30-p-m-et-on-nbc-peacock-and-universo-headlining-nbc-sports-premier-league-coverage-this-weekend",
       "broadcastCheckedAt": "2026-09-08T13:27:26.197873Z",
-      "broadcastConfidence": "official match-specific"
+      "broadcastConfidence": "official match-specific",
+      "liveStatus": ""
     },
     {
       "id": "20260904-ipswich-town",
@@ -39,12 +41,13 @@
       "competition": "Premier League",
       "venue": "Portman Road",
       "broadcastUS": "TBA",
-      "status": "scheduled",
-      "scoreFor": null,
-      "scoreAgainst": null,
+      "status": "final",
+      "scoreFor": 2,
+      "scoreAgainst": 0,
       "broadcastUSSource": "",
       "broadcastCheckedAt": "2026-09-08T13:27:26.197873Z",
-      "broadcastConfidence": ""
+      "broadcastConfidence": "",
+      "liveStatus": ""
     },
     {
       "id": "20260912-fulham",
@@ -59,7 +62,8 @@
       "scoreAgainst": null,
       "broadcastUSSource": "",
       "broadcastCheckedAt": "2026-09-08T13:27:26.197873Z",
-      "broadcastConfidence": ""
+      "broadcastConfidence": "",
+      "liveStatus": ""
     },
     {
       "id": "20260920-afc-bournemouth",
@@ -74,7 +78,8 @@
       "scoreAgainst": null,
       "broadcastUSSource": "",
       "broadcastCheckedAt": "2026-09-08T13:27:26.197873Z",
-      "broadcastConfidence": ""
+      "broadcastConfidence": "",
+      "liveStatus": ""
     },
     {
       "id": "20261010-manchester-city",
@@ -91,7 +96,8 @@
       "broadcastCheckedAt": "2026-09-08T13:27:26.197873Z",
       "broadcastConfidence": "",
       "fixtureChangeSource": "Premier League fixture amendment — 2026-08-17",
-      "broadcastUK": "Sky Sports"
+      "broadcastUK": "Sky Sports",
+      "liveStatus": ""
     },
     {
       "id": "20261017-brentford",
@@ -106,11 +112,12 @@
       "scoreAgainst": null,
       "broadcastUSSource": "",
       "broadcastCheckedAt": "2026-09-08T13:27:26.197873Z",
-      "broadcastConfidence": ""
+      "broadcastConfidence": "",
+      "liveStatus": ""
     },
     {
       "id": "20261024-brighton",
-      "date": "2026-10-24T14:00:00Z",
+      "date": "2026-10-25T14:00:00Z",
       "opponent": "Brighton & Hove Albion",
       "homeAway": "H",
       "competition": "Premier League",
@@ -121,7 +128,8 @@
       "scoreAgainst": null,
       "broadcastUSSource": "",
       "broadcastCheckedAt": "2026-09-08T13:27:26.197873Z",
-      "broadcastConfidence": ""
+      "broadcastConfidence": "",
+      "liveStatus": ""
     },
     {
       "id": "20261031-arsenal",
@@ -138,7 +146,8 @@
       "broadcastCheckedAt": "2026-09-08T13:27:26.197873Z",
       "broadcastConfidence": "",
       "fixtureChangeSource": "Premier League fixture amendment — 2026-08-17",
-      "broadcastUK": "Sky Sports"
+      "broadcastUK": "Sky Sports",
+      "liveStatus": ""
     },
     {
       "id": "20261107-crystal-palace",
@@ -153,7 +162,8 @@
       "scoreAgainst": null,
       "broadcastUSSource": "",
       "broadcastCheckedAt": "2026-09-08T13:27:26.197873Z",
-      "broadcastConfidence": ""
+      "broadcastConfidence": "",
+      "liveStatus": ""
     },
     {
       "id": "20261121-manchester-united",
@@ -168,7 +178,8 @@
       "scoreAgainst": null,
       "broadcastUSSource": "",
       "broadcastCheckedAt": "2026-09-08T13:27:26.197873Z",
-      "broadcastConfidence": ""
+      "broadcastConfidence": "",
+      "liveStatus": ""
     },
     {
       "id": "20261128-everton",
@@ -183,7 +194,8 @@
       "scoreAgainst": null,
       "broadcastUSSource": "",
       "broadcastCheckedAt": "2026-09-08T13:27:26.197873Z",
-      "broadcastConfidence": ""
+      "broadcastConfidence": "",
+      "liveStatus": ""
     },
     {
       "id": "20261202-sunderland",
@@ -198,7 +210,8 @@
       "scoreAgainst": null,
       "broadcastUSSource": "",
       "broadcastCheckedAt": "2026-09-08T13:27:26.197873Z",
-      "broadcastConfidence": ""
+      "broadcastConfidence": "",
+      "liveStatus": ""
     },
     {
       "id": "20261205-chelsea",
@@ -213,7 +226,8 @@
       "scoreAgainst": null,
       "broadcastUSSource": "",
       "broadcastCheckedAt": "2026-09-08T13:27:26.197873Z",
-      "broadcastConfidence": ""
+      "broadcastConfidence": "",
+      "liveStatus": ""
     },
     {
       "id": "20261212-leeds-united",
@@ -228,7 +242,8 @@
       "scoreAgainst": null,
       "broadcastUSSource": "",
       "broadcastCheckedAt": "2026-09-08T13:27:26.197873Z",
-      "broadcastConfidence": ""
+      "broadcastConfidence": "",
+      "liveStatus": ""
     },
     {
       "id": "20261219-tottenham",
@@ -243,7 +258,8 @@
       "scoreAgainst": null,
       "broadcastUSSource": "",
       "broadcastCheckedAt": "2026-09-08T13:27:26.197873Z",
-      "broadcastConfidence": ""
+      "broadcastConfidence": "",
+      "liveStatus": ""
     },
     {
       "id": "20261226-hull-city",
@@ -258,7 +274,8 @@
       "scoreAgainst": null,
       "broadcastUSSource": "",
       "broadcastCheckedAt": "2026-09-08T13:27:26.197873Z",
-      "broadcastConfidence": ""
+      "broadcastConfidence": "",
+      "liveStatus": ""
     },
     {
       "id": "20261230-aston-villa",
@@ -273,7 +290,8 @@
       "scoreAgainst": null,
       "broadcastUSSource": "",
       "broadcastCheckedAt": "2026-09-08T13:27:26.197873Z",
-      "broadcastConfidence": ""
+      "broadcastConfidence": "",
+      "liveStatus": ""
     },
     {
       "id": "20270102-coventry-city",
@@ -288,7 +306,8 @@
       "scoreAgainst": null,
       "broadcastUSSource": "",
       "broadcastCheckedAt": "2026-09-08T13:27:26.197873Z",
-      "broadcastConfidence": ""
+      "broadcastConfidence": "",
+      "liveStatus": ""
     },
     {
       "id": "20270106-sunderland",
@@ -303,7 +322,8 @@
       "scoreAgainst": null,
       "broadcastUSSource": "",
       "broadcastCheckedAt": "2026-09-08T13:27:26.197873Z",
-      "broadcastConfidence": ""
+      "broadcastConfidence": "",
+      "liveStatus": ""
     },
     {
       "id": "20270116-crystal-palace",
@@ -318,7 +338,8 @@
       "scoreAgainst": null,
       "broadcastUSSource": "",
       "broadcastCheckedAt": "2026-09-08T13:27:26.197873Z",
-      "broadcastConfidence": ""
+      "broadcastConfidence": "",
+      "liveStatus": ""
     },
     {
       "id": "20270123-manchester-united",
@@ -333,7 +354,8 @@
       "scoreAgainst": null,
       "broadcastUSSource": "",
       "broadcastCheckedAt": "2026-09-08T13:27:26.197873Z",
-      "broadcastConfidence": ""
+      "broadcastConfidence": "",
+      "liveStatus": ""
     },
     {
       "id": "20270130-everton",
@@ -348,7 +370,8 @@
       "scoreAgainst": null,
       "broadcastUSSource": "",
       "broadcastCheckedAt": "2026-09-08T13:27:26.197873Z",
-      "broadcastConfidence": ""
+      "broadcastConfidence": "",
+      "liveStatus": ""
     },
     {
       "id": "20270206-arsenal",
@@ -363,7 +386,8 @@
       "scoreAgainst": null,
       "broadcastUSSource": "",
       "broadcastCheckedAt": "2026-09-08T13:27:26.197873Z",
-      "broadcastConfidence": ""
+      "broadcastConfidence": "",
+      "liveStatus": ""
     },
     {
       "id": "20270210-coventry-city",
@@ -378,7 +402,8 @@
       "scoreAgainst": null,
       "broadcastUSSource": "",
       "broadcastCheckedAt": "2026-09-08T13:27:26.197873Z",
-      "broadcastConfidence": ""
+      "broadcastConfidence": "",
+      "liveStatus": ""
     },
     {
       "id": "20270220-hull-city",
@@ -393,7 +418,8 @@
       "scoreAgainst": null,
       "broadcastUSSource": "",
       "broadcastCheckedAt": "2026-09-08T13:27:26.197873Z",
-      "broadcastConfidence": ""
+      "broadcastConfidence": "",
+      "liveStatus": ""
     },
     {
       "id": "20270227-tottenham",
@@ -408,7 +434,8 @@
       "scoreAgainst": null,
       "broadcastUSSource": "",
       "broadcastCheckedAt": "2026-09-08T13:27:26.197873Z",
-      "broadcastConfidence": ""
+      "broadcastConfidence": "",
+      "liveStatus": ""
     },
     {
       "id": "20270303-aston-villa",
@@ -423,7 +450,8 @@
       "scoreAgainst": null,
       "broadcastUSSource": "",
       "broadcastCheckedAt": "2026-09-08T13:27:26.197873Z",
-      "broadcastConfidence": ""
+      "broadcastConfidence": "",
+      "liveStatus": ""
     },
     {
       "id": "20270313-ipswich-town",
@@ -438,7 +466,8 @@
       "scoreAgainst": null,
       "broadcastUSSource": "",
       "broadcastCheckedAt": "2026-09-08T13:27:26.197873Z",
-      "broadcastConfidence": ""
+      "broadcastConfidence": "",
+      "liveStatus": ""
     },
     {
       "id": "20270320-fulham",
@@ -453,7 +482,8 @@
       "scoreAgainst": null,
       "broadcastUSSource": "",
       "broadcastCheckedAt": "2026-09-08T13:27:26.197873Z",
-      "broadcastConfidence": ""
+      "broadcastConfidence": "",
+      "liveStatus": ""
     },
     {
       "id": "20270410-newcastle-united",
@@ -468,7 +498,8 @@
       "scoreAgainst": null,
       "broadcastUSSource": "",
       "broadcastCheckedAt": "2026-09-08T13:27:26.197873Z",
-      "broadcastConfidence": ""
+      "broadcastConfidence": "",
+      "liveStatus": ""
     },
     {
       "id": "20270417-nottingham-forest",
@@ -476,14 +507,15 @@
       "opponent": "Nottingham Forest",
       "homeAway": "A",
       "competition": "Premier League",
-      "venue": "City Ground",
+      "venue": "The City Ground",
       "broadcastUS": "TBA",
       "status": "scheduled",
       "scoreFor": null,
       "scoreAgainst": null,
       "broadcastUSSource": "",
       "broadcastCheckedAt": "2026-09-08T13:27:26.197873Z",
-      "broadcastConfidence": ""
+      "broadcastConfidence": "",
+      "liveStatus": ""
     },
     {
       "id": "20270424-leeds-united",
@@ -498,7 +530,8 @@
       "scoreAgainst": null,
       "broadcastUSSource": "",
       "broadcastCheckedAt": "2026-09-08T13:27:26.197873Z",
-      "broadcastConfidence": ""
+      "broadcastConfidence": "",
+      "liveStatus": ""
     },
     {
       "id": "20270501-chelsea",
@@ -513,7 +546,8 @@
       "scoreAgainst": null,
       "broadcastUSSource": "",
       "broadcastCheckedAt": "2026-09-08T13:27:26.197873Z",
-      "broadcastConfidence": ""
+      "broadcastConfidence": "",
+      "liveStatus": ""
     },
     {
       "id": "20270508-manchester-city",
@@ -528,7 +562,8 @@
       "scoreAgainst": null,
       "broadcastUSSource": "",
       "broadcastCheckedAt": "2026-09-08T13:27:26.197873Z",
-      "broadcastConfidence": ""
+      "broadcastConfidence": "",
+      "liveStatus": ""
     },
     {
       "id": "20270515-brentford",
@@ -543,7 +578,8 @@
       "scoreAgainst": null,
       "broadcastUSSource": "",
       "broadcastCheckedAt": "2026-09-08T13:27:26.197873Z",
-      "broadcastConfidence": ""
+      "broadcastConfidence": "",
+      "liveStatus": ""
     },
     {
       "id": "20270523-brighton",
@@ -551,14 +587,15 @@
       "opponent": "Brighton & Hove Albion",
       "homeAway": "A",
       "competition": "Premier League",
-      "venue": "Amex Stadium",
+      "venue": "American Express Stadium",
       "broadcastUS": "TBA",
       "status": "scheduled",
       "scoreFor": null,
       "scoreAgainst": null,
       "broadcastUSSource": "",
       "broadcastCheckedAt": "2026-09-08T13:27:26.197873Z",
-      "broadcastConfidence": ""
+      "broadcastConfidence": "",
+      "liveStatus": ""
     },
     {
       "id": "20270530-afc-bournemouth",
@@ -573,7 +610,8 @@
       "scoreAgainst": null,
       "broadcastUSSource": "",
       "broadcastCheckedAt": "2026-09-08T13:27:26.197873Z",
-      "broadcastConfidence": ""
+      "broadcastConfidence": "",
+      "liveStatus": ""
     }
   ],
   "premierLeagueTable": [
@@ -839,7 +877,7 @@
     }
   ],
   "championsLeagueTable": [],
-  "championsLeagueStatus": "League-phase draw: Thursday, August 27. Liverpool’s eight opponents will appear here after the draw.",
+  "championsLeagueStatus": "2026–27 league phase • 36 teams • 8 matchdays",
   "news": [
     {
       "title": "Liverpool agree £60m-a-year shirt sponsorship deal with Turkish Airlines",
