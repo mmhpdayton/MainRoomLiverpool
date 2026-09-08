@@ -4223,10 +4223,11 @@
       "home": "Borussia Dortmund",
       "away": "Villarreal",
       "venue": "BVB Stadion Dortmund",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
-      "source": "FixtureDownload schedule baseline; UEFA official fixture cross-check"
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "live",
+      "source": "FixtureDownload schedule baseline; UEFA official fixture cross-check",
+      "liveStatus": "14"
     },
     {
       "round": 1,
@@ -4234,10 +4235,11 @@
       "home": "Porto",
       "away": "Manchester City",
       "venue": "Estádio do Dragão",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
-      "source": "FixtureDownload schedule baseline; UEFA official fixture cross-check"
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "live",
+      "source": "FixtureDownload schedule baseline; UEFA official fixture cross-check",
+      "liveStatus": "13"
     },
     {
       "round": 1,
@@ -4245,10 +4247,11 @@
       "home": "Lille",
       "away": "Real Betis",
       "venue": "Stade Pierre Mauroy",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
-      "source": "FixtureDownload schedule baseline; UEFA official fixture cross-check"
+      "homeScore": 1,
+      "awayScore": 0,
+      "status": "live",
+      "source": "FixtureDownload schedule baseline; UEFA official fixture cross-check",
+      "liveStatus": "14"
     },
     {
       "round": 1,
@@ -5816,5 +5819,5 @@
     "premierLeagueMatches": "full 380-match schedule/results baseline loaded",
     "championsLeagueMatches": "full 144-match league-phase schedule loaded"
   },
-  "updated": "2026-09-08T18:57:32.071267Z"
+  "updated": "2026-09-08T19:16:39.772740Z"
 }
