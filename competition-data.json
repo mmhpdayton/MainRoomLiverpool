@@ -4222,10 +4222,10 @@
       "away": "Villarreal",
       "venue": "BVB Stadion Dortmund",
       "homeScore": 3,
-      "awayScore": 1,
+      "awayScore": 2,
       "status": "live",
       "source": "FixtureDownload schedule baseline; UEFA official fixture cross-check",
-      "liveStatus": "87"
+      "liveStatus": "90+6"
     },
     {
       "round": 1,
@@ -4234,10 +4234,10 @@
       "away": "Manchester City",
       "venue": "Estádio do Dragão",
       "homeScore": 0,
-      "awayScore": 1,
+      "awayScore": 2,
       "status": "live",
       "source": "FixtureDownload schedule baseline; UEFA official fixture cross-check",
-      "liveStatus": "88"
+      "liveStatus": "90"
     },
     {
       "round": 1,
@@ -4249,7 +4249,7 @@
       "awayScore": 3,
       "status": "live",
       "source": "FixtureDownload schedule baseline; UEFA official fixture cross-check",
-      "liveStatus": "89"
+      "liveStatus": "90"
     },
     {
       "round": 1,
@@ -5817,5 +5817,5 @@
     "premierLeagueMatches": "full 380-match schedule/results baseline loaded",
     "championsLeagueMatches": "full 144-match league-phase schedule loaded"
   },
-  "updated": "2026-09-08T20:49:26.275472Z"
+  "updated": "2026-09-08T21:02:21.027146Z"
 }
