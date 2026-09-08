@@ -9,7 +9,7 @@
       "homeScore": 3,
       "awayScore": 0,
       "status": "final",
-      "source": "FixtureDownload baseline; official PL schedule cross-check"
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 1,
@@ -20,7 +20,7 @@
       "homeScore": 2,
       "awayScore": 0,
       "status": "final",
-      "source": "FixtureDownload baseline; official PL schedule cross-check"
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 1,
@@ -31,7 +31,7 @@
       "homeScore": 2,
       "awayScore": 0,
       "status": "final",
-      "source": "FixtureDownload baseline; official PL schedule cross-check"
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 1,
@@ -42,7 +42,7 @@
       "homeScore": 2,
       "awayScore": 1,
       "status": "final",
-      "source": "FixtureDownload baseline; official PL schedule cross-check"
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 1,
@@ -53,7 +53,7 @@
       "homeScore": 0,
       "awayScore": 1,
       "status": "final",
-      "source": "FixtureDownload baseline; official PL schedule cross-check"
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 1,
@@ -64,7 +64,7 @@
       "homeScore": 3,
       "awayScore": 0,
       "status": "final",
-      "source": "FixtureDownload baseline; official PL schedule cross-check"
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 1,
@@ -75,7 +75,7 @@
       "homeScore": 4,
       "awayScore": 0,
       "status": "final",
-      "source": "FixtureDownload baseline; official PL schedule cross-check"
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 1,
@@ -86,7 +86,7 @@
       "homeScore": 2,
       "awayScore": 1,
       "status": "final",
-      "source": "FixtureDownload baseline; official PL schedule cross-check"
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 1,
@@ -97,7 +97,7 @@
       "homeScore": 2,
       "awayScore": 2,
       "status": "final",
-      "source": "FixtureDownload baseline; official PL schedule cross-check"
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 1,
@@ -108,7 +108,7 @@
       "homeScore": 2,
       "awayScore": 3,
       "status": "final",
-      "source": "FixtureDownload baseline; official PL schedule cross-check"
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 2,
@@ -119,7 +119,7 @@
       "homeScore": 1,
       "awayScore": 4,
       "status": "final",
-      "source": "FixtureDownload baseline; official PL schedule cross-check"
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 2,
@@ -130,7 +130,7 @@
       "homeScore": 2,
       "awayScore": 2,
       "status": "final",
-      "source": "FixtureDownload baseline; official PL schedule cross-check"
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 2,
@@ -141,7 +141,7 @@
       "homeScore": 1,
       "awayScore": 1,
       "status": "final",
-      "source": "FixtureDownload baseline; official PL schedule cross-check"
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 2,
@@ -152,7 +152,7 @@
       "homeScore": 0,
       "awayScore": 1,
       "status": "final",
-      "source": "FixtureDownload baseline; official PL schedule cross-check"
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 2,
@@ -163,7 +163,7 @@
       "homeScore": 0,
       "awayScore": 2,
       "status": "final",
-      "source": "FixtureDownload baseline; official PL schedule cross-check"
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 2,
@@ -174,7 +174,7 @@
       "homeScore": 4,
       "awayScore": 3,
       "status": "final",
-      "source": "FixtureDownload baseline; official PL schedule cross-check"
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 2,
@@ -185,7 +185,7 @@
       "homeScore": 1,
       "awayScore": 1,
       "status": "final",
-      "source": "FixtureDownload baseline; official PL schedule cross-check"
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 2,
@@ -196,7 +196,7 @@
       "homeScore": 1,
       "awayScore": 0,
       "status": "final",
-      "source": "FixtureDownload baseline; official PL schedule cross-check"
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 2,
@@ -207,7 +207,7 @@
       "homeScore": 5,
       "awayScore": 2,
       "status": "final",
-      "source": "FixtureDownload baseline; official PL schedule cross-check"
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 2,
@@ -218,7 +218,7 @@
       "homeScore": 0,
       "awayScore": 1,
       "status": "final",
-      "source": "FixtureDownload baseline; official PL schedule cross-check"
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 3,
@@ -229,7 +229,7 @@
       "homeScore": 0,
       "awayScore": 2,
       "status": "final",
-      "source": "FixtureDownload baseline; official PL schedule cross-check"
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 3,
@@ -240,7 +240,7 @@
       "homeScore": 2,
       "awayScore": 2,
       "status": "final",
-      "source": "FixtureDownload baseline; official PL schedule cross-check"
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 3,
@@ -251,7 +251,7 @@
       "homeScore": 1,
       "awayScore": 1,
       "status": "final",
-      "source": "FixtureDownload baseline; official PL schedule cross-check"
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 3,
@@ -262,7 +262,7 @@
       "homeScore": 1,
       "awayScore": 1,
       "status": "final",
-      "source": "FixtureDownload baseline; official PL schedule cross-check"
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 3,
@@ -273,7 +273,7 @@
       "homeScore": 2,
       "awayScore": 3,
       "status": "final",
-      "source": "FixtureDownload baseline; official PL schedule cross-check"
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 3,
@@ -284,7 +284,7 @@
       "homeScore": 1,
       "awayScore": 0,
       "status": "final",
-      "source": "FixtureDownload baseline; official PL schedule cross-check"
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 3,
@@ -295,7 +295,7 @@
       "homeScore": 0,
       "awayScore": 0,
       "status": "final",
-      "source": "FixtureDownload baseline; official PL schedule cross-check"
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 3,
@@ -306,7 +306,7 @@
       "homeScore": 0,
       "awayScore": 0,
       "status": "final",
-      "source": "FixtureDownload baseline; official PL schedule cross-check"
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 3,
@@ -317,7 +317,7 @@
       "homeScore": 2,
       "awayScore": 2,
       "status": "final",
-      "source": "FixtureDownload baseline; official PL schedule cross-check"
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 3,
@@ -328,7 +328,7 @@
       "homeScore": 2,
       "awayScore": 1,
       "status": "final",
-      "source": "FixtureDownload baseline; official PL schedule cross-check"
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 4,
@@ -339,7 +339,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "source": "FixtureDownload baseline; official PL schedule cross-check"
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 4,
@@ -350,7 +350,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "source": "FixtureDownload baseline; official PL schedule cross-check"
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 4,
@@ -361,7 +361,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "source": "FixtureDownload baseline; official PL schedule cross-check"
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 4,
@@ -372,7 +372,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "source": "FixtureDownload baseline; official PL schedule cross-check"
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 4,
@@ -383,7 +383,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "source": "FixtureDownload baseline; official PL schedule cross-check"
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 4,
@@ -394,7 +394,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "source": "FixtureDownload baseline; official PL schedule cross-check"
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 4,
@@ -405,7 +405,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "source": "FixtureDownload baseline; official PL schedule cross-check"
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 4,
@@ -416,7 +416,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "source": "FixtureDownload baseline; official PL schedule cross-check"
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 4,
@@ -427,7 +427,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "source": "FixtureDownload baseline; official PL schedule cross-check"
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 4,
@@ -438,7 +438,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "source": "FixtureDownload baseline; official PL schedule cross-check"
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 5,
@@ -449,7 +449,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "source": "FixtureDownload baseline; official PL schedule cross-check"
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 5,
@@ -460,7 +460,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "source": "FixtureDownload baseline; official PL schedule cross-check"
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 5,
@@ -471,7 +471,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "source": "FixtureDownload baseline; official PL schedule cross-check"
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 5,
@@ -482,7 +482,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "source": "FixtureDownload baseline; official PL schedule cross-check"
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 5,
@@ -493,7 +493,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "source": "FixtureDownload baseline; official PL schedule cross-check"
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 5,
@@ -504,7 +504,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "source": "FixtureDownload baseline; official PL schedule cross-check"
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 5,
@@ -515,7 +515,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "source": "FixtureDownload baseline; official PL schedule cross-check"
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 5,
@@ -526,7 +526,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "source": "FixtureDownload baseline; official PL schedule cross-check"
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 5,
@@ -537,7 +537,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "source": "FixtureDownload baseline; official PL schedule cross-check"
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 5,
@@ -548,7 +548,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "source": "FixtureDownload baseline; official PL schedule cross-check"
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 6,
@@ -559,7 +559,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "source": "FixtureDownload baseline; official PL schedule cross-check"
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 6,
@@ -570,7 +570,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "source": "FixtureDownload baseline; official PL schedule cross-check"
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 6,
@@ -581,7 +581,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "source": "FixtureDownload baseline; official PL schedule cross-check"
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 6,
@@ -592,7 +592,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "source": "FixtureDownload baseline; official PL schedule cross-check"
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 6,
@@ -603,7 +603,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "source": "FixtureDownload baseline; official PL schedule cross-check"
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 6,
@@ -614,7 +614,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "source": "FixtureDownload baseline; official PL schedule cross-check"
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 6,
@@ -625,7 +625,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "source": "FixtureDownload baseline; official PL schedule cross-check"
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 6,
@@ -636,7 +636,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "source": "FixtureDownload baseline; official PL schedule cross-check"
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 6,
@@ -647,7 +647,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "source": "FixtureDownload baseline; official PL schedule cross-check"
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 6,
@@ -658,7 +658,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "source": "FixtureDownload baseline; official PL schedule cross-check"
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 7,
@@ -669,7 +669,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "source": "FixtureDownload baseline; official PL schedule cross-check"
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 7,
@@ -680,7 +680,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "source": "FixtureDownload baseline; official PL schedule cross-check"
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 7,
@@ -691,7 +691,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "source": "FixtureDownload baseline; official PL schedule cross-check"
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 7,
@@ -702,7 +702,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "source": "FixtureDownload baseline; official PL schedule cross-check"
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 7,
@@ -713,7 +713,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "source": "FixtureDownload baseline; official PL schedule cross-check"
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 7,
@@ -724,7 +724,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "source": "FixtureDownload baseline; official PL schedule cross-check"
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 7,
@@ -735,7 +735,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "source": "FixtureDownload baseline; official PL schedule cross-check"
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 7,
@@ -746,7 +746,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "source": "FixtureDownload baseline; official PL schedule cross-check"
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 7,
@@ -757,7 +757,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "source": "FixtureDownload baseline; official PL schedule cross-check"
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 7,
@@ -768,7 +768,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "source": "FixtureDownload baseline; official PL schedule cross-check"
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 8,
@@ -779,7 +779,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "source": "FixtureDownload baseline; official PL schedule cross-check"
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 8,
@@ -790,7 +790,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "source": "FixtureDownload baseline; official PL schedule cross-check"
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 8,
@@ -801,7 +801,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "source": "FixtureDownload baseline; official PL schedule cross-check"
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 8,
@@ -812,7 +812,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "source": "FixtureDownload baseline; official PL schedule cross-check"
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 8,
@@ -823,7 +823,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "source": "FixtureDownload baseline; official PL schedule cross-check"
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 8,
@@ -834,7 +834,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "source": "FixtureDownload baseline; official PL schedule cross-check"
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 8,
@@ -845,7 +845,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "source": "FixtureDownload baseline; official PL schedule cross-check"
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 8,
@@ -856,7 +856,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "source": "FixtureDownload baseline; official PL schedule cross-check"
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 8,
@@ -867,7 +867,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "source": "FixtureDownload baseline; official PL schedule cross-check"
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 8,
@@ -878,7 +878,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "source": "FixtureDownload baseline; official PL schedule cross-check"
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 9,
@@ -889,7 +889,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "source": "FixtureDownload baseline; official PL schedule cross-check"
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 9,
@@ -900,7 +900,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "source": "FixtureDownload baseline; official PL schedule cross-check"
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 9,
@@ -911,7 +911,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "source": "FixtureDownload baseline; official PL schedule cross-check"
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 9,
@@ -922,7 +922,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "source": "FixtureDownload baseline; official PL schedule cross-check"
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 9,
@@ -933,7 +933,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "source": "FixtureDownload baseline; official PL schedule cross-check"
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 9,
@@ -944,7 +944,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "source": "FixtureDownload baseline; official PL schedule cross-check"
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 9,
@@ -955,7 +955,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "source": "FixtureDownload baseline; official PL schedule cross-check"
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 9,
@@ -966,7 +966,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "source": "FixtureDownload baseline; official PL schedule cross-check"
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 9,
@@ -977,7 +977,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "source": "FixtureDownload baseline; official PL schedule cross-check"
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 9,
@@ -988,7 +988,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "source": "FixtureDownload baseline; official PL schedule cross-check"
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 10,
@@ -999,7 +999,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "source": "FixtureDownload baseline; official PL schedule cross-check"
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 10,
@@ -1010,7 +1010,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "source": "FixtureDownload baseline; official PL schedule cross-check"
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 10,
@@ -1021,7 +1021,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "source": "FixtureDownload baseline; official PL schedule cross-check"
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 10,
@@ -1032,7 +1032,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "source": "FixtureDownload baseline; official PL schedule cross-check"
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 10,
@@ -1043,7 +1043,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "source": "FixtureDownload baseline; official PL schedule cross-check"
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 10,
@@ -1054,7 +1054,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "source": "FixtureDownload baseline; official PL schedule cross-check"
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 10,
@@ -1065,7 +1065,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "source": "FixtureDownload baseline; official PL schedule cross-check"
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 10,
@@ -1076,7 +1076,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "source": "FixtureDownload baseline; official PL schedule cross-check"
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 10,
@@ -1087,7 +1087,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "source": "FixtureDownload baseline; official PL schedule cross-check"
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 10,
@@ -1098,7 +1098,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "source": "FixtureDownload baseline; official PL schedule cross-check"
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 11,
@@ -1109,7 +1109,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "source": "FixtureDownload baseline; official PL schedule cross-check"
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 11,
@@ -1120,7 +1120,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "source": "FixtureDownload baseline; official PL schedule cross-check"
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 11,
@@ -1131,7 +1131,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "source": "FixtureDownload baseline; official PL schedule cross-check"
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 11,
@@ -1142,7 +1142,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "source": "FixtureDownload baseline; official PL schedule cross-check"
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 11,
@@ -1153,7 +1153,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "source": "FixtureDownload baseline; official PL schedule cross-check"
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 11,
@@ -1164,7 +1164,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "source": "FixtureDownload baseline; official PL schedule cross-check"
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 11,
@@ -1175,7 +1175,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "source": "FixtureDownload baseline; official PL schedule cross-check"
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 11,
@@ -1186,7 +1186,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "source": "FixtureDownload baseline; official PL schedule cross-check"
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 11,
@@ -1197,7 +1197,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "source": "FixtureDownload baseline; official PL schedule cross-check"
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 11,
@@ -1208,7 +1208,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "source": "FixtureDownload baseline; official PL schedule cross-check"
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 12,
@@ -1219,7 +1219,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "source": "FixtureDownload baseline; official PL schedule cross-check"
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 12,
@@ -1230,7 +1230,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "source": "FixtureDownload baseline; official PL schedule cross-check"
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 12,
@@ -1241,7 +1241,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "source": "FixtureDownload baseline; official PL schedule cross-check"
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 12,
@@ -1252,7 +1252,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "source": "FixtureDownload baseline; official PL schedule cross-check"
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 12,
@@ -1263,7 +1263,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "source": "FixtureDownload baseline; official PL schedule cross-check"
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 12,
@@ -1274,7 +1274,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "source": "FixtureDownload baseline; official PL schedule cross-check"
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 12,
@@ -1285,7 +1285,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "source": "FixtureDownload baseline; official PL schedule cross-check"
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 12,
@@ -1296,7 +1296,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "source": "FixtureDownload baseline; official PL schedule cross-check"
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 12,
@@ -1307,7 +1307,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "source": "FixtureDownload baseline; official PL schedule cross-check"
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 12,
@@ -1318,7 +1318,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "source": "FixtureDownload baseline; official PL schedule cross-check"
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 13,
@@ -1329,7 +1329,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "source": "FixtureDownload baseline; official PL schedule cross-check"
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 13,
@@ -1340,7 +1340,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "source": "FixtureDownload baseline; official PL schedule cross-check"
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 13,
@@ -1351,7 +1351,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "source": "FixtureDownload baseline; official PL schedule cross-check"
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 13,
@@ -1362,7 +1362,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "source": "FixtureDownload baseline; official PL schedule cross-check"
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 13,
@@ -1373,7 +1373,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "source": "FixtureDownload baseline; official PL schedule cross-check"
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 13,
@@ -1384,7 +1384,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "source": "FixtureDownload baseline; official PL schedule cross-check"
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 13,
@@ -1395,7 +1395,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "source": "FixtureDownload baseline; official PL schedule cross-check"
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 13,
@@ -1406,7 +1406,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "source": "FixtureDownload baseline; official PL schedule cross-check"
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 13,
@@ -1417,7 +1417,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "source": "FixtureDownload baseline; official PL schedule cross-check"
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 13,
@@ -1428,7 +1428,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "source": "FixtureDownload baseline; official PL schedule cross-check"
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 14,
@@ -1439,7 +1439,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "source": "FixtureDownload baseline; official PL schedule cross-check"
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 14,
@@ -1450,7 +1450,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "source": "FixtureDownload baseline; official PL schedule cross-check"
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 14,
@@ -1461,7 +1461,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "source": "FixtureDownload baseline; official PL schedule cross-check"
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 14,
@@ -1472,7 +1472,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "source": "FixtureDownload baseline; official PL schedule cross-check"
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 14,
@@ -1483,7 +1483,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "source": "FixtureDownload baseline; official PL schedule cross-check"
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 14,
@@ -1494,7 +1494,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "source": "FixtureDownload baseline; official PL schedule cross-check"
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 14,
@@ -1505,7 +1505,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "source": "FixtureDownload baseline; official PL schedule cross-check"
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 14,
@@ -1516,7 +1516,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "source": "FixtureDownload baseline; official PL schedule cross-check"
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 14,
@@ -1527,7 +1527,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "source": "FixtureDownload baseline; official PL schedule cross-check"
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 14,
@@ -1538,7 +1538,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "source": "FixtureDownload baseline; official PL schedule cross-check"
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 15,
@@ -1549,7 +1549,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "source": "FixtureDownload baseline; official PL schedule cross-check"
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 15,
@@ -1560,7 +1560,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "source": "FixtureDownload baseline; official PL schedule cross-check"
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 15,
@@ -1571,7 +1571,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "source": "FixtureDownload baseline; official PL schedule cross-check"
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 15,
@@ -1582,7 +1582,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "source": "FixtureDownload baseline; official PL schedule cross-check"
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 15,
@@ -1593,7 +1593,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "source": "FixtureDownload baseline; official PL schedule cross-check"
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 15,
@@ -1604,7 +1604,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "source": "FixtureDownload baseline; official PL schedule cross-check"
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 15,
@@ -1615,7 +1615,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "source": "FixtureDownload baseline; official PL schedule cross-check"
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 15,
@@ -1626,7 +1626,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "source": "FixtureDownload baseline; official PL schedule cross-check"
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 15,
@@ -1637,7 +1637,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "source": "FixtureDownload baseline; official PL schedule cross-check"
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 15,
@@ -1648,7 +1648,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "source": "FixtureDownload baseline; official PL schedule cross-check"
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 16,
@@ -1659,7 +1659,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "source": "FixtureDownload baseline; official PL schedule cross-check"
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 16,
@@ -1670,7 +1670,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "source": "FixtureDownload baseline; official PL schedule cross-check"
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 16,
@@ -1681,7 +1681,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "source": "FixtureDownload baseline; official PL schedule cross-check"
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 16,
@@ -1692,7 +1692,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "source": "FixtureDownload baseline; official PL schedule cross-check"
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 16,
@@ -1703,7 +1703,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "source": "FixtureDownload baseline; official PL schedule cross-check"
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 16,
@@ -1714,7 +1714,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "source": "FixtureDownload baseline; official PL schedule cross-check"
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 16,
@@ -1725,7 +1725,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "source": "FixtureDownload baseline; official PL schedule cross-check"
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 16,
@@ -1736,7 +1736,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "source": "FixtureDownload baseline; official PL schedule cross-check"
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 16,
@@ -1747,7 +1747,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "source": "FixtureDownload baseline; official PL schedule cross-check"
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 16,
@@ -1758,7 +1758,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "source": "FixtureDownload baseline; official PL schedule cross-check"
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 17,
@@ -1769,7 +1769,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "source": "FixtureDownload baseline; official PL schedule cross-check"
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 17,
@@ -1780,7 +1780,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "source": "FixtureDownload baseline; official PL schedule cross-check"
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 17,
@@ -1791,7 +1791,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "source": "FixtureDownload baseline; official PL schedule cross-check"
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 17,
@@ -1802,7 +1802,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "source": "FixtureDownload baseline; official PL schedule cross-check"
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 17,
@@ -1813,7 +1813,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "source": "FixtureDownload baseline; official PL schedule cross-check"
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 17,
@@ -1824,7 +1824,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "source": "FixtureDownload baseline; official PL schedule cross-check"
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 17,
@@ -1835,7 +1835,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "source": "FixtureDownload baseline; official PL schedule cross-check"
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 17,
@@ -1846,7 +1846,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "source": "FixtureDownload baseline; official PL schedule cross-check"
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 17,
@@ -1857,7 +1857,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "source": "FixtureDownload baseline; official PL schedule cross-check"
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 17,
@@ -1868,7 +1868,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "source": "FixtureDownload baseline; official PL schedule cross-check"
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 18,
@@ -1879,7 +1879,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "source": "FixtureDownload baseline; official PL schedule cross-check"
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 18,
@@ -1890,7 +1890,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "source": "FixtureDownload baseline; official PL schedule cross-check"
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 18,
@@ -1901,7 +1901,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "source": "FixtureDownload baseline; official PL schedule cross-check"
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 18,
@@ -1912,7 +1912,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "source": "FixtureDownload baseline; official PL schedule cross-check"
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 18,
@@ -1923,7 +1923,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "source": "FixtureDownload baseline; official PL schedule cross-check"
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 18,
@@ -1934,7 +1934,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "source": "FixtureDownload baseline; official PL schedule cross-check"
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 18,
@@ -1945,7 +1945,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "source": "FixtureDownload baseline; official PL schedule cross-check"
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 18,
@@ -1956,7 +1956,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "source": "FixtureDownload baseline; official PL schedule cross-check"
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 18,
@@ -1967,7 +1967,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "source": "FixtureDownload baseline; official PL schedule cross-check"
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 18,
@@ -1978,7 +1978,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "source": "FixtureDownload baseline; official PL schedule cross-check"
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 19,
@@ -1989,7 +1989,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "source": "FixtureDownload baseline; official PL schedule cross-check"
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 19,
@@ -2000,7 +2000,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "source": "FixtureDownload baseline; official PL schedule cross-check"
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 19,
@@ -2011,7 +2011,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "source": "FixtureDownload baseline; official PL schedule cross-check"
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 19,
@@ -2022,7 +2022,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "source": "FixtureDownload baseline; official PL schedule cross-check"
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 19,
@@ -2033,7 +2033,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "source": "FixtureDownload baseline; official PL schedule cross-check"
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 19,
@@ -2044,7 +2044,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "source": "FixtureDownload baseline; official PL schedule cross-check"
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 19,
@@ -2055,7 +2055,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "source": "FixtureDownload baseline; official PL schedule cross-check"
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 19,
@@ -2066,7 +2066,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "source": "FixtureDownload baseline; official PL schedule cross-check"
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 19,
@@ -2077,7 +2077,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "source": "FixtureDownload baseline; official PL schedule cross-check"
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 19,
@@ -2088,7 +2088,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "source": "FixtureDownload baseline; official PL schedule cross-check"
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 20,
@@ -2099,7 +2099,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "source": "FixtureDownload baseline; official PL schedule cross-check"
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 20,
@@ -2110,7 +2110,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "source": "FixtureDownload baseline; official PL schedule cross-check"
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 20,
@@ -2121,7 +2121,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "source": "FixtureDownload baseline; official PL schedule cross-check"
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 20,
@@ -2132,7 +2132,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "source": "FixtureDownload baseline; official PL schedule cross-check"
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 20,
@@ -2143,7 +2143,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "source": "FixtureDownload baseline; official PL schedule cross-check"
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 20,
@@ -2154,7 +2154,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "source": "FixtureDownload baseline; official PL schedule cross-check"
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 20,
@@ -2165,7 +2165,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "source": "FixtureDownload baseline; official PL schedule cross-check"
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 20,
@@ -2176,7 +2176,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "source": "FixtureDownload baseline; official PL schedule cross-check"
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 20,
@@ -2187,7 +2187,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "source": "FixtureDownload baseline; official PL schedule cross-check"
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 20,
@@ -2198,7 +2198,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "source": "FixtureDownload baseline; official PL schedule cross-check"
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 21,
@@ -2209,7 +2209,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "source": "FixtureDownload baseline; official PL schedule cross-check"
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 21,
@@ -2220,7 +2220,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "source": "FixtureDownload baseline; official PL schedule cross-check"
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 21,
@@ -2231,7 +2231,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "source": "FixtureDownload baseline; official PL schedule cross-check"
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 21,
@@ -2242,7 +2242,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "source": "FixtureDownload baseline; official PL schedule cross-check"
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 21,
@@ -2253,7 +2253,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "source": "FixtureDownload baseline; official PL schedule cross-check"
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 21,
@@ -2264,7 +2264,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "source": "FixtureDownload baseline; official PL schedule cross-check"
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 21,
@@ -2275,7 +2275,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "source": "FixtureDownload baseline; official PL schedule cross-check"
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 21,
@@ -2286,7 +2286,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "source": "FixtureDownload baseline; official PL schedule cross-check"
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 21,
@@ -2297,7 +2297,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "source": "FixtureDownload baseline; official PL schedule cross-check"
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 21,
@@ -2308,7 +2308,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "source": "FixtureDownload baseline; official PL schedule cross-check"
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 22,
@@ -2319,7 +2319,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "source": "FixtureDownload baseline; official PL schedule cross-check"
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 22,
@@ -2330,7 +2330,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "source": "FixtureDownload baseline; official PL schedule cross-check"
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 22,
@@ -2341,7 +2341,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "source": "FixtureDownload baseline; official PL schedule cross-check"
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 22,
@@ -2352,7 +2352,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "source": "FixtureDownload baseline; official PL schedule cross-check"
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 22,
@@ -2363,7 +2363,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "source": "FixtureDownload baseline; official PL schedule cross-check"
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 22,
@@ -2374,7 +2374,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "source": "FixtureDownload baseline; official PL schedule cross-check"
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 22,
@@ -2385,7 +2385,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "source": "FixtureDownload baseline; official PL schedule cross-check"
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 22,
@@ -2396,7 +2396,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "source": "FixtureDownload baseline; official PL schedule cross-check"
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 22,
@@ -2407,7 +2407,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "source": "FixtureDownload baseline; official PL schedule cross-check"
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 22,
@@ -2418,7 +2418,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "source": "FixtureDownload baseline; official PL schedule cross-check"
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 23,
@@ -2429,7 +2429,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "source": "FixtureDownload baseline; official PL schedule cross-check"
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 23,
@@ -2440,7 +2440,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "source": "FixtureDownload baseline; official PL schedule cross-check"
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 23,
@@ -2451,7 +2451,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "source": "FixtureDownload baseline; official PL schedule cross-check"
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 23,
@@ -2462,7 +2462,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "source": "FixtureDownload baseline; official PL schedule cross-check"
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 23,
@@ -2473,7 +2473,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "source": "FixtureDownload baseline; official PL schedule cross-check"
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 23,
@@ -2484,7 +2484,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "source": "FixtureDownload baseline; official PL schedule cross-check"
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 23,
@@ -2495,7 +2495,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "source": "FixtureDownload baseline; official PL schedule cross-check"
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 23,
@@ -2506,7 +2506,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "source": "FixtureDownload baseline; official PL schedule cross-check"
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 23,
@@ -2517,7 +2517,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "source": "FixtureDownload baseline; official PL schedule cross-check"
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 23,
@@ -2528,7 +2528,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "source": "FixtureDownload baseline; official PL schedule cross-check"
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 24,
@@ -2539,7 +2539,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "source": "FixtureDownload baseline; official PL schedule cross-check"
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 24,
@@ -2550,7 +2550,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "source": "FixtureDownload baseline; official PL schedule cross-check"
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 24,
@@ -2561,7 +2561,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "source": "FixtureDownload baseline; official PL schedule cross-check"
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 24,
@@ -2572,7 +2572,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "source": "FixtureDownload baseline; official PL schedule cross-check"
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 24,
@@ -2583,7 +2583,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "source": "FixtureDownload baseline; official PL schedule cross-check"
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 24,
@@ -2594,7 +2594,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "source": "FixtureDownload baseline; official PL schedule cross-check"
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 24,
@@ -2605,7 +2605,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "source": "FixtureDownload baseline; official PL schedule cross-check"
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 24,
@@ -2616,7 +2616,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "source": "FixtureDownload baseline; official PL schedule cross-check"
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 24,
@@ -2627,7 +2627,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "source": "FixtureDownload baseline; official PL schedule cross-check"
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 24,
@@ -2638,7 +2638,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "source": "FixtureDownload baseline; official PL schedule cross-check"
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 25,
@@ -2649,7 +2649,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "source": "FixtureDownload baseline; official PL schedule cross-check"
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 25,
@@ -2660,7 +2660,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "source": "FixtureDownload baseline; official PL schedule cross-check"
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 25,
@@ -2671,7 +2671,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "source": "FixtureDownload baseline; official PL schedule cross-check"
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 25,
@@ -2682,7 +2682,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "source": "FixtureDownload baseline; official PL schedule cross-check"
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 25,
@@ -2693,7 +2693,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "source": "FixtureDownload baseline; official PL schedule cross-check"
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 25,
@@ -2704,7 +2704,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "source": "FixtureDownload baseline; official PL schedule cross-check"
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 25,
@@ -2715,7 +2715,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "source": "FixtureDownload baseline; official PL schedule cross-check"
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 25,
@@ -2726,7 +2726,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "source": "FixtureDownload baseline; official PL schedule cross-check"
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 25,
@@ -2737,7 +2737,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "source": "FixtureDownload baseline; official PL schedule cross-check"
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 25,
@@ -2748,7 +2748,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "source": "FixtureDownload baseline; official PL schedule cross-check"
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 26,
@@ -2759,7 +2759,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "source": "FixtureDownload baseline; official PL schedule cross-check"
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 26,
@@ -2770,7 +2770,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "source": "FixtureDownload baseline; official PL schedule cross-check"
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 26,
@@ -2781,7 +2781,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "source": "FixtureDownload baseline; official PL schedule cross-check"
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 26,
@@ -2792,7 +2792,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "source": "FixtureDownload baseline; official PL schedule cross-check"
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 26,
@@ -2803,7 +2803,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "source": "FixtureDownload baseline; official PL schedule cross-check"
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 26,
@@ -2814,7 +2814,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "source": "FixtureDownload baseline; official PL schedule cross-check"
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 26,
@@ -2825,7 +2825,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "source": "FixtureDownload baseline; official PL schedule cross-check"
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 26,
@@ -2836,7 +2836,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "source": "FixtureDownload baseline; official PL schedule cross-check"
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 26,
@@ -2847,7 +2847,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "source": "FixtureDownload baseline; official PL schedule cross-check"
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 26,
@@ -2858,7 +2858,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "source": "FixtureDownload baseline; official PL schedule cross-check"
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 27,
@@ -2869,7 +2869,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "source": "FixtureDownload baseline; official PL schedule cross-check"
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 27,
@@ -2880,7 +2880,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "source": "FixtureDownload baseline; official PL schedule cross-check"
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 27,
@@ -2891,7 +2891,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "source": "FixtureDownload baseline; official PL schedule cross-check"
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 27,
@@ -2902,7 +2902,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "source": "FixtureDownload baseline; official PL schedule cross-check"
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 27,
@@ -2913,7 +2913,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "source": "FixtureDownload baseline; official PL schedule cross-check"
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 27,
@@ -2924,7 +2924,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "source": "FixtureDownload baseline; official PL schedule cross-check"
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 27,
@@ -2935,7 +2935,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "source": "FixtureDownload baseline; official PL schedule cross-check"
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 27,
@@ -2946,7 +2946,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "source": "FixtureDownload baseline; official PL schedule cross-check"
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 27,
@@ -2957,7 +2957,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "source": "FixtureDownload baseline; official PL schedule cross-check"
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 27,
@@ -2968,7 +2968,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "source": "FixtureDownload baseline; official PL schedule cross-check"
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 28,
@@ -2979,7 +2979,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "source": "FixtureDownload baseline; official PL schedule cross-check"
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 28,
@@ -2990,7 +2990,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "source": "FixtureDownload baseline; official PL schedule cross-check"
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 28,
@@ -3001,7 +3001,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "source": "FixtureDownload baseline; official PL schedule cross-check"
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 28,
@@ -3012,7 +3012,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "source": "FixtureDownload baseline; official PL schedule cross-check"
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 28,
@@ -3023,7 +3023,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "source": "FixtureDownload baseline; official PL schedule cross-check"
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 28,
@@ -3034,7 +3034,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "source": "FixtureDownload baseline; official PL schedule cross-check"
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 28,
@@ -3045,7 +3045,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "source": "FixtureDownload baseline; official PL schedule cross-check"
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 28,
@@ -3056,7 +3056,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "source": "FixtureDownload baseline; official PL schedule cross-check"
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 28,
@@ -3067,7 +3067,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "source": "FixtureDownload baseline; official PL schedule cross-check"
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 28,
@@ -3078,7 +3078,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "source": "FixtureDownload baseline; official PL schedule cross-check"
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 29,
@@ -3089,7 +3089,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "source": "FixtureDownload baseline; official PL schedule cross-check"
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 29,
@@ -3100,7 +3100,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "source": "FixtureDownload baseline; official PL schedule cross-check"
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 29,
@@ -3111,7 +3111,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "source": "FixtureDownload baseline; official PL schedule cross-check"
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 29,
@@ -3122,7 +3122,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "source": "FixtureDownload baseline; official PL schedule cross-check"
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 29,
@@ -3133,7 +3133,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "source": "FixtureDownload baseline; official PL schedule cross-check"
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 29,
@@ -3144,7 +3144,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "source": "FixtureDownload baseline; official PL schedule cross-check"
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 29,
@@ -3155,7 +3155,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "source": "FixtureDownload baseline; official PL schedule cross-check"
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 29,
@@ -3166,7 +3166,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "source": "FixtureDownload baseline; official PL schedule cross-check"
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 29,
@@ -3177,7 +3177,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "source": "FixtureDownload baseline; official PL schedule cross-check"
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 29,
@@ -3188,7 +3188,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "source": "FixtureDownload baseline; official PL schedule cross-check"
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 30,
@@ -3199,7 +3199,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "source": "FixtureDownload baseline; official PL schedule cross-check"
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 30,
@@ -3210,7 +3210,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "source": "FixtureDownload baseline; official PL schedule cross-check"
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 30,
@@ -3221,7 +3221,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "source": "FixtureDownload baseline; official PL schedule cross-check"
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 30,
@@ -3232,7 +3232,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "source": "FixtureDownload baseline; official PL schedule cross-check"
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 30,
@@ -3243,7 +3243,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "source": "FixtureDownload baseline; official PL schedule cross-check"
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 30,
@@ -3254,7 +3254,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "source": "FixtureDownload baseline; official PL schedule cross-check"
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 30,
@@ -3265,7 +3265,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "source": "FixtureDownload baseline; official PL schedule cross-check"
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 30,
@@ -3276,7 +3276,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "source": "FixtureDownload baseline; official PL schedule cross-check"
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 30,
@@ -3287,7 +3287,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "source": "FixtureDownload baseline; official PL schedule cross-check"
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 30,
@@ -3298,7 +3298,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "source": "FixtureDownload baseline; official PL schedule cross-check"
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 31,
@@ -3309,7 +3309,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "source": "FixtureDownload baseline; official PL schedule cross-check"
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 31,
@@ -3320,7 +3320,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "source": "FixtureDownload baseline; official PL schedule cross-check"
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 31,
@@ -3331,7 +3331,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "source": "FixtureDownload baseline; official PL schedule cross-check"
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 31,
@@ -3342,7 +3342,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "source": "FixtureDownload baseline; official PL schedule cross-check"
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 31,
@@ -3353,7 +3353,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "source": "FixtureDownload baseline; official PL schedule cross-check"
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 31,
@@ -3364,7 +3364,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "source": "FixtureDownload baseline; official PL schedule cross-check"
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 31,
@@ -3375,7 +3375,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "source": "FixtureDownload baseline; official PL schedule cross-check"
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 31,
@@ -3386,7 +3386,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "source": "FixtureDownload baseline; official PL schedule cross-check"
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 31,
@@ -3397,7 +3397,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "source": "FixtureDownload baseline; official PL schedule cross-check"
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 31,
@@ -3408,7 +3408,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "source": "FixtureDownload baseline; official PL schedule cross-check"
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 32,
@@ -3419,7 +3419,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "source": "FixtureDownload baseline; official PL schedule cross-check"
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 32,
@@ -3430,7 +3430,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "source": "FixtureDownload baseline; official PL schedule cross-check"
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 32,
@@ -3441,7 +3441,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "source": "FixtureDownload baseline; official PL schedule cross-check"
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 32,
@@ -3452,7 +3452,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "source": "FixtureDownload baseline; official PL schedule cross-check"
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 32,
@@ -3463,7 +3463,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "source": "FixtureDownload baseline; official PL schedule cross-check"
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 32,
@@ -3474,7 +3474,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "source": "FixtureDownload baseline; official PL schedule cross-check"
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 32,
@@ -3485,7 +3485,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "source": "FixtureDownload baseline; official PL schedule cross-check"
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 32,
@@ -3496,7 +3496,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "source": "FixtureDownload baseline; official PL schedule cross-check"
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 32,
@@ -3507,7 +3507,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "source": "FixtureDownload baseline; official PL schedule cross-check"
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 32,
@@ -3518,7 +3518,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "source": "FixtureDownload baseline; official PL schedule cross-check"
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 33,
@@ -3529,7 +3529,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "source": "FixtureDownload baseline; official PL schedule cross-check"
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 33,
@@ -3540,7 +3540,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "source": "FixtureDownload baseline; official PL schedule cross-check"
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 33,
@@ -3551,7 +3551,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "source": "FixtureDownload baseline; official PL schedule cross-check"
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 33,
@@ -3562,7 +3562,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "source": "FixtureDownload baseline; official PL schedule cross-check"
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 33,
@@ -3573,7 +3573,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "source": "FixtureDownload baseline; official PL schedule cross-check"
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 33,
@@ -3584,7 +3584,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "source": "FixtureDownload baseline; official PL schedule cross-check"
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 33,
@@ -3595,7 +3595,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "source": "FixtureDownload baseline; official PL schedule cross-check"
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 33,
@@ -3606,7 +3606,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "source": "FixtureDownload baseline; official PL schedule cross-check"
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 33,
@@ -3617,7 +3617,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "source": "FixtureDownload baseline; official PL schedule cross-check"
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 33,
@@ -3628,7 +3628,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "source": "FixtureDownload baseline; official PL schedule cross-check"
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 34,
@@ -3639,7 +3639,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "source": "FixtureDownload baseline; official PL schedule cross-check"
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 34,
@@ -3650,7 +3650,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "source": "FixtureDownload baseline; official PL schedule cross-check"
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 34,
@@ -3661,7 +3661,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "source": "FixtureDownload baseline; official PL schedule cross-check"
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 34,
@@ -3672,7 +3672,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "source": "FixtureDownload baseline; official PL schedule cross-check"
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 34,
@@ -3683,7 +3683,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "source": "FixtureDownload baseline; official PL schedule cross-check"
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 34,
@@ -3694,7 +3694,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "source": "FixtureDownload baseline; official PL schedule cross-check"
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 34,
@@ -3705,7 +3705,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "source": "FixtureDownload baseline; official PL schedule cross-check"
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 34,
@@ -3716,7 +3716,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "source": "FixtureDownload baseline; official PL schedule cross-check"
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 34,
@@ -3727,7 +3727,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "source": "FixtureDownload baseline; official PL schedule cross-check"
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 34,
@@ -3738,7 +3738,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "source": "FixtureDownload baseline; official PL schedule cross-check"
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 35,
@@ -3749,7 +3749,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "source": "FixtureDownload baseline; official PL schedule cross-check"
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 35,
@@ -3760,7 +3760,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "source": "FixtureDownload baseline; official PL schedule cross-check"
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 35,
@@ -3771,7 +3771,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "source": "FixtureDownload baseline; official PL schedule cross-check"
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 35,
@@ -3782,7 +3782,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "source": "FixtureDownload baseline; official PL schedule cross-check"
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 35,
@@ -3793,7 +3793,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "source": "FixtureDownload baseline; official PL schedule cross-check"
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 35,
@@ -3804,7 +3804,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "source": "FixtureDownload baseline; official PL schedule cross-check"
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 35,
@@ -3815,7 +3815,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "source": "FixtureDownload baseline; official PL schedule cross-check"
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 35,
@@ -3826,7 +3826,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "source": "FixtureDownload baseline; official PL schedule cross-check"
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 35,
@@ -3837,7 +3837,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "source": "FixtureDownload baseline; official PL schedule cross-check"
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 35,
@@ -3848,7 +3848,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "source": "FixtureDownload baseline; official PL schedule cross-check"
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 36,
@@ -3859,7 +3859,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "source": "FixtureDownload baseline; official PL schedule cross-check"
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 36,
@@ -3870,7 +3870,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "source": "FixtureDownload baseline; official PL schedule cross-check"
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 36,
@@ -3881,7 +3881,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "source": "FixtureDownload baseline; official PL schedule cross-check"
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 36,
@@ -3892,7 +3892,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "source": "FixtureDownload baseline; official PL schedule cross-check"
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 36,
@@ -3903,7 +3903,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "source": "FixtureDownload baseline; official PL schedule cross-check"
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 36,
@@ -3914,7 +3914,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "source": "FixtureDownload baseline; official PL schedule cross-check"
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 36,
@@ -3925,7 +3925,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "source": "FixtureDownload baseline; official PL schedule cross-check"
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 36,
@@ -3936,7 +3936,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "source": "FixtureDownload baseline; official PL schedule cross-check"
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 36,
@@ -3947,7 +3947,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "source": "FixtureDownload baseline; official PL schedule cross-check"
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 36,
@@ -3958,7 +3958,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "source": "FixtureDownload baseline; official PL schedule cross-check"
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 37,
@@ -3969,7 +3969,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "source": "FixtureDownload baseline; official PL schedule cross-check"
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 37,
@@ -3980,7 +3980,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "source": "FixtureDownload baseline; official PL schedule cross-check"
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 37,
@@ -3991,7 +3991,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "source": "FixtureDownload baseline; official PL schedule cross-check"
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 37,
@@ -4002,7 +4002,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "source": "FixtureDownload baseline; official PL schedule cross-check"
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 37,
@@ -4013,7 +4013,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "source": "FixtureDownload baseline; official PL schedule cross-check"
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 37,
@@ -4024,7 +4024,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "source": "FixtureDownload baseline; official PL schedule cross-check"
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 37,
@@ -4035,7 +4035,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "source": "FixtureDownload baseline; official PL schedule cross-check"
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 37,
@@ -4046,7 +4046,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "source": "FixtureDownload baseline; official PL schedule cross-check"
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 37,
@@ -4057,7 +4057,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "source": "FixtureDownload baseline; official PL schedule cross-check"
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 37,
@@ -4068,7 +4068,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "source": "FixtureDownload baseline; official PL schedule cross-check"
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 38,
@@ -4079,7 +4079,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "source": "FixtureDownload baseline; official PL schedule cross-check"
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 38,
@@ -4090,7 +4090,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "source": "FixtureDownload baseline; official PL schedule cross-check"
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 38,
@@ -4101,7 +4101,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "source": "FixtureDownload baseline; official PL schedule cross-check"
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 38,
@@ -4112,7 +4112,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "source": "FixtureDownload baseline; official PL schedule cross-check"
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 38,
@@ -4123,7 +4123,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "source": "FixtureDownload baseline; official PL schedule cross-check"
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 38,
@@ -4134,7 +4134,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "source": "FixtureDownload baseline; official PL schedule cross-check"
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 38,
@@ -4145,7 +4145,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "source": "FixtureDownload baseline; official PL schedule cross-check"
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 38,
@@ -4156,7 +4156,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "source": "FixtureDownload baseline; official PL schedule cross-check"
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 38,
@@ -4167,7 +4167,7 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "source": "FixtureDownload baseline; official PL schedule cross-check"
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 38,
@@ -4178,11 +4178,1596 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "source": "FixtureDownload baseline; official PL schedule cross-check"
+      "source": "FixtureDownload schedule/results baseline"
     }
   ],
-  "championsLeagueMatches": [],
-  "championsLeagueStatus": "League-phase draw: Thursday, August 27. Full matchweek schedule will populate here after UEFA publishes the draw.",
+  "championsLeagueMatches": [
+    {
+      "round": 1,
+      "date": "2026-09-08T16:45:00Z",
+      "home": "Club Brugge",
+      "away": "Aston Villa",
+      "venue": "Jan Breydelstadion",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "source": "FixtureDownload schedule baseline; UEFA official fixture cross-check"
+    },
+    {
+      "round": 1,
+      "date": "2026-09-08T16:45:00Z",
+      "home": "AEK Athens",
+      "away": "LASK",
+      "venue": "AEK Arena",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "source": "FixtureDownload schedule baseline; UEFA official fixture cross-check"
+    },
+    {
+      "round": 1,
+      "date": "2026-09-08T19:00:00Z",
+      "home": "Real Madrid",
+      "away": "Inter",
+      "venue": "Estadio Santiago Bernabéu",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "source": "FixtureDownload schedule baseline; UEFA official fixture cross-check"
+    },
+    {
+      "round": 1,
+      "date": "2026-09-08T19:00:00Z",
+      "home": "Borussia Dortmund",
+      "away": "Villarreal",
+      "venue": "BVB Stadion Dortmund",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "source": "FixtureDownload schedule baseline; UEFA official fixture cross-check"
+    },
+    {
+      "round": 1,
+      "date": "2026-09-08T19:00:00Z",
+      "home": "Porto",
+      "away": "Manchester City",
+      "venue": "Estádio do Dragão",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "source": "FixtureDownload schedule baseline; UEFA official fixture cross-check"
+    },
+    {
+      "round": 1,
+      "date": "2026-09-08T19:00:00Z",
+      "home": "Lille",
+      "away": "Real Betis",
+      "venue": "Stade Pierre Mauroy",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "source": "FixtureDownload schedule baseline; UEFA official fixture cross-check"
+    },
+    {
+      "round": 1,
+      "date": "2026-09-09T16:45:00Z",
+      "home": "Barcelona",
+      "away": "Feyenoord",
+      "venue": "Camp Nou",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "source": "FixtureDownload schedule baseline; UEFA official fixture cross-check"
+    },
+    {
+      "round": 1,
+      "date": "2026-09-09T16:45:00Z",
+      "home": "Stuttgart",
+      "away": "Viking",
+      "venue": "Arena Stuttgart",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "source": "FixtureDownload schedule baseline; UEFA official fixture cross-check"
+    },
+    {
+      "round": 1,
+      "date": "2026-09-09T19:00:00Z",
+      "home": "Paris Saint-Germain",
+      "away": "Slovan Bratislava",
+      "venue": "Parc des Princes",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "source": "FixtureDownload schedule baseline; UEFA official fixture cross-check"
+    },
+    {
+      "round": 1,
+      "date": "2026-09-09T19:00:00Z",
+      "home": "Liverpool",
+      "away": "Atlético de Madrid",
+      "venue": "Anfield",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "source": "FixtureDownload schedule baseline; UEFA official fixture cross-check"
+    },
+    {
+      "round": 1,
+      "date": "2026-09-09T19:00:00Z",
+      "home": "Sporting CP",
+      "away": "Galatasaray",
+      "venue": "Estádio José Alvalade",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "source": "FixtureDownload schedule baseline; UEFA official fixture cross-check"
+    },
+    {
+      "round": 1,
+      "date": "2026-09-09T19:00:00Z",
+      "home": "Napoli",
+      "away": "Arsenal",
+      "venue": "Stadio Diego Armando Maradona",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "source": "FixtureDownload schedule baseline; UEFA official fixture cross-check"
+    },
+    {
+      "round": 1,
+      "date": "2026-09-10T16:45:00Z",
+      "home": "PSV Eindhoven",
+      "away": "Shakhtar Donetsk",
+      "venue": "PSV Stadion",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "source": "FixtureDownload schedule baseline; UEFA official fixture cross-check"
+    },
+    {
+      "round": 1,
+      "date": "2026-09-10T16:45:00Z",
+      "home": "Fenerbahçe",
+      "away": "Roma",
+      "venue": "Fenerbahçe Sükrü Saracoglu Spor Kompleksi",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "source": "FixtureDownload schedule baseline; UEFA official fixture cross-check"
+    },
+    {
+      "round": 1,
+      "date": "2026-09-10T19:00:00Z",
+      "home": "Bayern Munich",
+      "away": "Bodø/Glimt",
+      "venue": "Fußball Arena München",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "source": "FixtureDownload schedule baseline; UEFA official fixture cross-check"
+    },
+    {
+      "round": 1,
+      "date": "2026-09-10T19:00:00Z",
+      "home": "Manchester United",
+      "away": "Sabah",
+      "venue": "Old Trafford",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "source": "FixtureDownload schedule baseline; UEFA official fixture cross-check"
+    },
+    {
+      "round": 1,
+      "date": "2026-09-10T19:00:00Z",
+      "home": "Slavia Praha",
+      "away": "Lens",
+      "venue": "Eden Arena",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "source": "FixtureDownload schedule baseline; UEFA official fixture cross-check"
+    },
+    {
+      "round": 1,
+      "date": "2026-09-10T19:00:00Z",
+      "home": "Como",
+      "away": "RB Leipzig",
+      "venue": "Giuseppe Sinigaglia",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "source": "FixtureDownload schedule baseline; UEFA official fixture cross-check"
+    },
+    {
+      "round": 2,
+      "date": "2026-10-13T16:45:00Z",
+      "home": "Lens",
+      "away": "Sporting CP",
+      "venue": "Stade Bollaert-Delelis",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "source": "FixtureDownload schedule baseline; UEFA official fixture cross-check"
+    },
+    {
+      "round": 2,
+      "date": "2026-10-13T16:45:00Z",
+      "home": "Sabah",
+      "away": "Slavia Praha",
+      "venue": "TBA",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "source": "FixtureDownload schedule baseline; UEFA official fixture cross-check"
+    },
+    {
+      "round": 2,
+      "date": "2026-10-13T19:00:00Z",
+      "home": "Inter",
+      "away": "Club Brugge",
+      "venue": "Stadio San Siro",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "source": "FixtureDownload schedule baseline; UEFA official fixture cross-check"
+    },
+    {
+      "round": 2,
+      "date": "2026-10-13T19:00:00Z",
+      "home": "Arsenal",
+      "away": "Lille",
+      "venue": "Arsenal Stadium",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "source": "FixtureDownload schedule baseline; UEFA official fixture cross-check"
+    },
+    {
+      "round": 2,
+      "date": "2026-10-13T19:00:00Z",
+      "home": "Atlético de Madrid",
+      "away": "Manchester United",
+      "venue": "Estadio Metropolitano",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "source": "FixtureDownload schedule baseline; UEFA official fixture cross-check"
+    },
+    {
+      "round": 2,
+      "date": "2026-10-13T19:00:00Z",
+      "home": "RB Leipzig",
+      "away": "PSV Eindhoven",
+      "venue": "RB Arena",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "source": "FixtureDownload schedule baseline; UEFA official fixture cross-check"
+    },
+    {
+      "round": 2,
+      "date": "2026-10-13T19:00:00Z",
+      "home": "Villarreal",
+      "away": "Napoli",
+      "venue": "Estadio de la Cerámica",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "source": "FixtureDownload schedule baseline; UEFA official fixture cross-check"
+    },
+    {
+      "round": 2,
+      "date": "2026-10-13T19:00:00Z",
+      "home": "Galatasaray",
+      "away": "Barcelona",
+      "venue": "Ali Sami Yen Spor Kompleksi",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "source": "FixtureDownload schedule baseline; UEFA official fixture cross-check"
+    },
+    {
+      "round": 2,
+      "date": "2026-10-13T19:00:00Z",
+      "home": "Viking",
+      "away": "Bayern Munich",
+      "venue": "Viking stadion",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "source": "FixtureDownload schedule baseline; UEFA official fixture cross-check"
+    },
+    {
+      "round": 2,
+      "date": "2026-10-14T16:45:00Z",
+      "home": "Feyenoord",
+      "away": "Como",
+      "venue": "Stadion Feijenoord 'De Kuip'",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "source": "FixtureDownload schedule baseline; UEFA official fixture cross-check"
+    },
+    {
+      "round": 2,
+      "date": "2026-10-14T16:45:00Z",
+      "home": "LASK",
+      "away": "Liverpool",
+      "venue": "Oberösterreich Arena",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "source": "FixtureDownload schedule baseline; UEFA official fixture cross-check"
+    },
+    {
+      "round": 2,
+      "date": "2026-10-14T19:00:00Z",
+      "home": "Manchester City",
+      "away": "Paris Saint-Germain",
+      "venue": "City of Manchester Stadium",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "source": "FixtureDownload schedule baseline; UEFA official fixture cross-check"
+    },
+    {
+      "round": 2,
+      "date": "2026-10-14T19:00:00Z",
+      "home": "Roma",
+      "away": "Real Madrid",
+      "venue": "Stadio Olimpico",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "source": "FixtureDownload schedule baseline; UEFA official fixture cross-check"
+    },
+    {
+      "round": 2,
+      "date": "2026-10-14T19:00:00Z",
+      "home": "Aston Villa",
+      "away": "Fenerbahçe",
+      "venue": "Villa Park",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "source": "FixtureDownload schedule baseline; UEFA official fixture cross-check"
+    },
+    {
+      "round": 2,
+      "date": "2026-10-14T19:00:00Z",
+      "home": "Real Betis",
+      "away": "Porto",
+      "venue": "LA CARTUJA DE SEVILLA",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "source": "FixtureDownload schedule baseline; UEFA official fixture cross-check"
+    },
+    {
+      "round": 2,
+      "date": "2026-10-14T19:00:00Z",
+      "home": "Bodø/Glimt",
+      "away": "Borussia Dortmund",
+      "venue": "Aspmyra",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "source": "FixtureDownload schedule baseline; UEFA official fixture cross-check"
+    },
+    {
+      "round": 2,
+      "date": "2026-10-14T19:00:00Z",
+      "home": "Shakhtar Donetsk",
+      "away": "AEK Athens",
+      "venue": "Stamford Bridge",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "source": "FixtureDownload schedule baseline; UEFA official fixture cross-check"
+    },
+    {
+      "round": 2,
+      "date": "2026-10-14T19:00:00Z",
+      "home": "Slovan Bratislava",
+      "away": "Stuttgart",
+      "venue": "Národný futbalový štadión ",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "source": "FixtureDownload schedule baseline; UEFA official fixture cross-check"
+    },
+    {
+      "round": 3,
+      "date": "2026-10-20T16:45:00Z",
+      "home": "Fenerbahçe",
+      "away": "Slavia Praha",
+      "venue": "Fenerbahçe Sükrü Saracoglu Spor Kompleksi",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "source": "FixtureDownload schedule baseline; UEFA official fixture cross-check"
+    },
+    {
+      "round": 3,
+      "date": "2026-10-20T16:45:00Z",
+      "home": "Sabah",
+      "away": "Borussia Dortmund",
+      "venue": "TBA",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "source": "FixtureDownload schedule baseline; UEFA official fixture cross-check"
+    },
+    {
+      "round": 3,
+      "date": "2026-10-20T19:00:00Z",
+      "home": "Paris Saint-Germain",
+      "away": "Barcelona",
+      "venue": "Parc des Princes",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "source": "FixtureDownload schedule baseline; UEFA official fixture cross-check"
+    },
+    {
+      "round": 3,
+      "date": "2026-10-20T19:00:00Z",
+      "home": "Liverpool",
+      "away": "Villarreal",
+      "venue": "Anfield",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "source": "FixtureDownload schedule baseline; UEFA official fixture cross-check"
+    },
+    {
+      "round": 3,
+      "date": "2026-10-20T19:00:00Z",
+      "home": "Manchester City",
+      "away": "AEK Athens",
+      "venue": "City of Manchester Stadium",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "source": "FixtureDownload schedule baseline; UEFA official fixture cross-check"
+    },
+    {
+      "round": 3,
+      "date": "2026-10-20T19:00:00Z",
+      "home": "Roma",
+      "away": "Slovan Bratislava",
+      "venue": "Stadio Olimpico",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "source": "FixtureDownload schedule baseline; UEFA official fixture cross-check"
+    },
+    {
+      "round": 3,
+      "date": "2026-10-20T19:00:00Z",
+      "home": "Porto",
+      "away": "PSV Eindhoven",
+      "venue": "Estádio do Dragão",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "source": "FixtureDownload schedule baseline; UEFA official fixture cross-check"
+    },
+    {
+      "round": 3,
+      "date": "2026-10-20T19:00:00Z",
+      "home": "Napoli",
+      "away": "Bodø/Glimt",
+      "venue": "Stadio Diego Armando Maradona",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "source": "FixtureDownload schedule baseline; UEFA official fixture cross-check"
+    },
+    {
+      "round": 3,
+      "date": "2026-10-20T19:00:00Z",
+      "home": "Stuttgart",
+      "away": "Atlético de Madrid",
+      "venue": "Arena Stuttgart",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "source": "FixtureDownload schedule baseline; UEFA official fixture cross-check"
+    },
+    {
+      "round": 3,
+      "date": "2026-10-21T16:45:00Z",
+      "home": "Lille",
+      "away": "Galatasaray",
+      "venue": "Stade Pierre Mauroy",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "source": "FixtureDownload schedule baseline; UEFA official fixture cross-check"
+    },
+    {
+      "round": 3,
+      "date": "2026-10-21T16:45:00Z",
+      "home": "Como",
+      "away": "Manchester United",
+      "venue": "Giuseppe Sinigaglia",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "source": "FixtureDownload schedule baseline; UEFA official fixture cross-check"
+    },
+    {
+      "round": 3,
+      "date": "2026-10-21T19:00:00Z",
+      "home": "Bayern Munich",
+      "away": "Arsenal",
+      "venue": "Fußball Arena München",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "source": "FixtureDownload schedule baseline; UEFA official fixture cross-check"
+    },
+    {
+      "round": 3,
+      "date": "2026-10-21T19:00:00Z",
+      "home": "Real Madrid",
+      "away": "RB Leipzig",
+      "venue": "Estadio Santiago Bernabéu",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "source": "FixtureDownload schedule baseline; UEFA official fixture cross-check"
+    },
+    {
+      "round": 3,
+      "date": "2026-10-21T19:00:00Z",
+      "home": "Inter",
+      "away": "Shakhtar Donetsk",
+      "venue": "Stadio San Siro",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "source": "FixtureDownload schedule baseline; UEFA official fixture cross-check"
+    },
+    {
+      "round": 3,
+      "date": "2026-10-21T19:00:00Z",
+      "home": "Sporting CP",
+      "away": "LASK",
+      "venue": "Estádio José Alvalade",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "source": "FixtureDownload schedule baseline; UEFA official fixture cross-check"
+    },
+    {
+      "round": 3,
+      "date": "2026-10-21T19:00:00Z",
+      "home": "Aston Villa",
+      "away": "Viking",
+      "venue": "Villa Park",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "source": "FixtureDownload schedule baseline; UEFA official fixture cross-check"
+    },
+    {
+      "round": 3,
+      "date": "2026-10-21T19:00:00Z",
+      "home": "Club Brugge",
+      "away": "Lens",
+      "venue": "Jan Breydelstadion",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "source": "FixtureDownload schedule baseline; UEFA official fixture cross-check"
+    },
+    {
+      "round": 3,
+      "date": "2026-10-21T19:00:00Z",
+      "home": "Real Betis",
+      "away": "Feyenoord",
+      "venue": "LA CARTUJA DE SEVILLA",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "source": "FixtureDownload schedule baseline; UEFA official fixture cross-check"
+    },
+    {
+      "round": 4,
+      "date": "2026-11-03T17:45:00Z",
+      "home": "Shakhtar Donetsk",
+      "away": "Sporting CP",
+      "venue": "Stamford Bridge",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "source": "FixtureDownload schedule baseline; UEFA official fixture cross-check"
+    },
+    {
+      "round": 4,
+      "date": "2026-11-03T17:45:00Z",
+      "home": "Galatasaray",
+      "away": "Stuttgart",
+      "venue": "Ali Sami Yen Spor Kompleksi",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "source": "FixtureDownload schedule baseline; UEFA official fixture cross-check"
+    },
+    {
+      "round": 4,
+      "date": "2026-11-03T20:00:00Z",
+      "home": "Barcelona",
+      "away": "Aston Villa",
+      "venue": "Camp Nou",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "source": "FixtureDownload schedule baseline; UEFA official fixture cross-check"
+    },
+    {
+      "round": 4,
+      "date": "2026-11-03T20:00:00Z",
+      "home": "Atlético de Madrid",
+      "away": "Bayern Munich",
+      "venue": "Estadio Metropolitano",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "source": "FixtureDownload schedule baseline; UEFA official fixture cross-check"
+    },
+    {
+      "round": 4,
+      "date": "2026-11-03T20:00:00Z",
+      "home": "Manchester United",
+      "away": "Roma",
+      "venue": "Old Trafford",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "source": "FixtureDownload schedule baseline; UEFA official fixture cross-check"
+    },
+    {
+      "round": 4,
+      "date": "2026-11-03T20:00:00Z",
+      "home": "Feyenoord",
+      "away": "Inter",
+      "venue": "Stadion Feijenoord 'De Kuip'",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "source": "FixtureDownload schedule baseline; UEFA official fixture cross-check"
+    },
+    {
+      "round": 4,
+      "date": "2026-11-03T20:00:00Z",
+      "home": "Bodø/Glimt",
+      "away": "Lille",
+      "venue": "Aspmyra",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "source": "FixtureDownload schedule baseline; UEFA official fixture cross-check"
+    },
+    {
+      "round": 4,
+      "date": "2026-11-03T20:00:00Z",
+      "home": "Villarreal",
+      "away": "Paris Saint-Germain",
+      "venue": "Estadio de la Cerámica",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "source": "FixtureDownload schedule baseline; UEFA official fixture cross-check"
+    },
+    {
+      "round": 4,
+      "date": "2026-11-03T20:00:00Z",
+      "home": "LASK",
+      "away": "Slovan Bratislava",
+      "venue": "Oberösterreich Arena",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "source": "FixtureDownload schedule baseline; UEFA official fixture cross-check"
+    },
+    {
+      "round": 4,
+      "date": "2026-11-04T17:45:00Z",
+      "home": "Fenerbahçe",
+      "away": "Liverpool",
+      "venue": "Fenerbahçe Sükrü Saracoglu Spor Kompleksi",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "source": "FixtureDownload schedule baseline; UEFA official fixture cross-check"
+    },
+    {
+      "round": 4,
+      "date": "2026-11-04T17:45:00Z",
+      "home": "AEK Athens",
+      "away": "Real Madrid",
+      "venue": "AEK Arena",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "source": "FixtureDownload schedule baseline; UEFA official fixture cross-check"
+    },
+    {
+      "round": 4,
+      "date": "2026-11-04T20:00:00Z",
+      "home": "Borussia Dortmund",
+      "away": "Real Betis",
+      "venue": "BVB Stadion Dortmund",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "source": "FixtureDownload schedule baseline; UEFA official fixture cross-check"
+    },
+    {
+      "round": 4,
+      "date": "2026-11-04T20:00:00Z",
+      "home": "Porto",
+      "away": "Napoli",
+      "venue": "Estádio do Dragão",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "source": "FixtureDownload schedule baseline; UEFA official fixture cross-check"
+    },
+    {
+      "round": 4,
+      "date": "2026-11-04T20:00:00Z",
+      "home": "PSV Eindhoven",
+      "away": "Club Brugge",
+      "venue": "PSV Stadion",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "source": "FixtureDownload schedule baseline; UEFA official fixture cross-check"
+    },
+    {
+      "round": 4,
+      "date": "2026-11-04T20:00:00Z",
+      "home": "RB Leipzig",
+      "away": "Manchester City",
+      "venue": "RB Arena",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "source": "FixtureDownload schedule baseline; UEFA official fixture cross-check"
+    },
+    {
+      "round": 4,
+      "date": "2026-11-04T20:00:00Z",
+      "home": "Slavia Praha",
+      "away": "Arsenal",
+      "venue": "Eden Arena",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "source": "FixtureDownload schedule baseline; UEFA official fixture cross-check"
+    },
+    {
+      "round": 4,
+      "date": "2026-11-04T20:00:00Z",
+      "home": "Lens",
+      "away": "Como",
+      "venue": "Stade Bollaert-Delelis",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "source": "FixtureDownload schedule baseline; UEFA official fixture cross-check"
+    },
+    {
+      "round": 4,
+      "date": "2026-11-04T20:00:00Z",
+      "home": "Viking",
+      "away": "Sabah",
+      "venue": "Viking stadion",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "source": "FixtureDownload schedule baseline; UEFA official fixture cross-check"
+    },
+    {
+      "round": 5,
+      "date": "2026-11-24T17:45:00Z",
+      "home": "Bodø/Glimt",
+      "away": "LASK",
+      "venue": "Aspmyra",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "source": "FixtureDownload schedule baseline; UEFA official fixture cross-check"
+    },
+    {
+      "round": 5,
+      "date": "2026-11-24T17:45:00Z",
+      "home": "Galatasaray",
+      "away": "Aston Villa",
+      "venue": "Ali Sami Yen Spor Kompleksi",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "source": "FixtureDownload schedule baseline; UEFA official fixture cross-check"
+    },
+    {
+      "round": 5,
+      "date": "2026-11-24T20:00:00Z",
+      "home": "Real Madrid",
+      "away": "PSV Eindhoven",
+      "venue": "Estadio Santiago Bernabéu",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "source": "FixtureDownload schedule baseline; UEFA official fixture cross-check"
+    },
+    {
+      "round": 5,
+      "date": "2026-11-24T20:00:00Z",
+      "home": "Manchester City",
+      "away": "Napoli",
+      "venue": "City of Manchester Stadium",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "source": "FixtureDownload schedule baseline; UEFA official fixture cross-check"
+    },
+    {
+      "round": 5,
+      "date": "2026-11-24T20:00:00Z",
+      "home": "Arsenal",
+      "away": "Borussia Dortmund",
+      "venue": "Arsenal Stadium",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "source": "FixtureDownload schedule baseline; UEFA official fixture cross-check"
+    },
+    {
+      "round": 5,
+      "date": "2026-11-24T20:00:00Z",
+      "home": "Feyenoord",
+      "away": "Porto",
+      "venue": "Stadion Feijenoord 'De Kuip'",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "source": "FixtureDownload schedule baseline; UEFA official fixture cross-check"
+    },
+    {
+      "round": 5,
+      "date": "2026-11-24T20:00:00Z",
+      "home": "RB Leipzig",
+      "away": "Lens",
+      "venue": "RB Arena",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "source": "FixtureDownload schedule baseline; UEFA official fixture cross-check"
+    },
+    {
+      "round": 5,
+      "date": "2026-11-24T20:00:00Z",
+      "home": "Slovan Bratislava",
+      "away": "Real Betis",
+      "venue": "Národný futbalový štadión ",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "source": "FixtureDownload schedule baseline; UEFA official fixture cross-check"
+    },
+    {
+      "round": 5,
+      "date": "2026-11-24T20:00:00Z",
+      "home": "Como",
+      "away": "AEK Athens",
+      "venue": "Giuseppe Sinigaglia",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "source": "FixtureDownload schedule baseline; UEFA official fixture cross-check"
+    },
+    {
+      "round": 5,
+      "date": "2026-11-25T17:45:00Z",
+      "home": "Slavia Praha",
+      "away": "Villarreal",
+      "venue": "Eden Arena",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "source": "FixtureDownload schedule baseline; UEFA official fixture cross-check"
+    },
+    {
+      "round": 5,
+      "date": "2026-11-25T17:45:00Z",
+      "home": "Sabah",
+      "away": "Barcelona",
+      "venue": "TBA",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "source": "FixtureDownload schedule baseline; UEFA official fixture cross-check"
+    },
+    {
+      "round": 5,
+      "date": "2026-11-25T20:00:00Z",
+      "home": "Paris Saint-Germain",
+      "away": "Roma",
+      "venue": "Parc des Princes",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "source": "FixtureDownload schedule baseline; UEFA official fixture cross-check"
+    },
+    {
+      "round": 5,
+      "date": "2026-11-25T20:00:00Z",
+      "home": "Inter",
+      "away": "Stuttgart",
+      "venue": "Stadio San Siro",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "source": "FixtureDownload schedule baseline; UEFA official fixture cross-check"
+    },
+    {
+      "round": 5,
+      "date": "2026-11-25T20:00:00Z",
+      "home": "Atlético de Madrid",
+      "away": "Viking",
+      "venue": "Estadio Metropolitano",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "source": "FixtureDownload schedule baseline; UEFA official fixture cross-check"
+    },
+    {
+      "round": 5,
+      "date": "2026-11-25T20:00:00Z",
+      "home": "Sporting CP",
+      "away": "Manchester United",
+      "venue": "Estádio José Alvalade",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "source": "FixtureDownload schedule baseline; UEFA official fixture cross-check"
+    },
+    {
+      "round": 5,
+      "date": "2026-11-25T20:00:00Z",
+      "home": "Club Brugge",
+      "away": "Liverpool",
+      "venue": "Jan Breydelstadion",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "source": "FixtureDownload schedule baseline; UEFA official fixture cross-check"
+    },
+    {
+      "round": 5,
+      "date": "2026-11-25T20:00:00Z",
+      "home": "Lille",
+      "away": "Bayern Munich",
+      "venue": "Stade Pierre Mauroy",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "source": "FixtureDownload schedule baseline; UEFA official fixture cross-check"
+    },
+    {
+      "round": 5,
+      "date": "2026-11-25T20:00:00Z",
+      "home": "Shakhtar Donetsk",
+      "away": "Fenerbahçe",
+      "venue": "Stamford Bridge",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "source": "FixtureDownload schedule baseline; UEFA official fixture cross-check"
+    },
+    {
+      "round": 6,
+      "date": "2026-12-08T17:45:00Z",
+      "home": "Villarreal",
+      "away": "Sabah",
+      "venue": "Estadio de la Cerámica",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "source": "FixtureDownload schedule baseline; UEFA official fixture cross-check"
+    },
+    {
+      "round": 6,
+      "date": "2026-12-08T17:45:00Z",
+      "home": "Viking",
+      "away": "Feyenoord",
+      "venue": "Viking stadion",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "source": "FixtureDownload schedule baseline; UEFA official fixture cross-check"
+    },
+    {
+      "round": 6,
+      "date": "2026-12-08T20:00:00Z",
+      "home": "Bayern Munich",
+      "away": "Slavia Praha",
+      "venue": "Fußball Arena München",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "source": "FixtureDownload schedule baseline; UEFA official fixture cross-check"
+    },
+    {
+      "round": 6,
+      "date": "2026-12-08T20:00:00Z",
+      "home": "Barcelona",
+      "away": "Manchester City",
+      "venue": "Camp Nou",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "source": "FixtureDownload schedule baseline; UEFA official fixture cross-check"
+    },
+    {
+      "round": 6,
+      "date": "2026-12-08T20:00:00Z",
+      "home": "Roma",
+      "away": "Sporting CP",
+      "venue": "Stadio Olimpico",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "source": "FixtureDownload schedule baseline; UEFA official fixture cross-check"
+    },
+    {
+      "round": 6,
+      "date": "2026-12-08T20:00:00Z",
+      "home": "Aston Villa",
+      "away": "Paris Saint-Germain",
+      "venue": "Villa Park",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "source": "FixtureDownload schedule baseline; UEFA official fixture cross-check"
+    },
+    {
+      "round": 6,
+      "date": "2026-12-08T20:00:00Z",
+      "home": "Manchester United",
+      "away": "RB Leipzig",
+      "venue": "Old Trafford",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "source": "FixtureDownload schedule baseline; UEFA official fixture cross-check"
+    },
+    {
+      "round": 6,
+      "date": "2026-12-08T20:00:00Z",
+      "home": "Napoli",
+      "away": "Club Brugge",
+      "venue": "Stadio Diego Armando Maradona",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "source": "FixtureDownload schedule baseline; UEFA official fixture cross-check"
+    },
+    {
+      "round": 6,
+      "date": "2026-12-08T20:00:00Z",
+      "home": "AEK Athens",
+      "away": "Galatasaray",
+      "venue": "AEK Arena",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "source": "FixtureDownload schedule baseline; UEFA official fixture cross-check"
+    },
+    {
+      "round": 6,
+      "date": "2026-12-09T17:45:00Z",
+      "home": "Real Betis",
+      "away": "Como",
+      "venue": "LA CARTUJA DE SEVILLA",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "source": "FixtureDownload schedule baseline; UEFA official fixture cross-check"
+    },
+    {
+      "round": 6,
+      "date": "2026-12-09T17:45:00Z",
+      "home": "Slovan Bratislava",
+      "away": "Shakhtar Donetsk",
+      "venue": "Národný futbalový štadión ",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "source": "FixtureDownload schedule baseline; UEFA official fixture cross-check"
+    },
+    {
+      "round": 6,
+      "date": "2026-12-09T20:00:00Z",
+      "home": "Liverpool",
+      "away": "Porto",
+      "venue": "Anfield",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "source": "FixtureDownload schedule baseline; UEFA official fixture cross-check"
+    },
+    {
+      "round": 6,
+      "date": "2026-12-09T20:00:00Z",
+      "home": "Arsenal",
+      "away": "Real Madrid",
+      "venue": "Arsenal Stadium",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "source": "FixtureDownload schedule baseline; UEFA official fixture cross-check"
+    },
+    {
+      "round": 6,
+      "date": "2026-12-09T20:00:00Z",
+      "home": "Borussia Dortmund",
+      "away": "Inter",
+      "venue": "BVB Stadion Dortmund",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "source": "FixtureDownload schedule baseline; UEFA official fixture cross-check"
+    },
+    {
+      "round": 6,
+      "date": "2026-12-09T20:00:00Z",
+      "home": "PSV Eindhoven",
+      "away": "Atlético de Madrid",
+      "venue": "PSV Stadion",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "source": "FixtureDownload schedule baseline; UEFA official fixture cross-check"
+    },
+    {
+      "round": 6,
+      "date": "2026-12-09T20:00:00Z",
+      "home": "Stuttgart",
+      "away": "Lille",
+      "venue": "Arena Stuttgart",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "source": "FixtureDownload schedule baseline; UEFA official fixture cross-check"
+    },
+    {
+      "round": 6,
+      "date": "2026-12-09T20:00:00Z",
+      "home": "LASK",
+      "away": "Fenerbahçe",
+      "venue": "Oberösterreich Arena",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "source": "FixtureDownload schedule baseline; UEFA official fixture cross-check"
+    },
+    {
+      "round": 6,
+      "date": "2026-12-09T20:00:00Z",
+      "home": "Lens",
+      "away": "Bodø/Glimt",
+      "venue": "Stade Bollaert-Delelis",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "source": "FixtureDownload schedule baseline; UEFA official fixture cross-check"
+    },
+    {
+      "round": 7,
+      "date": "2027-01-19T17:45:00Z",
+      "home": "Bodø/Glimt",
+      "away": "Atlético de Madrid",
+      "venue": "Aspmyra",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "source": "FixtureDownload schedule baseline; UEFA official fixture cross-check"
+    },
+    {
+      "round": 7,
+      "date": "2027-01-19T17:45:00Z",
+      "home": "Galatasaray",
+      "away": "Feyenoord",
+      "venue": "Ali Sami Yen Spor Kompleksi",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "source": "FixtureDownload schedule baseline; UEFA official fixture cross-check"
+    },
+    {
+      "round": 7,
+      "date": "2027-01-19T20:00:00Z",
+      "home": "Real Madrid",
+      "away": "LASK",
+      "venue": "Estadio Santiago Bernabéu",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "source": "FixtureDownload schedule baseline; UEFA official fixture cross-check"
+    },
+    {
+      "round": 7,
+      "date": "2027-01-19T20:00:00Z",
+      "home": "Inter",
+      "away": "Liverpool",
+      "venue": "Stadio San Siro",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "source": "FixtureDownload schedule baseline; UEFA official fixture cross-check"
+    },
+    {
+      "round": 7,
+      "date": "2027-01-19T20:00:00Z",
+      "home": "Aston Villa",
+      "away": "Borussia Dortmund",
+      "venue": "Villa Park",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "source": "FixtureDownload schedule baseline; UEFA official fixture cross-check"
+    },
+    {
+      "round": 7,
+      "date": "2027-01-19T20:00:00Z",
+      "home": "Porto",
+      "away": "Slavia Praha",
+      "venue": "Estádio do Dragão",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "source": "FixtureDownload schedule baseline; UEFA official fixture cross-check"
+    },
+    {
+      "round": 7,
+      "date": "2027-01-19T20:00:00Z",
+      "home": "Lille",
+      "away": "Slovan Bratislava",
+      "venue": "Stade Pierre Mauroy",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "source": "FixtureDownload schedule baseline; UEFA official fixture cross-check"
+    },
+    {
+      "round": 7,
+      "date": "2027-01-19T20:00:00Z",
+      "home": "Stuttgart",
+      "away": "Club Brugge",
+      "venue": "Arena Stuttgart",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "source": "FixtureDownload schedule baseline; UEFA official fixture cross-check"
+    },
+    {
+      "round": 7,
+      "date": "2027-01-19T20:00:00Z",
+      "home": "AEK Athens",
+      "away": "Roma",
+      "venue": "AEK Arena",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "source": "FixtureDownload schedule baseline; UEFA official fixture cross-check"
+    },
+    {
+      "round": 7,
+      "date": "2027-01-20T17:45:00Z",
+      "home": "Fenerbahçe",
+      "away": "Villarreal",
+      "venue": "Fenerbahçe Sükrü Saracoglu Spor Kompleksi",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "source": "FixtureDownload schedule baseline; UEFA official fixture cross-check"
+    },
+    {
+      "round": 7,
+      "date": "2027-01-20T17:45:00Z",
+      "home": "Sabah",
+      "away": "Napoli",
+      "venue": "TBA",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "source": "FixtureDownload schedule baseline; UEFA official fixture cross-check"
+    },
+    {
+      "round": 7,
+      "date": "2027-01-20T20:00:00Z",
+      "home": "Sporting CP",
+      "away": "Barcelona",
+      "venue": "Estádio José Alvalade",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "source": "FixtureDownload schedule baseline; UEFA official fixture cross-check"
+    },
+    {
+      "round": 7,
+      "date": "2027-01-20T20:00:00Z",
+      "home": "Manchester United",
+      "away": "Bayern Munich",
+      "venue": "Old Trafford",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "source": "FixtureDownload schedule baseline; UEFA official fixture cross-check"
+    },
+    {
+      "round": 7,
+      "date": "2027-01-20T20:00:00Z",
+      "home": "Real Betis",
+      "away": "Arsenal",
+      "venue": "LA CARTUJA DE SEVILLA",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "source": "FixtureDownload schedule baseline; UEFA official fixture cross-check"
+    },
+    {
+      "round": 7,
+      "date": "2027-01-20T20:00:00Z",
+      "home": "RB Leipzig",
+      "away": "Shakhtar Donetsk",
+      "venue": "RB Arena",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "source": "FixtureDownload schedule baseline; UEFA official fixture cross-check"
+    },
+    {
+      "round": 7,
+      "date": "2027-01-20T20:00:00Z",
+      "home": "Como",
+      "away": "Paris Saint-Germain",
+      "venue": "Giuseppe Sinigaglia",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "source": "FixtureDownload schedule baseline; UEFA official fixture cross-check"
+    },
+    {
+      "round": 7,
+      "date": "2027-01-20T20:00:00Z",
+      "home": "Lens",
+      "away": "Manchester City",
+      "venue": "Stade Bollaert-Delelis",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "source": "FixtureDownload schedule baseline; UEFA official fixture cross-check"
+    },
+    {
+      "round": 7,
+      "date": "2027-01-20T20:00:00Z",
+      "home": "Viking",
+      "away": "PSV Eindhoven",
+      "venue": "Viking stadion",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "source": "FixtureDownload schedule baseline; UEFA official fixture cross-check"
+    },
+    {
+      "round": 8,
+      "date": "2027-01-27T20:00:00Z",
+      "home": "Paris Saint-Germain",
+      "away": "Galatasaray",
+      "venue": "Parc des Princes",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "source": "FixtureDownload schedule baseline; UEFA official fixture cross-check"
+    },
+    {
+      "round": 8,
+      "date": "2027-01-27T20:00:00Z",
+      "home": "Bayern Munich",
+      "away": "Real Betis",
+      "venue": "Fußball Arena München",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "source": "FixtureDownload schedule baseline; UEFA official fixture cross-check"
+    },
+    {
+      "round": 8,
+      "date": "2027-01-27T20:00:00Z",
+      "home": "Liverpool",
+      "away": "Lens",
+      "venue": "Anfield",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "source": "FixtureDownload schedule baseline; UEFA official fixture cross-check"
+    },
+    {
+      "round": 8,
+      "date": "2027-01-27T20:00:00Z",
+      "home": "Manchester City",
+      "away": "Sporting CP",
+      "venue": "City of Manchester Stadium",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "source": "FixtureDownload schedule baseline; UEFA official fixture cross-check"
+    },
+    {
+      "round": 8,
+      "date": "2027-01-27T20:00:00Z",
+      "home": "Arsenal",
+      "away": "Sabah",
+      "venue": "Arsenal Stadium",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "source": "FixtureDownload schedule baseline; UEFA official fixture cross-check"
+    },
+    {
+      "round": 8,
+      "date": "2027-01-27T20:00:00Z",
+      "home": "Barcelona",
+      "away": "Como",
+      "venue": "Camp Nou",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "source": "FixtureDownload schedule baseline; UEFA official fixture cross-check"
+    },
+    {
+      "round": 8,
+      "date": "2027-01-27T20:00:00Z",
+      "home": "Atlético de Madrid",
+      "away": "Fenerbahçe",
+      "venue": "Estadio Metropolitano",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "source": "FixtureDownload schedule baseline; UEFA official fixture cross-check"
+    },
+    {
+      "round": 8,
+      "date": "2027-01-27T20:00:00Z",
+      "home": "Borussia Dortmund",
+      "away": "AEK Athens",
+      "venue": "BVB Stadion Dortmund",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "source": "FixtureDownload schedule baseline; UEFA official fixture cross-check"
+    },
+    {
+      "round": 8,
+      "date": "2027-01-27T20:00:00Z",
+      "home": "Roma",
+      "away": "Lille",
+      "venue": "Stadio Olimpico",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "source": "FixtureDownload schedule baseline; UEFA official fixture cross-check"
+    },
+    {
+      "round": 8,
+      "date": "2027-01-27T20:00:00Z",
+      "home": "Club Brugge",
+      "away": "Bodø/Glimt",
+      "venue": "Jan Breydelstadion",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "source": "FixtureDownload schedule baseline; UEFA official fixture cross-check"
+    },
+    {
+      "round": 8,
+      "date": "2027-01-27T20:00:00Z",
+      "home": "PSV Eindhoven",
+      "away": "Stuttgart",
+      "venue": "PSV Stadion",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "source": "FixtureDownload schedule baseline; UEFA official fixture cross-check"
+    },
+    {
+      "round": 8,
+      "date": "2027-01-27T20:00:00Z",
+      "home": "Feyenoord",
+      "away": "RB Leipzig",
+      "venue": "Stadion Feijenoord 'De Kuip'",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "source": "FixtureDownload schedule baseline; UEFA official fixture cross-check"
+    },
+    {
+      "round": 8,
+      "date": "2027-01-27T20:00:00Z",
+      "home": "Napoli",
+      "away": "Viking",
+      "venue": "Stadio Diego Armando Maradona",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "source": "FixtureDownload schedule baseline; UEFA official fixture cross-check"
+    },
+    {
+      "round": 8,
+      "date": "2027-01-27T20:00:00Z",
+      "home": "Villarreal",
+      "away": "Manchester United",
+      "venue": "Estadio de la Cerámica",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "source": "FixtureDownload schedule baseline; UEFA official fixture cross-check"
+    },
+    {
+      "round": 8,
+      "date": "2027-01-27T20:00:00Z",
+      "home": "Shakhtar Donetsk",
+      "away": "Real Madrid",
+      "venue": "Stamford Bridge",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "source": "FixtureDownload schedule baseline; UEFA official fixture cross-check"
+    },
+    {
+      "round": 8,
+      "date": "2027-01-27T20:00:00Z",
+      "home": "Slavia Praha",
+      "away": "Aston Villa",
+      "venue": "Eden Arena",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "source": "FixtureDownload schedule baseline; UEFA official fixture cross-check"
+    },
+    {
+      "round": 8,
+      "date": "2027-01-27T20:00:00Z",
+      "home": "Slovan Bratislava",
+      "away": "Inter",
+      "venue": "Národný futbalový štadión ",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "source": "FixtureDownload schedule baseline; UEFA official fixture cross-check"
+    },
+    {
+      "round": 8,
+      "date": "2027-01-27T20:00:00Z",
+      "home": "LASK",
+      "away": "Porto",
+      "venue": "Oberösterreich Arena",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "source": "FixtureDownload schedule baseline; UEFA official fixture cross-check"
+    }
+  ],
+  "championsLeagueStatus": "2026–27 league phase fixtures are loaded. Current matchday opens automatically.",
   "championsLeagueMatchdays": [
     {
       "round": 1,
@@ -4226,7 +5811,8 @@
     }
   ],
   "health": {
-    "premierLeagueMatches": "full 380-match feed loaded"
+    "premierLeagueMatches": "full 380-match schedule/results baseline loaded",
+    "championsLeagueMatches": "full 144-match league-phase schedule loaded"
   },
-  "updated": "2026-09-08T14:11:51.325410Z"
+  "updated": "2026-09-08T14:12:31.568877Z"
 }
