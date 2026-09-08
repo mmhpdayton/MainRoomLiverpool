@@ -1,0 +1,25 @@
+name: Refresh live scores
+on:
+  schedule:
+    - cron: '*/5 * * * *'
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  live:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Refresh live Premier League and Champions League scores
+        run: python scripts/update_competitions.py --live
+      - name: Commit score changes
+        run: |
+          git config user.name "Main Room Bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add site-data.json competition-data.json
+          git diff --cached --quiet || git commit -m "Refresh live scores"
+          git pull --rebase
+          git push
