@@ -4221,11 +4221,11 @@
       "home": "Borussia Dortmund",
       "away": "Villarreal",
       "venue": "BVB Stadion Dortmund",
-      "homeScore": 1,
+      "homeScore": 3,
       "awayScore": 1,
       "status": "live",
       "source": "FixtureDownload schedule baseline; UEFA official fixture cross-check",
-      "liveStatus": "73"
+      "liveStatus": "87"
     },
     {
       "round": 1,
@@ -4237,7 +4237,7 @@
       "awayScore": 1,
       "status": "live",
       "source": "FixtureDownload schedule baseline; UEFA official fixture cross-check",
-      "liveStatus": "74"
+      "liveStatus": "88"
     },
     {
       "round": 1,
@@ -4249,7 +4249,7 @@
       "awayScore": 3,
       "status": "live",
       "source": "FixtureDownload schedule baseline; UEFA official fixture cross-check",
-      "liveStatus": "75"
+      "liveStatus": "89"
     },
     {
       "round": 1,
@@ -5817,5 +5817,5 @@
     "premierLeagueMatches": "full 380-match schedule/results baseline loaded",
     "championsLeagueMatches": "full 144-match league-phase schedule loaded"
   },
-  "updated": "2026-09-08T20:34:36.322222Z"
+  "updated": "2026-09-08T20:49:26.275472Z"
 }
