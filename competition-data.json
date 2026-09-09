@@ -4258,7 +4258,7 @@
       "awayScore": 0,
       "status": "live",
       "source": "FixtureDownload schedule baseline; UEFA official fixture cross-check",
-      "liveStatus": "25"
+      "liveStatus": "37"
     },
     {
       "round": 1,
@@ -4266,11 +4266,11 @@
       "home": "Stuttgart",
       "away": "Viking",
       "venue": "Arena Stuttgart",
-      "homeScore": 1,
+      "homeScore": 3,
       "awayScore": 1,
       "status": "live",
       "source": "FixtureDownload schedule baseline; UEFA official fixture cross-check",
-      "liveStatus": "26"
+      "liveStatus": "38"
     },
     {
       "round": 1,
@@ -5816,5 +5816,5 @@
     "premierLeagueMatches": "full 380-match schedule/results baseline loaded",
     "championsLeagueMatches": "full 144-match league-phase schedule loaded"
   },
-  "updated": "2026-09-09T17:13:11.087484Z"
+  "updated": "2026-09-09T17:24:55.890265Z"
 }
