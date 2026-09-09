@@ -4188,9 +4188,9 @@
       "home": "Club Brugge",
       "away": "Aston Villa",
       "venue": "Jan Breydelstadion",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
+      "homeScore": 2,
+      "awayScore": 3,
+      "status": "final",
       "source": "FixtureDownload schedule baseline; UEFA official fixture cross-check"
     },
     {
@@ -4199,9 +4199,9 @@
       "home": "AEK Athens",
       "away": "LASK",
       "venue": "AEK Arena",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
+      "homeScore": 1,
+      "awayScore": 0,
+      "status": "final",
       "source": "FixtureDownload schedule baseline; UEFA official fixture cross-check"
     },
     {
@@ -4210,9 +4210,9 @@
       "home": "Real Madrid",
       "away": "Inter",
       "venue": "Estadio Santiago Bernabéu",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
+      "homeScore": 2,
+      "awayScore": 1,
+      "status": "final",
       "source": "FixtureDownload schedule baseline; UEFA official fixture cross-check"
     },
     {
@@ -4221,9 +4221,9 @@
       "home": "Borussia Dortmund",
       "away": "Villarreal",
       "venue": "BVB Stadion Dortmund",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
+      "homeScore": 3,
+      "awayScore": 2,
+      "status": "final",
       "source": "FixtureDownload schedule baseline; UEFA official fixture cross-check"
     },
     {
@@ -4232,9 +4232,9 @@
       "home": "Porto",
       "away": "Manchester City",
       "venue": "Estádio do Dragão",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
+      "homeScore": 0,
+      "awayScore": 2,
+      "status": "final",
       "source": "FixtureDownload schedule baseline; UEFA official fixture cross-check"
     },
     {
@@ -4243,9 +4243,9 @@
       "home": "Lille",
       "away": "Real Betis",
       "venue": "Stade Pierre Mauroy",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
+      "homeScore": 2,
+      "awayScore": 3,
+      "status": "final",
       "source": "FixtureDownload schedule baseline; UEFA official fixture cross-check"
     },
     {
@@ -5814,5 +5814,5 @@
     "premierLeagueMatches": "full 380-match schedule/results baseline loaded",
     "championsLeagueMatches": "full 144-match league-phase schedule loaded"
   },
-  "updated": "2026-09-09T06:31:46.092042Z"
+  "updated": "2026-09-09T07:27:13.881099Z"
 }
