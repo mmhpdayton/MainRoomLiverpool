@@ -4254,11 +4254,10 @@
       "home": "Barcelona",
       "away": "Feyenoord",
       "venue": "Camp Nou",
-      "homeScore": 5,
-      "awayScore": 1,
-      "status": "live",
-      "source": "FixtureDownload schedule baseline; UEFA official fixture cross-check",
-      "liveStatus": "90"
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "source": "FixtureDownload schedule baseline; UEFA official fixture cross-check"
     },
     {
       "round": 1,
@@ -4266,11 +4265,10 @@
       "home": "Stuttgart",
       "away": "Viking",
       "venue": "Arena Stuttgart",
-      "homeScore": 3,
-      "awayScore": 1,
-      "status": "live",
-      "source": "FixtureDownload schedule baseline; UEFA official fixture cross-check",
-      "liveStatus": "90"
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "source": "FixtureDownload schedule baseline; UEFA official fixture cross-check"
     },
     {
       "round": 1,
@@ -4278,11 +4276,11 @@
       "home": "Paris Saint-Germain",
       "away": "Slovan Bratislava",
       "venue": "Parc des Princes",
-      "homeScore": 4,
-      "awayScore": 0,
+      "homeScore": 5,
+      "awayScore": 1,
       "status": "live",
       "source": "FixtureDownload schedule baseline; UEFA official fixture cross-check",
-      "liveStatus": "51"
+      "liveStatus": "65"
     },
     {
       "round": 1,
@@ -4294,7 +4292,7 @@
       "awayScore": 1,
       "status": "live",
       "source": "FixtureDownload schedule baseline; UEFA official fixture cross-check",
-      "liveStatus": "53"
+      "liveStatus": "67"
     },
     {
       "round": 1,
@@ -4302,11 +4300,11 @@
       "home": "Sporting CP",
       "away": "Galatasaray",
       "venue": "Estádio José Alvalade",
-      "homeScore": 1,
+      "homeScore": 2,
       "awayScore": 1,
       "status": "live",
       "source": "FixtureDownload schedule baseline; UEFA official fixture cross-check",
-      "liveStatus": "49"
+      "liveStatus": "63"
     },
     {
       "round": 1,
@@ -4318,7 +4316,7 @@
       "awayScore": 0,
       "status": "live",
       "source": "FixtureDownload schedule baseline; UEFA official fixture cross-check",
-      "liveStatus": "51"
+      "liveStatus": "65"
     },
     {
       "round": 1,
@@ -5820,5 +5818,5 @@
     "premierLeagueMatches": "full 380-match schedule/results baseline loaded",
     "championsLeagueMatches": "full 144-match league-phase schedule loaded"
   },
-  "updated": "2026-09-09T20:11:46.357558Z"
+  "updated": "2026-09-09T20:25:45.690275Z"
 }
