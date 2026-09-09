@@ -4258,7 +4258,7 @@
       "awayScore": 1,
       "status": "live",
       "source": "FixtureDownload schedule baseline; UEFA official fixture cross-check",
-      "liveStatus": "90+3"
+      "liveStatus": "90"
     },
     {
       "round": 1,
@@ -4270,7 +4270,7 @@
       "awayScore": 1,
       "status": "live",
       "source": "FixtureDownload schedule baseline; UEFA official fixture cross-check",
-      "liveStatus": "90+4"
+      "liveStatus": "90"
     },
     {
       "round": 1,
@@ -5816,5 +5816,5 @@
     "premierLeagueMatches": "full 380-match schedule/results baseline loaded",
     "championsLeagueMatches": "full 144-match league-phase schedule loaded"
   },
-  "updated": "2026-09-09T18:40:44.251495Z"
+  "updated": "2026-09-09T18:54:44.066104Z"
 }
