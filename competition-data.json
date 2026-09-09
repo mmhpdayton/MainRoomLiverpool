@@ -4278,10 +4278,11 @@
       "home": "Paris Saint-Germain",
       "away": "Slovan Bratislava",
       "venue": "Parc des Princes",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
-      "source": "FixtureDownload schedule baseline; UEFA official fixture cross-check"
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "live",
+      "source": "FixtureDownload schedule baseline; UEFA official fixture cross-check",
+      "liveStatus": "9"
     },
     {
       "round": 1,
@@ -4289,10 +4290,11 @@
       "home": "Liverpool",
       "away": "Atlético de Madrid",
       "venue": "Anfield",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
-      "source": "FixtureDownload schedule baseline; UEFA official fixture cross-check"
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "live",
+      "source": "FixtureDownload schedule baseline; UEFA official fixture cross-check",
+      "liveStatus": "9"
     },
     {
       "round": 1,
@@ -4300,10 +4302,11 @@
       "home": "Sporting CP",
       "away": "Galatasaray",
       "venue": "Estádio José Alvalade",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
-      "source": "FixtureDownload schedule baseline; UEFA official fixture cross-check"
+      "homeScore": 0,
+      "awayScore": 1,
+      "status": "live",
+      "source": "FixtureDownload schedule baseline; UEFA official fixture cross-check",
+      "liveStatus": "10"
     },
     {
       "round": 1,
@@ -4311,10 +4314,11 @@
       "home": "Napoli",
       "away": "Arsenal",
       "venue": "Stadio Diego Armando Maradona",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
-      "source": "FixtureDownload schedule baseline; UEFA official fixture cross-check"
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "live",
+      "source": "FixtureDownload schedule baseline; UEFA official fixture cross-check",
+      "liveStatus": "10"
     },
     {
       "round": 1,
@@ -5816,5 +5820,5 @@
     "premierLeagueMatches": "full 380-match schedule/results baseline loaded",
     "championsLeagueMatches": "full 144-match league-phase schedule loaded"
   },
-  "updated": "2026-09-09T18:54:44.066104Z"
+  "updated": "2026-09-09T19:12:12.053347Z"
 }

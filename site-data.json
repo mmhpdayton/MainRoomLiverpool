@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-09T18:54:44.066104Z",
+  "updated": "2026-09-09T19:12:12.053347Z",
   "fixtures": [
     {
       "id": "20260823-newcastle-united",
@@ -69,12 +69,12 @@
       "competition": "Champions League",
       "venue": "Anfield",
       "broadcastUS": "Paramount+",
-      "status": "scheduled",
-      "scoreFor": null,
-      "scoreAgainst": null,
+      "status": "live",
+      "scoreFor": 0,
+      "scoreAgainst": 0,
       "broadcastUSSource": "Paramount Press Express — every UEFA match streams on Paramount+",
       "broadcastConfidence": "official rights baseline",
-      "liveStatus": "",
+      "liveStatus": "9",
       "broadcastCheckedAt": "2026-09-09T18:28:52.822099Z",
       "broadcastUSSpanish": "UniMás • TUDN • ViX",
       "broadcastUSSpanishSource": "https://www.tudn.com/futbol/partidos-hoy-miercoles-9-septiembre-2026-mexicanos-en-el-exterior-y-champions-league",
