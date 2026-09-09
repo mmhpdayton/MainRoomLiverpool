@@ -4278,11 +4278,11 @@
       "home": "Paris Saint-Germain",
       "away": "Slovan Bratislava",
       "venue": "Parc des Princes",
-      "homeScore": 0,
+      "homeScore": 1,
       "awayScore": 0,
       "status": "live",
       "source": "FixtureDownload schedule baseline; UEFA official fixture cross-check",
-      "liveStatus": "9"
+      "liveStatus": "21"
     },
     {
       "round": 1,
@@ -4291,10 +4291,10 @@
       "away": "Atlético de Madrid",
       "venue": "Anfield",
       "homeScore": 0,
-      "awayScore": 0,
+      "awayScore": 1,
       "status": "live",
       "source": "FixtureDownload schedule baseline; UEFA official fixture cross-check",
-      "liveStatus": "9"
+      "liveStatus": "21"
     },
     {
       "round": 1,
@@ -4306,7 +4306,7 @@
       "awayScore": 1,
       "status": "live",
       "source": "FixtureDownload schedule baseline; UEFA official fixture cross-check",
-      "liveStatus": "10"
+      "liveStatus": "22"
     },
     {
       "round": 1,
@@ -4318,7 +4318,7 @@
       "awayScore": 0,
       "status": "live",
       "source": "FixtureDownload schedule baseline; UEFA official fixture cross-check",
-      "liveStatus": "10"
+      "liveStatus": "22"
     },
     {
       "round": 1,
@@ -5820,5 +5820,5 @@
     "premierLeagueMatches": "full 380-match schedule/results baseline loaded",
     "championsLeagueMatches": "full 144-match league-phase schedule loaded"
   },
-  "updated": "2026-09-09T19:12:12.053347Z"
+  "updated": "2026-09-09T19:23:36.438398Z"
 }
