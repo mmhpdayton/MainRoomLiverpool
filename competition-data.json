@@ -4280,7 +4280,7 @@
       "awayScore": 1,
       "status": "live",
       "source": "FixtureDownload schedule baseline; UEFA official fixture cross-check",
-      "liveStatus": "69"
+      "liveStatus": "85"
     },
     {
       "round": 1,
@@ -4292,7 +4292,7 @@
       "awayScore": 1,
       "status": "live",
       "source": "FixtureDownload schedule baseline; UEFA official fixture cross-check",
-      "liveStatus": "71"
+      "liveStatus": "87"
     },
     {
       "round": 1,
@@ -4304,7 +4304,7 @@
       "awayScore": 1,
       "status": "live",
       "source": "FixtureDownload schedule baseline; UEFA official fixture cross-check",
-      "liveStatus": "67"
+      "liveStatus": "83"
     },
     {
       "round": 1,
@@ -4313,10 +4313,10 @@
       "away": "Arsenal",
       "venue": "Stadio Diego Armando Maradona",
       "homeScore": 0,
-      "awayScore": 0,
+      "awayScore": 1,
       "status": "live",
       "source": "FixtureDownload schedule baseline; UEFA official fixture cross-check",
-      "liveStatus": "69"
+      "liveStatus": "85"
     },
     {
       "round": 1,
@@ -5818,5 +5818,5 @@
     "premierLeagueMatches": "full 380-match schedule/results baseline loaded",
     "championsLeagueMatches": "full 144-match league-phase schedule loaded"
   },
-  "updated": "2026-09-09T20:30:12.657782Z"
+  "updated": "2026-09-09T20:46:02.339899Z"
 }
