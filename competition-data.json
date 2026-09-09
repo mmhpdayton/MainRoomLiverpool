@@ -4276,11 +4276,11 @@
       "home": "Paris Saint-Germain",
       "away": "Slovan Bratislava",
       "venue": "Parc des Princes",
-      "homeScore": 5,
+      "homeScore": 6,
       "awayScore": 1,
       "status": "live",
       "source": "FixtureDownload schedule baseline; UEFA official fixture cross-check",
-      "liveStatus": "85"
+      "liveStatus": "90+2"
     },
     {
       "round": 1,
@@ -4292,7 +4292,7 @@
       "awayScore": 1,
       "status": "live",
       "source": "FixtureDownload schedule baseline; UEFA official fixture cross-check",
-      "liveStatus": "87"
+      "liveStatus": "90+6"
     },
     {
       "round": 1,
@@ -4304,7 +4304,7 @@
       "awayScore": 1,
       "status": "live",
       "source": "FixtureDownload schedule baseline; UEFA official fixture cross-check",
-      "liveStatus": "83"
+      "liveStatus": "89"
     },
     {
       "round": 1,
@@ -4316,7 +4316,7 @@
       "awayScore": 1,
       "status": "live",
       "source": "FixtureDownload schedule baseline; UEFA official fixture cross-check",
-      "liveStatus": "85"
+      "liveStatus": "90+4"
     },
     {
       "round": 1,
@@ -5818,5 +5818,5 @@
     "premierLeagueMatches": "full 380-match schedule/results baseline loaded",
     "championsLeagueMatches": "full 144-match league-phase schedule loaded"
   },
-  "updated": "2026-09-09T20:46:02.339899Z"
+  "updated": "2026-09-09T20:58:13.382657Z"
 }
