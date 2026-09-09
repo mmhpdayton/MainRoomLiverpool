@@ -4280,7 +4280,7 @@
       "awayScore": 1,
       "status": "live",
       "source": "FixtureDownload schedule baseline; UEFA official fixture cross-check",
-      "liveStatus": "65"
+      "liveStatus": "69"
     },
     {
       "round": 1,
@@ -4292,7 +4292,7 @@
       "awayScore": 1,
       "status": "live",
       "source": "FixtureDownload schedule baseline; UEFA official fixture cross-check",
-      "liveStatus": "67"
+      "liveStatus": "71"
     },
     {
       "round": 1,
@@ -4300,11 +4300,11 @@
       "home": "Sporting CP",
       "away": "Galatasaray",
       "venue": "Estádio José Alvalade",
-      "homeScore": 2,
+      "homeScore": 3,
       "awayScore": 1,
       "status": "live",
       "source": "FixtureDownload schedule baseline; UEFA official fixture cross-check",
-      "liveStatus": "63"
+      "liveStatus": "67"
     },
     {
       "round": 1,
@@ -4316,7 +4316,7 @@
       "awayScore": 0,
       "status": "live",
       "source": "FixtureDownload schedule baseline; UEFA official fixture cross-check",
-      "liveStatus": "65"
+      "liveStatus": "69"
     },
     {
       "round": 1,
@@ -5818,5 +5818,5 @@
     "premierLeagueMatches": "full 380-match schedule/results baseline loaded",
     "championsLeagueMatches": "full 144-match league-phase schedule loaded"
   },
-  "updated": "2026-09-09T20:25:45.690275Z"
+  "updated": "2026-09-09T20:30:12.657782Z"
 }
