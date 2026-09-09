@@ -4254,10 +4254,11 @@
       "home": "Barcelona",
       "away": "Feyenoord",
       "venue": "Camp Nou",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
-      "source": "FixtureDownload schedule baseline; UEFA official fixture cross-check"
+      "homeScore": 1,
+      "awayScore": 0,
+      "status": "live",
+      "source": "FixtureDownload schedule baseline; UEFA official fixture cross-check",
+      "liveStatus": "6"
     },
     {
       "round": 1,
@@ -4265,10 +4266,11 @@
       "home": "Stuttgart",
       "away": "Viking",
       "venue": "Arena Stuttgart",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
-      "source": "FixtureDownload schedule baseline; UEFA official fixture cross-check"
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "live",
+      "source": "FixtureDownload schedule baseline; UEFA official fixture cross-check",
+      "liveStatus": "7"
     },
     {
       "round": 1,
@@ -5814,5 +5816,5 @@
     "premierLeagueMatches": "full 380-match schedule/results baseline loaded",
     "championsLeagueMatches": "full 144-match league-phase schedule loaded"
   },
-  "updated": "2026-09-09T16:27:27.940280Z"
+  "updated": "2026-09-09T16:54:52.874677Z"
 }
