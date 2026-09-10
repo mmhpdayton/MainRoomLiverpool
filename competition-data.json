@@ -4320,11 +4320,10 @@
       "home": "PSV Eindhoven",
       "away": "Shakhtar Donetsk",
       "venue": "PSV Stadion",
-      "homeScore": 1,
-      "awayScore": 1,
-      "status": "live",
-      "source": "FixtureDownload schedule baseline; UEFA official fixture cross-check",
-      "liveStatus": "90"
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "source": "FixtureDownload schedule baseline; UEFA official fixture cross-check"
     },
     {
       "round": 1,
@@ -4332,11 +4331,10 @@
       "home": "Fenerbahçe",
       "away": "Roma",
       "venue": "Fenerbahçe Sükrü Saracoglu Spor Kompleksi",
-      "homeScore": 1,
-      "awayScore": 1,
-      "status": "live",
-      "source": "FixtureDownload schedule baseline; UEFA official fixture cross-check",
-      "liveStatus": "90"
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "source": "FixtureDownload schedule baseline; UEFA official fixture cross-check"
     },
     {
       "round": 1,
@@ -4348,7 +4346,7 @@
       "awayScore": 0,
       "status": "live",
       "source": "FixtureDownload schedule baseline; UEFA official fixture cross-check",
-      "liveStatus": "58"
+      "liveStatus": "60"
     },
     {
       "round": 1,
@@ -4371,7 +4369,7 @@
       "awayScore": 0,
       "status": "live",
       "source": "FixtureDownload schedule baseline; UEFA official fixture cross-check",
-      "liveStatus": "60"
+      "liveStatus": "62"
     },
     {
       "round": 1,
@@ -4383,7 +4381,7 @@
       "awayScore": 1,
       "status": "live",
       "source": "FixtureDownload schedule baseline; UEFA official fixture cross-check",
-      "liveStatus": "59"
+      "liveStatus": "61"
     },
     {
       "round": 2,
@@ -5819,5 +5817,5 @@
     "premierLeagueMatches": "full 380-match schedule/results baseline loaded",
     "championsLeagueMatches": "full 144-match league-phase schedule loaded"
   },
-  "updated": "2026-09-10T20:21:12.038788Z"
+  "updated": "2026-09-10T20:23:34.122430Z"
 }
