@@ -4342,11 +4342,11 @@
       "home": "Bayern Munich",
       "away": "Bodø/Glimt",
       "venue": "Fußball Arena München",
-      "homeScore": 1,
+      "homeScore": 2,
       "awayScore": 0,
       "status": "live",
       "source": "FixtureDownload schedule baseline; UEFA official fixture cross-check",
-      "liveStatus": "60"
+      "liveStatus": "74"
     },
     {
       "round": 1,
@@ -4366,10 +4366,10 @@
       "away": "Lens",
       "venue": "Eden Arena",
       "homeScore": 1,
-      "awayScore": 0,
+      "awayScore": 1,
       "status": "live",
       "source": "FixtureDownload schedule baseline; UEFA official fixture cross-check",
-      "liveStatus": "62"
+      "liveStatus": "76"
     },
     {
       "round": 1,
@@ -4381,7 +4381,7 @@
       "awayScore": 1,
       "status": "live",
       "source": "FixtureDownload schedule baseline; UEFA official fixture cross-check",
-      "liveStatus": "61"
+      "liveStatus": "75"
     },
     {
       "round": 2,
@@ -5817,5 +5817,5 @@
     "premierLeagueMatches": "full 380-match schedule/results baseline loaded",
     "championsLeagueMatches": "full 144-match league-phase schedule loaded"
   },
-  "updated": "2026-09-10T20:23:34.122430Z"
+  "updated": "2026-09-10T20:37:07.100212Z"
 }
