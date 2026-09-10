@@ -4348,7 +4348,7 @@
       "awayScore": 0,
       "status": "live",
       "source": "FixtureDownload schedule baseline; UEFA official fixture cross-check",
-      "liveStatus": "34"
+      "liveStatus": "45+1"
     },
     {
       "round": 1,
@@ -4371,7 +4371,7 @@
       "awayScore": 0,
       "status": "live",
       "source": "FixtureDownload schedule baseline; UEFA official fixture cross-check",
-      "liveStatus": "35"
+      "liveStatus": "45+2"
     },
     {
       "round": 1,
@@ -4379,11 +4379,11 @@
       "home": "Como",
       "away": "RB Leipzig",
       "venue": "Giuseppe Sinigaglia",
-      "homeScore": 1,
+      "homeScore": 2,
       "awayScore": 0,
       "status": "live",
       "source": "FixtureDownload schedule baseline; UEFA official fixture cross-check",
-      "liveStatus": "34"
+      "liveStatus": "45+1"
     },
     {
       "round": 2,
@@ -5819,5 +5819,5 @@
     "premierLeagueMatches": "full 380-match schedule/results baseline loaded",
     "championsLeagueMatches": "full 144-match league-phase schedule loaded"
   },
-  "updated": "2026-09-10T19:38:01.829363Z"
+  "updated": "2026-09-10T19:50:11.439292Z"
 }
