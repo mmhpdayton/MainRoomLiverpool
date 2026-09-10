@@ -4321,10 +4321,10 @@
       "away": "Shakhtar Donetsk",
       "venue": "PSV Stadion",
       "homeScore": 0,
-      "awayScore": 0,
+      "awayScore": 1,
       "status": "live",
       "source": "FixtureDownload schedule baseline; UEFA official fixture cross-check",
-      "liveStatus": "42"
+      "liveStatus": "45"
     },
     {
       "round": 1,
@@ -4336,7 +4336,7 @@
       "awayScore": 1,
       "status": "live",
       "source": "FixtureDownload schedule baseline; UEFA official fixture cross-check",
-      "liveStatus": "42"
+      "liveStatus": "45"
     },
     {
       "round": 1,
@@ -5816,5 +5816,5 @@
     "premierLeagueMatches": "full 380-match schedule/results baseline loaded",
     "championsLeagueMatches": "full 144-match league-phase schedule loaded"
   },
-  "updated": "2026-09-10T17:29:29.523153Z"
+  "updated": "2026-09-10T17:44:05.805340Z"
 }
