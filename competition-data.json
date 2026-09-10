@@ -4320,10 +4320,11 @@
       "home": "PSV Eindhoven",
       "away": "Shakhtar Donetsk",
       "venue": "PSV Stadion",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
-      "source": "FixtureDownload schedule baseline; UEFA official fixture cross-check"
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "live",
+      "source": "FixtureDownload schedule baseline; UEFA official fixture cross-check",
+      "liveStatus": "8"
     },
     {
       "round": 1,
@@ -4331,10 +4332,11 @@
       "home": "Fenerbahçe",
       "away": "Roma",
       "venue": "Fenerbahçe Sükrü Saracoglu Spor Kompleksi",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
-      "source": "FixtureDownload schedule baseline; UEFA official fixture cross-check"
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "live",
+      "source": "FixtureDownload schedule baseline; UEFA official fixture cross-check",
+      "liveStatus": "8"
     },
     {
       "round": 1,
@@ -5814,5 +5816,5 @@
     "premierLeagueMatches": "full 380-match schedule/results baseline loaded",
     "championsLeagueMatches": "full 144-match league-phase schedule loaded"
   },
-  "updated": "2026-09-10T16:25:15.609765Z"
+  "updated": "2026-09-10T16:55:18.536230Z"
 }
