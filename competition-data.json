@@ -4324,7 +4324,7 @@
       "awayScore": 0,
       "status": "live",
       "source": "FixtureDownload schedule baseline; UEFA official fixture cross-check",
-      "liveStatus": "37"
+      "liveStatus": "42"
     },
     {
       "round": 1,
@@ -4333,10 +4333,10 @@
       "away": "Roma",
       "venue": "Fenerbahçe Sükrü Saracoglu Spor Kompleksi",
       "homeScore": 0,
-      "awayScore": 0,
+      "awayScore": 1,
       "status": "live",
       "source": "FixtureDownload schedule baseline; UEFA official fixture cross-check",
-      "liveStatus": "37"
+      "liveStatus": "42"
     },
     {
       "round": 1,
@@ -5816,5 +5816,5 @@
     "premierLeagueMatches": "full 380-match schedule/results baseline loaded",
     "championsLeagueMatches": "full 144-match league-phase schedule loaded"
   },
-  "updated": "2026-09-10T17:24:17.179514Z"
+  "updated": "2026-09-10T17:29:29.523153Z"
 }
