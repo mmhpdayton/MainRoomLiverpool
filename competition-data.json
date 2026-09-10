@@ -4254,9 +4254,9 @@
       "home": "Barcelona",
       "away": "Feyenoord",
       "venue": "Camp Nou",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
+      "homeScore": 5,
+      "awayScore": 1,
+      "status": "final",
       "source": "FixtureDownload schedule baseline; UEFA official fixture cross-check"
     },
     {
@@ -4265,9 +4265,9 @@
       "home": "Stuttgart",
       "away": "Viking",
       "venue": "Arena Stuttgart",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
+      "homeScore": 3,
+      "awayScore": 1,
+      "status": "final",
       "source": "FixtureDownload schedule baseline; UEFA official fixture cross-check"
     },
     {
@@ -4276,9 +4276,9 @@
       "home": "Paris Saint-Germain",
       "away": "Slovan Bratislava",
       "venue": "Parc des Princes",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
+      "homeScore": 6,
+      "awayScore": 1,
+      "status": "final",
       "source": "FixtureDownload schedule baseline; UEFA official fixture cross-check"
     },
     {
@@ -4287,9 +4287,9 @@
       "home": "Liverpool",
       "away": "Atlético de Madrid",
       "venue": "Anfield",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
+      "homeScore": 2,
+      "awayScore": 1,
+      "status": "final",
       "source": "FixtureDownload schedule baseline; UEFA official fixture cross-check"
     },
     {
@@ -4298,9 +4298,9 @@
       "home": "Sporting CP",
       "away": "Galatasaray",
       "venue": "Estádio José Alvalade",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
+      "homeScore": 3,
+      "awayScore": 1,
+      "status": "final",
       "source": "FixtureDownload schedule baseline; UEFA official fixture cross-check"
     },
     {
@@ -4309,9 +4309,9 @@
       "home": "Napoli",
       "away": "Arsenal",
       "venue": "Stadio Diego Armando Maradona",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
+      "homeScore": 0,
+      "awayScore": 1,
+      "status": "final",
       "source": "FixtureDownload schedule baseline; UEFA official fixture cross-check"
     },
     {
@@ -5814,5 +5814,5 @@
     "premierLeagueMatches": "full 380-match schedule/results baseline loaded",
     "championsLeagueMatches": "full 144-match league-phase schedule loaded"
   },
-  "updated": "2026-09-10T13:24:42.161388Z"
+  "updated": "2026-09-10T14:25:44.294534Z"
 }
