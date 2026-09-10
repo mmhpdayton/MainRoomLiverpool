@@ -4344,11 +4344,11 @@
       "home": "Bayern Munich",
       "away": "Bodø/Glimt",
       "venue": "Fußball Arena München",
-      "homeScore": 0,
+      "homeScore": 1,
       "awayScore": 0,
       "status": "live",
       "source": "FixtureDownload schedule baseline; UEFA official fixture cross-check",
-      "liveStatus": "45"
+      "liveStatus": "58"
     },
     {
       "round": 1,
@@ -4367,11 +4367,11 @@
       "home": "Slavia Praha",
       "away": "Lens",
       "venue": "Eden Arena",
-      "homeScore": 0,
+      "homeScore": 1,
       "awayScore": 0,
       "status": "live",
       "source": "FixtureDownload schedule baseline; UEFA official fixture cross-check",
-      "liveStatus": "45"
+      "liveStatus": "60"
     },
     {
       "round": 1,
@@ -4379,11 +4379,11 @@
       "home": "Como",
       "away": "RB Leipzig",
       "venue": "Giuseppe Sinigaglia",
-      "homeScore": 2,
-      "awayScore": 0,
+      "homeScore": 3,
+      "awayScore": 1,
       "status": "live",
       "source": "FixtureDownload schedule baseline; UEFA official fixture cross-check",
-      "liveStatus": "45"
+      "liveStatus": "59"
     },
     {
       "round": 2,
@@ -5819,5 +5819,5 @@
     "premierLeagueMatches": "full 380-match schedule/results baseline loaded",
     "championsLeagueMatches": "full 144-match league-phase schedule loaded"
   },
-  "updated": "2026-09-10T20:04:00.374867Z"
+  "updated": "2026-09-10T20:21:12.038788Z"
 }
