@@ -336,11 +336,11 @@
       "home": "AFC Bournemouth",
       "away": "Brentford",
       "venue": "Vitality Stadium",
-      "homeScore": 0,
+      "homeScore": 1,
       "awayScore": 1,
       "status": "live",
       "source": "FixtureDownload schedule/results baseline",
-      "liveStatus": "35"
+      "liveStatus": "45+3"
     },
     {
       "round": 4,
@@ -352,7 +352,7 @@
       "awayScore": 0,
       "status": "live",
       "source": "FixtureDownload schedule/results baseline",
-      "liveStatus": "35"
+      "liveStatus": "45+3"
     },
     {
       "round": 4,
@@ -364,7 +364,7 @@
       "awayScore": 2,
       "status": "live",
       "source": "FixtureDownload schedule/results baseline",
-      "liveStatus": "35"
+      "liveStatus": "45+3"
     },
     {
       "round": 4,
@@ -373,10 +373,10 @@
       "away": "Ipswich Town",
       "venue": "Selhurst Park",
       "homeScore": 1,
-      "awayScore": 1,
+      "awayScore": 2,
       "status": "live",
       "source": "FixtureDownload schedule/results baseline",
-      "liveStatus": "35"
+      "liveStatus": "45+3"
     },
     {
       "round": 4,
@@ -388,7 +388,7 @@
       "awayScore": 0,
       "status": "live",
       "source": "FixtureDownload schedule/results baseline",
-      "liveStatus": "35"
+      "liveStatus": "45+3"
     },
     {
       "round": 4,
@@ -5819,5 +5819,5 @@
     "premierLeagueMatches": "full 380-match schedule/results baseline loaded",
     "championsLeagueMatches": "full 144-match league-phase schedule loaded"
   },
-  "updated": "2026-09-12T14:36:34.260651Z"
+  "updated": "2026-09-12T14:49:11.397583Z"
 }
