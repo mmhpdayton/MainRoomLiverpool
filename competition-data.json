@@ -340,7 +340,7 @@
       "awayScore": 0,
       "status": "live",
       "source": "FixtureDownload schedule/results baseline",
-      "liveStatus": "2"
+      "liveStatus": "19"
     },
     {
       "round": 4,
@@ -352,7 +352,7 @@
       "awayScore": 0,
       "status": "live",
       "source": "FixtureDownload schedule/results baseline",
-      "liveStatus": "2"
+      "liveStatus": "19"
     },
     {
       "round": 4,
@@ -360,11 +360,11 @@
       "home": "Chelsea",
       "away": "Hull City",
       "venue": "Stamford Bridge",
-      "homeScore": 0,
+      "homeScore": 1,
       "awayScore": 0,
       "status": "live",
       "source": "FixtureDownload schedule/results baseline",
-      "liveStatus": "2"
+      "liveStatus": "19"
     },
     {
       "round": 4,
@@ -372,11 +372,11 @@
       "home": "Crystal Palace",
       "away": "Ipswich Town",
       "venue": "Selhurst Park",
-      "homeScore": 0,
+      "homeScore": 1,
       "awayScore": 0,
       "status": "live",
       "source": "FixtureDownload schedule/results baseline",
-      "liveStatus": "2"
+      "liveStatus": "19"
     },
     {
       "round": 4,
@@ -388,7 +388,7 @@
       "awayScore": 0,
       "status": "live",
       "source": "FixtureDownload schedule/results baseline",
-      "liveStatus": "2"
+      "liveStatus": "19"
     },
     {
       "round": 4,
@@ -5819,5 +5819,5 @@
     "premierLeagueMatches": "full 380-match schedule/results baseline loaded",
     "championsLeagueMatches": "full 144-match league-phase schedule loaded"
   },
-  "updated": "2026-09-12T14:02:40.319138Z"
+  "updated": "2026-09-12T14:20:29.518617Z"
 }
