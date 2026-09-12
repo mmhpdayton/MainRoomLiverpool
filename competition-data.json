@@ -395,7 +395,7 @@
       "awayScore": 0,
       "status": "live",
       "source": "FixtureDownload schedule/results baseline",
-      "liveStatus": "45"
+      "liveStatus": "53"
     },
     {
       "round": 4,
@@ -5815,5 +5815,5 @@
     "premierLeagueMatches": "full 380-match schedule/results baseline loaded",
     "championsLeagueMatches": "full 144-match league-phase schedule loaded"
   },
-  "updated": "2026-09-12T17:22:14.641070Z"
+  "updated": "2026-09-12T17:42:27.333814Z"
 }
