@@ -340,7 +340,7 @@
       "awayScore": 2,
       "status": "live",
       "source": "FixtureDownload schedule/results baseline",
-      "liveStatus": "90+4"
+      "liveStatus": "90"
     },
     {
       "round": 4,
@@ -352,7 +352,7 @@
       "awayScore": 2,
       "status": "live",
       "source": "FixtureDownload schedule/results baseline",
-      "liveStatus": "90+6"
+      "liveStatus": "90"
     },
     {
       "round": 4,
@@ -364,7 +364,7 @@
       "awayScore": 2,
       "status": "live",
       "source": "FixtureDownload schedule/results baseline",
-      "liveStatus": "90+7"
+      "liveStatus": "90"
     },
     {
       "round": 4,
@@ -376,7 +376,7 @@
       "awayScore": 3,
       "status": "live",
       "source": "FixtureDownload schedule/results baseline",
-      "liveStatus": "90+4"
+      "liveStatus": "90"
     },
     {
       "round": 4,
@@ -5819,5 +5819,5 @@
     "premierLeagueMatches": "full 380-match schedule/results baseline loaded",
     "championsLeagueMatches": "full 144-match league-phase schedule loaded"
   },
-  "updated": "2026-09-12T15:57:12.593054Z"
+  "updated": "2026-09-12T16:17:19.342299Z"
 }
