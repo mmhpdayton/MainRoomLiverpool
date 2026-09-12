@@ -403,10 +403,11 @@
       "home": "Sunderland",
       "away": "Arsenal",
       "venue": "Stadium of Light",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
-      "source": "FixtureDownload schedule/results baseline"
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "live",
+      "source": "FixtureDownload schedule/results baseline",
+      "liveStatus": "14"
     },
     {
       "round": 4,
@@ -5815,5 +5816,5 @@
     "premierLeagueMatches": "full 380-match schedule/results baseline loaded",
     "championsLeagueMatches": "full 144-match league-phase schedule loaded"
   },
-  "updated": "2026-09-12T18:31:24.051789Z"
+  "updated": "2026-09-12T19:14:04.758347Z"
 }
