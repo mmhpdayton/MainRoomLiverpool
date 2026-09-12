@@ -403,10 +403,10 @@
       "away": "Arsenal",
       "venue": "Stadium of Light",
       "homeScore": 0,
-      "awayScore": 1,
+      "awayScore": 2,
       "status": "live",
       "source": "FixtureDownload schedule/results baseline",
-      "liveStatus": "88"
+      "liveStatus": "90+8"
     },
     {
       "round": 4,
@@ -5815,5 +5815,5 @@
     "premierLeagueMatches": "full 380-match schedule/results baseline loaded",
     "championsLeagueMatches": "full 144-match league-phase schedule loaded"
   },
-  "updated": "2026-09-12T20:45:59.858964Z"
+  "updated": "2026-09-12T20:58:00.309887Z"
 }
