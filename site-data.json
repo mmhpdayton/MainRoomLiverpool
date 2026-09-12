@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-12T13:22:45.452432Z",
+  "updated": "2026-09-12T14:02:40.319138Z",
   "fixtures": [
     {
       "id": "20260823-newcastle-united",
@@ -89,13 +89,13 @@
       "competition": "Premier League",
       "venue": "Anfield",
       "broadcastUS": "TBA",
-      "status": "scheduled",
-      "scoreFor": null,
-      "scoreAgainst": null,
+      "status": "live",
+      "scoreFor": 0,
+      "scoreAgainst": 0,
       "broadcastUSSource": "",
       "broadcastCheckedAt": "2026-09-12T13:22:38.375676Z",
       "broadcastConfidence": "",
-      "liveStatus": "",
+      "liveStatus": "2",
       "broadcastUSSpanish": "TBA",
       "broadcastUSSpanishSource": "",
       "broadcastUSSpanishConfidence": "",
