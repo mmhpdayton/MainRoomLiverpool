@@ -336,11 +336,10 @@
       "home": "AFC Bournemouth",
       "away": "Brentford",
       "venue": "Vitality Stadium",
-      "homeScore": 2,
-      "awayScore": 2,
-      "status": "live",
-      "source": "FixtureDownload schedule/results baseline",
-      "liveStatus": "90"
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 4,
@@ -348,11 +347,10 @@
       "home": "Aston Villa",
       "away": "Nottingham Forest",
       "venue": "Villa Park",
-      "homeScore": 1,
-      "awayScore": 2,
-      "status": "live",
-      "source": "FixtureDownload schedule/results baseline",
-      "liveStatus": "90"
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 4,
@@ -360,11 +358,10 @@
       "home": "Chelsea",
       "away": "Hull City",
       "venue": "Stamford Bridge",
-      "homeScore": 2,
-      "awayScore": 2,
-      "status": "live",
-      "source": "FixtureDownload schedule/results baseline",
-      "liveStatus": "90"
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 4,
@@ -372,11 +369,10 @@
       "home": "Crystal Palace",
       "away": "Ipswich Town",
       "venue": "Selhurst Park",
-      "homeScore": 2,
-      "awayScore": 3,
-      "status": "live",
-      "source": "FixtureDownload schedule/results baseline",
-      "liveStatus": "90"
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 4,
@@ -384,11 +380,10 @@
       "home": "Liverpool",
       "away": "Fulham",
       "venue": "Anfield",
-      "homeScore": 0,
-      "awayScore": 0,
-      "status": "live",
-      "source": "FixtureDownload schedule/results baseline",
-      "liveStatus": "90"
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 4,
@@ -400,7 +395,7 @@
       "awayScore": 0,
       "status": "live",
       "source": "FixtureDownload schedule/results baseline",
-      "liveStatus": "44"
+      "liveStatus": "45"
     },
     {
       "round": 4,
@@ -5820,5 +5815,5 @@
     "premierLeagueMatches": "full 380-match schedule/results baseline loaded",
     "championsLeagueMatches": "full 144-match league-phase schedule loaded"
   },
-  "updated": "2026-09-12T17:15:14.665095Z"
+  "updated": "2026-09-12T17:22:14.641070Z"
 }
