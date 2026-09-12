@@ -337,10 +337,10 @@
       "away": "Brentford",
       "venue": "Vitality Stadium",
       "homeScore": 0,
-      "awayScore": 0,
+      "awayScore": 1,
       "status": "live",
       "source": "FixtureDownload schedule/results baseline",
-      "liveStatus": "23"
+      "liveStatus": "35"
     },
     {
       "round": 4,
@@ -352,7 +352,7 @@
       "awayScore": 0,
       "status": "live",
       "source": "FixtureDownload schedule/results baseline",
-      "liveStatus": "23"
+      "liveStatus": "35"
     },
     {
       "round": 4,
@@ -361,10 +361,10 @@
       "away": "Hull City",
       "venue": "Stamford Bridge",
       "homeScore": 1,
-      "awayScore": 0,
+      "awayScore": 2,
       "status": "live",
       "source": "FixtureDownload schedule/results baseline",
-      "liveStatus": "23"
+      "liveStatus": "35"
     },
     {
       "round": 4,
@@ -373,10 +373,10 @@
       "away": "Ipswich Town",
       "venue": "Selhurst Park",
       "homeScore": 1,
-      "awayScore": 0,
+      "awayScore": 1,
       "status": "live",
       "source": "FixtureDownload schedule/results baseline",
-      "liveStatus": "23"
+      "liveStatus": "35"
     },
     {
       "round": 4,
@@ -388,7 +388,7 @@
       "awayScore": 0,
       "status": "live",
       "source": "FixtureDownload schedule/results baseline",
-      "liveStatus": "23"
+      "liveStatus": "35"
     },
     {
       "round": 4,
@@ -5819,5 +5819,5 @@
     "premierLeagueMatches": "full 380-match schedule/results baseline loaded",
     "championsLeagueMatches": "full 144-match league-phase schedule loaded"
   },
-  "updated": "2026-09-12T14:24:30.083561Z"
+  "updated": "2026-09-12T14:36:34.260651Z"
 }
