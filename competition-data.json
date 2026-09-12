@@ -340,7 +340,7 @@
       "awayScore": 2,
       "status": "live",
       "source": "FixtureDownload schedule/results baseline",
-      "liveStatus": "82"
+      "liveStatus": "90+4"
     },
     {
       "round": 4,
@@ -349,10 +349,10 @@
       "away": "Nottingham Forest",
       "venue": "Villa Park",
       "homeScore": 1,
-      "awayScore": 1,
+      "awayScore": 2,
       "status": "live",
       "source": "FixtureDownload schedule/results baseline",
-      "liveStatus": "84"
+      "liveStatus": "90+6"
     },
     {
       "round": 4,
@@ -364,7 +364,7 @@
       "awayScore": 2,
       "status": "live",
       "source": "FixtureDownload schedule/results baseline",
-      "liveStatus": "86"
+      "liveStatus": "90+7"
     },
     {
       "round": 4,
@@ -373,10 +373,10 @@
       "away": "Ipswich Town",
       "venue": "Selhurst Park",
       "homeScore": 2,
-      "awayScore": 2,
+      "awayScore": 3,
       "status": "live",
       "source": "FixtureDownload schedule/results baseline",
-      "liveStatus": "82"
+      "liveStatus": "90+4"
     },
     {
       "round": 4,
@@ -388,7 +388,7 @@
       "awayScore": 0,
       "status": "live",
       "source": "FixtureDownload schedule/results baseline",
-      "liveStatus": "88"
+      "liveStatus": "90"
     },
     {
       "round": 4,
@@ -5819,5 +5819,5 @@
     "premierLeagueMatches": "full 380-match schedule/results baseline loaded",
     "championsLeagueMatches": "full 144-match league-phase schedule loaded"
   },
-  "updated": "2026-09-12T15:45:16.205512Z"
+  "updated": "2026-09-12T15:57:12.593054Z"
 }
