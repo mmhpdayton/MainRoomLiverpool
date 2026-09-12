@@ -337,10 +337,10 @@
       "away": "Brentford",
       "venue": "Vitality Stadium",
       "homeScore": 2,
-      "awayScore": 1,
+      "awayScore": 2,
       "status": "live",
       "source": "FixtureDownload schedule/results baseline",
-      "liveStatus": "56"
+      "liveStatus": "60"
     },
     {
       "round": 4,
@@ -352,7 +352,7 @@
       "awayScore": 1,
       "status": "live",
       "source": "FixtureDownload schedule/results baseline",
-      "liveStatus": "58"
+      "liveStatus": "62"
     },
     {
       "round": 4,
@@ -364,7 +364,7 @@
       "awayScore": 2,
       "status": "live",
       "source": "FixtureDownload schedule/results baseline",
-      "liveStatus": "60"
+      "liveStatus": "64"
     },
     {
       "round": 4,
@@ -376,7 +376,7 @@
       "awayScore": 2,
       "status": "live",
       "source": "FixtureDownload schedule/results baseline",
-      "liveStatus": "56"
+      "liveStatus": "60"
     },
     {
       "round": 4,
@@ -388,7 +388,7 @@
       "awayScore": 0,
       "status": "live",
       "source": "FixtureDownload schedule/results baseline",
-      "liveStatus": "62"
+      "liveStatus": "66"
     },
     {
       "round": 4,
@@ -5819,5 +5819,5 @@
     "premierLeagueMatches": "full 380-match schedule/results baseline loaded",
     "championsLeagueMatches": "full 144-match league-phase schedule loaded"
   },
-  "updated": "2026-09-12T15:19:14.092377Z"
+  "updated": "2026-09-12T15:23:13.150638Z"
 }
