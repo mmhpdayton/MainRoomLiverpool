@@ -391,11 +391,10 @@
       "home": "Tottenham Hotspur",
       "away": "Everton",
       "venue": "Tottenham Hotspur Stadium",
-      "homeScore": 0,
-      "awayScore": 0,
-      "status": "live",
-      "source": "FixtureDownload schedule/results baseline",
-      "liveStatus": "90"
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 4,
@@ -404,10 +403,10 @@
       "away": "Arsenal",
       "venue": "Stadium of Light",
       "homeScore": 0,
-      "awayScore": 0,
+      "awayScore": 1,
       "status": "live",
       "source": "FixtureDownload schedule/results baseline",
-      "liveStatus": "53"
+      "liveStatus": "67"
     },
     {
       "round": 4,
@@ -5816,5 +5815,5 @@
     "premierLeagueMatches": "full 380-match schedule/results baseline loaded",
     "championsLeagueMatches": "full 144-match league-phase schedule loaded"
   },
-  "updated": "2026-09-12T20:11:00.537016Z"
+  "updated": "2026-09-12T20:25:23.874022Z"
 }
