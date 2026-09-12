@@ -336,11 +336,11 @@
       "home": "AFC Bournemouth",
       "away": "Brentford",
       "venue": "Vitality Stadium",
-      "homeScore": 1,
+      "homeScore": 2,
       "awayScore": 1,
       "status": "live",
       "source": "FixtureDownload schedule/results baseline",
-      "liveStatus": "45"
+      "liveStatus": "56"
     },
     {
       "round": 4,
@@ -349,10 +349,10 @@
       "away": "Nottingham Forest",
       "venue": "Villa Park",
       "homeScore": 0,
-      "awayScore": 0,
+      "awayScore": 1,
       "status": "live",
       "source": "FixtureDownload schedule/results baseline",
-      "liveStatus": "45"
+      "liveStatus": "58"
     },
     {
       "round": 4,
@@ -364,7 +364,7 @@
       "awayScore": 2,
       "status": "live",
       "source": "FixtureDownload schedule/results baseline",
-      "liveStatus": "45"
+      "liveStatus": "60"
     },
     {
       "round": 4,
@@ -376,7 +376,7 @@
       "awayScore": 2,
       "status": "live",
       "source": "FixtureDownload schedule/results baseline",
-      "liveStatus": "45"
+      "liveStatus": "56"
     },
     {
       "round": 4,
@@ -388,7 +388,7 @@
       "awayScore": 0,
       "status": "live",
       "source": "FixtureDownload schedule/results baseline",
-      "liveStatus": "45"
+      "liveStatus": "62"
     },
     {
       "round": 4,
@@ -5819,5 +5819,5 @@
     "premierLeagueMatches": "full 380-match schedule/results baseline loaded",
     "championsLeagueMatches": "full 144-match league-phase schedule loaded"
   },
-  "updated": "2026-09-12T15:01:57.469554Z"
+  "updated": "2026-09-12T15:19:14.092377Z"
 }
