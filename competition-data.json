@@ -336,9 +336,9 @@
       "home": "AFC Bournemouth",
       "away": "Brentford",
       "venue": "Vitality Stadium",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
+      "homeScore": 2,
+      "awayScore": 2,
+      "status": "final",
       "source": "FixtureDownload schedule/results baseline"
     },
     {
@@ -347,9 +347,9 @@
       "home": "Aston Villa",
       "away": "Nottingham Forest",
       "venue": "Villa Park",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
+      "homeScore": 1,
+      "awayScore": 2,
+      "status": "final",
       "source": "FixtureDownload schedule/results baseline"
     },
     {
@@ -358,9 +358,9 @@
       "home": "Chelsea",
       "away": "Hull City",
       "venue": "Stamford Bridge",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
+      "homeScore": 2,
+      "awayScore": 2,
+      "status": "final",
       "source": "FixtureDownload schedule/results baseline"
     },
     {
@@ -369,9 +369,9 @@
       "home": "Crystal Palace",
       "away": "Ipswich Town",
       "venue": "Selhurst Park",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
+      "homeScore": 2,
+      "awayScore": 3,
+      "status": "final",
       "source": "FixtureDownload schedule/results baseline"
     },
     {
@@ -380,9 +380,9 @@
       "home": "Liverpool",
       "away": "Fulham",
       "venue": "Anfield",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "final",
       "source": "FixtureDownload schedule/results baseline"
     },
     {
@@ -391,9 +391,9 @@
       "home": "Tottenham Hotspur",
       "away": "Everton",
       "venue": "Tottenham Hotspur Stadium",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "final",
       "source": "FixtureDownload schedule/results baseline"
     },
     {
@@ -402,9 +402,9 @@
       "home": "Sunderland",
       "away": "Arsenal",
       "venue": "Stadium of Light",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
+      "homeScore": 0,
+      "awayScore": 2,
+      "status": "final",
       "source": "FixtureDownload schedule/results baseline"
     },
     {
@@ -5814,5 +5814,5 @@
     "premierLeagueMatches": "full 380-match schedule/results baseline loaded",
     "championsLeagueMatches": "full 144-match league-phase schedule loaded"
   },
-  "updated": "2026-09-13T01:24:15.515896Z"
+  "updated": "2026-09-13T02:24:40.372001Z"
 }
