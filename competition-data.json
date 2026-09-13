@@ -424,10 +424,11 @@
       "home": "Manchester United",
       "away": "Manchester City",
       "venue": "Old Trafford",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
-      "source": "FixtureDownload schedule/results baseline"
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "live",
+      "source": "FixtureDownload schedule/results baseline",
+      "liveStatus": "12"
     },
     {
       "round": 4,
@@ -5814,5 +5815,5 @@
     "premierLeagueMatches": "preserved last-known-good schedule",
     "championsLeagueMatches": "preserved last-known-good schedule"
   },
-  "updated": "2026-09-13T15:24:52.527941Z"
+  "updated": "2026-09-13T15:43:27.278974Z"
 }
