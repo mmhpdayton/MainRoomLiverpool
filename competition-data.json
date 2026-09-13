@@ -5811,8 +5811,8 @@
     }
   ],
   "health": {
-    "premierLeagueMatches": "full 380-match schedule/results baseline loaded",
-    "championsLeagueMatches": "full 144-match league-phase schedule loaded"
+    "premierLeagueMatches": "preserved last-known-good schedule",
+    "championsLeagueMatches": "preserved last-known-good schedule"
   },
-  "updated": "2026-09-13T14:23:42.804335Z"
+  "updated": "2026-09-13T15:24:52.527941Z"
 }
