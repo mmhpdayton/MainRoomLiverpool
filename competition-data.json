@@ -435,11 +435,11 @@
       "home": "Leeds United",
       "away": "Newcastle United",
       "venue": "Elland Road",
-      "homeScore": 3,
+      "homeScore": 4,
       "awayScore": 0,
       "status": "live",
       "source": "FixtureDownload schedule/results baseline",
-      "liveStatus": "47"
+      "liveStatus": "66"
     },
     {
       "round": 5,
@@ -5815,5 +5815,5 @@
     "premierLeagueMatches": "full 380-match schedule/results baseline loaded",
     "championsLeagueMatches": "full 144-match league-phase schedule loaded"
   },
-  "updated": "2026-09-14T20:06:32.091337Z"
+  "updated": "2026-09-14T20:25:07.631603Z"
 }
