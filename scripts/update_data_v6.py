@@ -15,6 +15,26 @@ CONFIRMED_FIXTURE_CHANGES={
   }
 }
 
+# Known named cup ties are additive safety nets so a parser change on LiverpoolFC.com
+# can never cause a confirmed knockout match to disappear from the Main Room feed.
+KNOWN_CUP_FIXTURES=[
+  {
+    'id':'20260915-tottenham-hotspur-carabao',
+    'date':'2026-09-15T19:00:00Z',
+    'opponent':'Tottenham Hotspur',
+    'homeAway':'H',
+    'competition':'Carabao Cup',
+    'venue':'Anfield',
+    'broadcastUS':'Paramount+',
+    'broadcastUSSource':'https://www.cbssports.com/soccer/carabao-cup/schedule/',
+    'broadcastConfidence':'official broadcaster match-specific',
+    'status':'scheduled',
+    'scoreFor':None,
+    'scoreAgainst':None,
+    'fixtureSource':'Liverpool FC official — fixture moved to 15 September 2026'
+  }
+]
+
 # Match-specific Spanish-language assignments that have been explicitly published by
 # the U.S. Spanish-language rights holder. These are deliberately narrow: no guessing.
 KNOWN_SPANISH={
@@ -58,6 +78,18 @@ def guarded_fixture_refresh(old):
     if key in seen or x.get('competition')=='Premier League':continue
     final.append(x);seen.add(key)
 
+  # Add any specifically confirmed cup tie that the official-page parser failed to
+  # surface. If the parser did find it, preserve the official version and only fill
+  # missing broadcast metadata from this safety-net record.
+  for known in KNOWN_CUP_FIXTURES:
+    key=(known.get('competition'),known.get('opponent'),known.get('homeAway'))
+    existing=next((x for x in final if (x.get('competition'),x.get('opponent'),x.get('homeAway'))==key),None)
+    if existing:
+      for k in ('broadcastUS','broadcastUSSource','broadcastConfidence'):
+        if not existing.get(k) or existing.get(k)=='TBA':existing[k]=known.get(k)
+    else:
+      final.append(dict(known));seen.add(key)
+
   for x in final:
     key=(x.get('competition'),x.get('opponent'),x.get('homeAway'))
     change=CONFIRMED_FIXTURE_CHANGES.get(key)
@@ -65,7 +97,7 @@ def guarded_fixture_refresh(old):
       x['date']=change['date'];x['fixtureChangeSource']=change['source']
       if change.get('broadcastUK'):x['broadcastUK']=change['broadcastUK']
 
-  return sorted(final,key=lambda x:x['date']),'Liverpool FC official per-fixture merge + confirmed amendment safety net'
+  return sorted(final,key=lambda x:x['date']),'Liverpool FC official per-fixture merge + confirmed amendment/cup safety net'
 
 def refresh_spanish_broadcasts(fixtures):
   """Add a separate U.S. Spanish-language outlet field using exact match listings only."""
@@ -105,7 +137,7 @@ def main():
     except Exception as be:print('BBC table',be);health['premierLeagueTable']='preserved last-known-good table'
   n=news()
   if n:d['news']=n
-  d['dataSources']={'fixtures':'Liverpool FC official per-fixture merge; PL identity protected; confirmed amendments safety-net; named UCL/FA/Carabao fixtures added automatically','premierLeagueTable':'PremierLeague.com official → BBC Sport fallback','broadcastUS':'Same match + same date + same official broadcaster table row required; Paramount+ guaranteed baseline for UCL','broadcastUSSpanish':'Separate exact-match Spanish-language field; NBC/Telemundo official rows for PL; TUDN match-specific listings for UCL; TBA rather than guessing'}
+  d['dataSources']={'fixtures':'Liverpool FC official per-fixture merge; PL identity protected; confirmed amendments safety-net; named UCL/FA/Carabao fixtures added automatically; confirmed cup ties have additive safety nets','premierLeagueTable':'PremierLeague.com official → BBC Sport fallback','broadcastUS':'Same match + same date + same official broadcaster table row required; Paramount+ guaranteed baseline for UCL; match-specific confirmed cup broadcasts preserved','broadcastUSSpanish':'Separate exact-match Spanish-language field; NBC/Telemundo official rows for PL; TUDN match-specific listings for UCL; TBA rather than guessing'}
   d['dataHealth']=health;d['updated']=datetime.now(timezone.utc).isoformat().replace('+00:00','Z');DATA.write_text(json.dumps(d,indent=2,ensure_ascii=False))
 
 if __name__=='__main__':main()
