@@ -435,11 +435,10 @@
       "home": "Leeds United",
       "away": "Newcastle United",
       "venue": "Elland Road",
-      "homeScore": 4,
-      "awayScore": 1,
-      "status": "live",
-      "source": "FixtureDownload schedule/results baseline",
-      "liveStatus": "90"
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 5,
@@ -5817,5 +5816,5 @@
     "milkCupMatches": "preserved last-known-good schedule",
     "faCupMatches": "preserved last-known-good schedule"
   },
-  "updated": "2026-09-14T21:51:16.326875Z"
+  "updated": "2026-09-14T22:25:49.451495Z"
 }
