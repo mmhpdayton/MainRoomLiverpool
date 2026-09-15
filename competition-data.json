@@ -413,9 +413,9 @@
       "home": "Coventry City",
       "away": "Brighton & Hove Albion",
       "venue": "Coventry Building Society Arena",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
+      "homeScore": 0,
+      "awayScore": 5,
+      "status": "final",
       "source": "FixtureDownload schedule/results baseline"
     },
     {
@@ -424,9 +424,9 @@
       "home": "Manchester United",
       "away": "Manchester City",
       "venue": "Old Trafford",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
+      "homeScore": 0,
+      "awayScore": 1,
+      "status": "final",
       "source": "FixtureDownload schedule/results baseline"
     },
     {
@@ -435,9 +435,9 @@
       "home": "Leeds United",
       "away": "Newcastle United",
       "venue": "Elland Road",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
+      "homeScore": 4,
+      "awayScore": 1,
+      "status": "final",
       "source": "FixtureDownload schedule/results baseline"
     },
     {
@@ -5816,5 +5816,5 @@
     "milkCupMatches": "preserved last-known-good schedule",
     "faCupMatches": "preserved last-known-good schedule"
   },
-  "updated": "2026-09-15T13:27:05.611341Z"
+  "updated": "2026-09-15T14:26:12.437424Z"
 }
