@@ -457,10 +457,11 @@
       "home": "Tottenham Hotspur",
       "away": "Aston Villa",
       "venue": "Tottenham Hotspur Stadium",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
-      "source": "FixtureDownload schedule/results baseline"
+      "homeScore": 2,
+      "awayScore": 3,
+      "status": "live",
+      "source": "FixtureDownload schedule/results baseline",
+      "liveStatus": "90"
     },
     {
       "round": 5,
@@ -479,10 +480,11 @@
       "home": "Everton",
       "away": "Ipswich Town",
       "venue": "Hill Dickinson Stadium",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
-      "source": "FixtureDownload schedule/results baseline"
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "live",
+      "source": "FixtureDownload schedule/results baseline",
+      "liveStatus": "4"
     },
     {
       "round": 5,
@@ -490,10 +492,11 @@
       "home": "Newcastle United",
       "away": "Hull City",
       "venue": "St. James' Park",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
-      "source": "FixtureDownload schedule/results baseline"
+      "homeScore": 1,
+      "awayScore": 0,
+      "status": "live",
+      "source": "FixtureDownload schedule/results baseline",
+      "liveStatus": "5"
     },
     {
       "round": 5,
@@ -5816,5 +5819,5 @@
     "milkCupMatches": "preserved last-known-good schedule",
     "faCupMatches": "preserved last-known-good schedule"
   },
-  "updated": "2026-09-19T10:55:35.357810Z"
+  "updated": "2026-09-19T14:04:46.100738Z"
 }
