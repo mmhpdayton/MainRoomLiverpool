@@ -446,11 +446,10 @@
       "home": "Brentford",
       "away": "Chelsea",
       "venue": "Gtech Community Stadium",
-      "homeScore": 3,
-      "awayScore": 0,
-      "status": "live",
-      "source": "FixtureDownload schedule/results baseline",
-      "liveStatus": "90"
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 5,
@@ -5817,5 +5816,5 @@
     "milkCupMatches": "preserved last-known-good schedule",
     "faCupMatches": "preserved last-known-good schedule"
   },
-  "updated": "2026-09-18T21:40:13.152158Z"
+  "updated": "2026-09-19T00:19:18.236892Z"
 }
