@@ -501,11 +501,10 @@
       "home": "Nottingham Forest",
       "away": "Coventry City",
       "venue": "The City Ground",
-      "homeScore": 0,
-      "awayScore": 1,
-      "status": "live",
-      "source": "FixtureDownload schedule/results baseline",
-      "liveStatus": "90"
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 5,
@@ -5817,5 +5816,5 @@
     "milkCupMatches": "preserved last-known-good schedule",
     "faCupMatches": "preserved last-known-good schedule"
   },
-  "updated": "2026-09-19T19:22:32.395348Z"
+  "updated": "2026-09-19T20:37:37.542681Z"
 }
