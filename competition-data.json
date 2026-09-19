@@ -480,11 +480,11 @@
       "home": "Everton",
       "away": "Ipswich Town",
       "venue": "Hill Dickinson Stadium",
-      "homeScore": 0,
+      "homeScore": 1,
       "awayScore": 0,
       "status": "live",
       "source": "FixtureDownload schedule/results baseline",
-      "liveStatus": "4"
+      "liveStatus": "23"
     },
     {
       "round": 5,
@@ -492,11 +492,11 @@
       "home": "Newcastle United",
       "away": "Hull City",
       "venue": "St. James' Park",
-      "homeScore": 1,
+      "homeScore": 2,
       "awayScore": 0,
       "status": "live",
       "source": "FixtureDownload schedule/results baseline",
-      "liveStatus": "5"
+      "liveStatus": "24"
     },
     {
       "round": 5,
@@ -5819,5 +5819,5 @@
     "milkCupMatches": "preserved last-known-good schedule",
     "faCupMatches": "preserved last-known-good schedule"
   },
-  "updated": "2026-09-19T14:04:46.100738Z"
+  "updated": "2026-09-19T14:23:42.357019Z"
 }
