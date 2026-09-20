@@ -545,11 +545,10 @@
       "home": "Fulham",
       "away": "Manchester United",
       "venue": "Craven Cottage",
-      "homeScore": 0,
-      "awayScore": 0,
-      "status": "live",
-      "source": "FixtureDownload schedule/results baseline",
-      "liveStatus": "45"
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 6,
@@ -5817,5 +5816,5 @@
     "milkCupMatches": "preserved last-known-good schedule",
     "faCupMatches": "preserved last-known-good schedule"
   },
-  "updated": "2026-09-20T16:14:59.519847Z"
+  "updated": "2026-09-20T18:46:08.981896Z"
 }
