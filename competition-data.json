@@ -512,9 +512,9 @@
       "home": "AFC Bournemouth",
       "away": "Liverpool",
       "venue": "Vitality Stadium",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
+      "homeScore": 0,
+      "awayScore": 1,
+      "status": "final",
       "source": "FixtureDownload schedule/results baseline"
     },
     {
@@ -523,9 +523,9 @@
       "home": "Leeds United",
       "away": "Crystal Palace",
       "venue": "Elland Road",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "final",
       "source": "FixtureDownload schedule/results baseline"
     },
     {
@@ -534,9 +534,9 @@
       "home": "Manchester City",
       "away": "Sunderland",
       "venue": "Etihad Stadium",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
+      "homeScore": 5,
+      "awayScore": 3,
+      "status": "final",
       "source": "FixtureDownload schedule/results baseline"
     },
     {
@@ -545,9 +545,9 @@
       "home": "Fulham",
       "away": "Manchester United",
       "venue": "Craven Cottage",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "final",
       "source": "FixtureDownload schedule/results baseline"
     },
     {
@@ -5816,5 +5816,5 @@
     "milkCupMatches": "preserved last-known-good schedule",
     "faCupMatches": "preserved last-known-good schedule"
   },
-  "updated": "2026-09-21T04:57:27.287174Z"
+  "updated": "2026-09-21T10:41:11.715573Z"
 }
