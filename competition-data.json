@@ -5811,12 +5811,12 @@
     }
   ],
   "health": {
-    "premierLeagueMatches": "preserved last-known-good schedule",
+    "premierLeagueMatches": "full 380-match schedule/results baseline loaded",
     "championsLeagueMatches": "full 144-match league-phase schedule loaded",
     "milkCupMatches": "full competition scoreboard loaded (89 matches)",
     "faCupMatches": "full competition scoreboard loaded (63 matches)"
   },
-  "updated": "2026-10-05T09:01:02.425468Z",
+  "updated": "2026-10-05T18:25:02.411839Z",
   "milkCupMatches": [
     {
       "id": "401842433",
