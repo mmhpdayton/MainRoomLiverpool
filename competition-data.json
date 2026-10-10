@@ -568,10 +568,11 @@
       "home": "Aston Villa",
       "away": "Brentford",
       "venue": "Villa Park",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
-      "source": "FixtureDownload schedule/results baseline"
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "live",
+      "source": "FixtureDownload schedule/results baseline",
+      "liveStatus": "45"
     },
     {
       "round": 6,
@@ -579,10 +580,11 @@
       "home": "Chelsea",
       "away": "AFC Bournemouth",
       "venue": "Stamford Bridge",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
-      "source": "FixtureDownload schedule/results baseline"
+      "homeScore": 2,
+      "awayScore": 0,
+      "status": "live",
+      "source": "FixtureDownload schedule/results baseline",
+      "liveStatus": "45"
     },
     {
       "round": 6,
@@ -590,10 +592,11 @@
       "home": "Ipswich Town",
       "away": "Fulham",
       "venue": "Portman Road",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
-      "source": "FixtureDownload schedule/results baseline"
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "live",
+      "source": "FixtureDownload schedule/results baseline",
+      "liveStatus": "45"
     },
     {
       "round": 6,
@@ -5817,7 +5820,7 @@
     "milkCupMatches": "full competition scoreboard loaded (89 matches)",
     "faCupMatches": "full competition scoreboard loaded (63 matches)"
   },
-  "updated": "2026-10-10T13:39:02.166967Z",
+  "updated": "2026-10-10T14:52:39.130616Z",
   "milkCupMatches": [
     {
       "id": "401842433",
