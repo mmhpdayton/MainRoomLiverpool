@@ -556,10 +556,11 @@
       "home": "Arsenal",
       "away": "Leeds United",
       "venue": "Emirates Stadium",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
-      "source": "FixtureDownload schedule/results baseline"
+      "homeScore": 2,
+      "awayScore": 1,
+      "status": "live",
+      "source": "FixtureDownload schedule/results baseline",
+      "liveStatus": "90"
     },
     {
       "round": 6,
@@ -5816,7 +5817,7 @@
     "milkCupMatches": "full competition scoreboard loaded (89 matches)",
     "faCupMatches": "full competition scoreboard loaded (63 matches)"
   },
-  "updated": "2026-10-10T07:03:59.038673Z",
+  "updated": "2026-10-10T13:39:02.166967Z",
   "milkCupMatches": [
     {
       "id": "401842433",
