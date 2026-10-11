@@ -622,11 +622,11 @@
       "home": "Crystal Palace",
       "away": "Nottingham Forest",
       "venue": "Selhurst Park",
-      "homeScore": 2,
+      "homeScore": 3,
       "awayScore": 1,
       "status": "live",
       "source": "FixtureDownload schedule/results baseline",
-      "liveStatus": "47"
+      "liveStatus": "90"
     },
     {
       "round": 6,
@@ -634,11 +634,11 @@
       "home": "Hull City",
       "away": "Everton",
       "venue": "MKM Stadium",
-      "homeScore": 0,
-      "awayScore": 0,
+      "homeScore": 2,
+      "awayScore": 2,
       "status": "live",
       "source": "FixtureDownload schedule/results baseline",
-      "liveStatus": "48"
+      "liveStatus": "90"
     },
     {
       "round": 6,
@@ -646,10 +646,11 @@
       "home": "Liverpool",
       "away": "Manchester City",
       "venue": "Anfield",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
-      "source": "FixtureDownload schedule/results baseline"
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "live",
+      "source": "FixtureDownload schedule/results baseline",
+      "liveStatus": "6"
     },
     {
       "round": 6,
@@ -5818,7 +5819,7 @@
     "milkCupMatches": "full competition scoreboard loaded (89 matches)",
     "faCupMatches": "full competition scoreboard loaded (63 matches)"
   },
-  "updated": "2026-10-11T14:10:51.354354Z",
+  "updated": "2026-10-11T15:38:12.357015Z",
   "milkCupMatches": [
     {
       "id": "401842433",
