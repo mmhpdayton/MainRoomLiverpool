@@ -655,9 +655,9 @@
       "home": "Coventry City",
       "away": "Newcastle United",
       "venue": "Coventry Building Society Arena",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
+      "homeScore": 4,
+      "awayScore": 1,
+      "status": "final",
       "source": "FixtureDownload schedule/results baseline"
     },
     {
@@ -5816,7 +5816,7 @@
     "milkCupMatches": "full competition scoreboard loaded (89 matches)",
     "faCupMatches": "full competition scoreboard loaded (63 matches)"
   },
-  "updated": "2026-10-13T03:32:21.074422Z",
+  "updated": "2026-10-13T11:44:42.165807Z",
   "milkCupMatches": [
     {
       "id": "401842433",
