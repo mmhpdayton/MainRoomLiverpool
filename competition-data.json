@@ -4420,11 +4420,11 @@
       "home": "Arsenal",
       "away": "Lille",
       "venue": "Arsenal Stadium",
-      "homeScore": 0,
+      "homeScore": 3,
       "awayScore": 0,
       "status": "live",
       "source": "FixtureDownload schedule baseline; UEFA official fixture cross-check",
-      "liveStatus": "14"
+      "liveStatus": "79"
     },
     {
       "round": 2,
@@ -4436,7 +4436,7 @@
       "awayScore": 0,
       "status": "live",
       "source": "FixtureDownload schedule baseline; UEFA official fixture cross-check",
-      "liveStatus": "12"
+      "liveStatus": "77"
     },
     {
       "round": 2,
@@ -4444,11 +4444,11 @@
       "home": "RB Leipzig",
       "away": "PSV Eindhoven",
       "venue": "RB Arena",
-      "homeScore": 0,
+      "homeScore": 1,
       "awayScore": 0,
       "status": "live",
       "source": "FixtureDownload schedule baseline; UEFA official fixture cross-check",
-      "liveStatus": "13"
+      "liveStatus": "76"
     },
     {
       "round": 2,
@@ -4456,11 +4456,11 @@
       "home": "Villarreal",
       "away": "Napoli",
       "venue": "Estadio de la Cerámica",
-      "homeScore": 0,
+      "homeScore": 2,
       "awayScore": 1,
       "status": "live",
       "source": "FixtureDownload schedule baseline; UEFA official fixture cross-check",
-      "liveStatus": "14"
+      "liveStatus": "79"
     },
     {
       "round": 2,
@@ -4468,11 +4468,11 @@
       "home": "Galatasaray",
       "away": "Barcelona",
       "venue": "Ali Sami Yen Spor Kompleksi",
-      "homeScore": 0,
-      "awayScore": 0,
+      "homeScore": 1,
+      "awayScore": 4,
       "status": "live",
       "source": "FixtureDownload schedule baseline; UEFA official fixture cross-check",
-      "liveStatus": "13"
+      "liveStatus": "76"
     },
     {
       "round": 2,
@@ -4480,11 +4480,11 @@
       "home": "Viking",
       "away": "Bayern Munich",
       "venue": "Viking stadion",
-      "homeScore": 1,
-      "awayScore": 0,
+      "homeScore": 2,
+      "awayScore": 3,
       "status": "live",
       "source": "FixtureDownload schedule baseline; UEFA official fixture cross-check",
-      "liveStatus": "14"
+      "liveStatus": "78"
     },
     {
       "round": 2,
@@ -5823,7 +5823,7 @@
     "milkCupMatches": "full competition scoreboard loaded (89 matches)",
     "faCupMatches": "full competition scoreboard loaded (63 matches)"
   },
-  "updated": "2026-10-13T19:14:49.456261Z",
+  "updated": "2026-10-13T20:37:17.885416Z",
   "milkCupMatches": [
     {
       "id": "401842433",
