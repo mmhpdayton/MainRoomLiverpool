@@ -4386,10 +4386,11 @@
       "home": "Lens",
       "away": "Sporting CP",
       "venue": "Stade Bollaert-Delelis",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
-      "source": "FixtureDownload schedule baseline; UEFA official fixture cross-check"
+      "homeScore": 0,
+      "awayScore": 2,
+      "status": "live",
+      "source": "FixtureDownload schedule baseline; UEFA official fixture cross-check",
+      "liveStatus": "90"
     },
     {
       "round": 2,
@@ -4419,10 +4420,11 @@
       "home": "Arsenal",
       "away": "Lille",
       "venue": "Arsenal Stadium",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
-      "source": "FixtureDownload schedule baseline; UEFA official fixture cross-check"
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "live",
+      "source": "FixtureDownload schedule baseline; UEFA official fixture cross-check",
+      "liveStatus": "14"
     },
     {
       "round": 2,
@@ -4430,10 +4432,11 @@
       "home": "Atlético de Madrid",
       "away": "Manchester United",
       "venue": "Estadio Metropolitano",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
-      "source": "FixtureDownload schedule baseline; UEFA official fixture cross-check"
+      "homeScore": 1,
+      "awayScore": 0,
+      "status": "live",
+      "source": "FixtureDownload schedule baseline; UEFA official fixture cross-check",
+      "liveStatus": "12"
     },
     {
       "round": 2,
@@ -4441,10 +4444,11 @@
       "home": "RB Leipzig",
       "away": "PSV Eindhoven",
       "venue": "RB Arena",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
-      "source": "FixtureDownload schedule baseline; UEFA official fixture cross-check"
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "live",
+      "source": "FixtureDownload schedule baseline; UEFA official fixture cross-check",
+      "liveStatus": "13"
     },
     {
       "round": 2,
@@ -4452,10 +4456,11 @@
       "home": "Villarreal",
       "away": "Napoli",
       "venue": "Estadio de la Cerámica",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
-      "source": "FixtureDownload schedule baseline; UEFA official fixture cross-check"
+      "homeScore": 0,
+      "awayScore": 1,
+      "status": "live",
+      "source": "FixtureDownload schedule baseline; UEFA official fixture cross-check",
+      "liveStatus": "14"
     },
     {
       "round": 2,
@@ -4463,10 +4468,11 @@
       "home": "Galatasaray",
       "away": "Barcelona",
       "venue": "Ali Sami Yen Spor Kompleksi",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
-      "source": "FixtureDownload schedule baseline; UEFA official fixture cross-check"
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "live",
+      "source": "FixtureDownload schedule baseline; UEFA official fixture cross-check",
+      "liveStatus": "13"
     },
     {
       "round": 2,
@@ -4474,10 +4480,11 @@
       "home": "Viking",
       "away": "Bayern Munich",
       "venue": "Viking stadion",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
-      "source": "FixtureDownload schedule baseline; UEFA official fixture cross-check"
+      "homeScore": 1,
+      "awayScore": 0,
+      "status": "live",
+      "source": "FixtureDownload schedule baseline; UEFA official fixture cross-check",
+      "liveStatus": "14"
     },
     {
       "round": 2,
@@ -5816,7 +5823,7 @@
     "milkCupMatches": "full competition scoreboard loaded (89 matches)",
     "faCupMatches": "full competition scoreboard loaded (63 matches)"
   },
-  "updated": "2026-10-13T11:44:42.165807Z",
+  "updated": "2026-10-13T19:14:49.456261Z",
   "milkCupMatches": [
     {
       "id": "401842433",
