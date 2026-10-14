@@ -4485,10 +4485,11 @@
       "home": "Feyenoord",
       "away": "Como",
       "venue": "Stadion Feijenoord 'De Kuip'",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
-      "source": "FixtureDownload schedule baseline; UEFA official fixture cross-check"
+      "homeScore": 3,
+      "awayScore": 1,
+      "status": "live",
+      "source": "FixtureDownload schedule baseline; UEFA official fixture cross-check",
+      "liveStatus": "88"
     },
     {
       "round": 2,
@@ -4496,10 +4497,11 @@
       "home": "LASK",
       "away": "Liverpool",
       "venue": "Oberösterreich Arena",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
-      "source": "FixtureDownload schedule baseline; UEFA official fixture cross-check"
+      "homeScore": 3,
+      "awayScore": 6,
+      "status": "live",
+      "source": "FixtureDownload schedule baseline; UEFA official fixture cross-check",
+      "liveStatus": "90+3"
     },
     {
       "round": 2,
@@ -5816,7 +5818,7 @@
     "milkCupMatches": "full competition scoreboard loaded (89 matches)",
     "faCupMatches": "full competition scoreboard loaded (63 matches)"
   },
-  "updated": "2026-10-14T13:41:52.019713Z",
+  "updated": "2026-10-14T18:36:03.956368Z",
   "milkCupMatches": [
     {
       "id": "401842433",
