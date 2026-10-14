@@ -4486,10 +4486,10 @@
       "away": "Como",
       "venue": "Stadion Feijenoord 'De Kuip'",
       "homeScore": 3,
-      "awayScore": 1,
+      "awayScore": 2,
       "status": "live",
       "source": "FixtureDownload schedule baseline; UEFA official fixture cross-check",
-      "liveStatus": "88"
+      "liveStatus": "90"
     },
     {
       "round": 2,
@@ -4501,7 +4501,7 @@
       "awayScore": 6,
       "status": "live",
       "source": "FixtureDownload schedule baseline; UEFA official fixture cross-check",
-      "liveStatus": "90+3"
+      "liveStatus": "90"
     },
     {
       "round": 2,
@@ -5818,7 +5818,7 @@
     "milkCupMatches": "full competition scoreboard loaded (89 matches)",
     "faCupMatches": "full competition scoreboard loaded (63 matches)"
   },
-  "updated": "2026-10-14T18:36:03.956368Z",
+  "updated": "2026-10-14T18:54:28.043874Z",
   "milkCupMatches": [
     {
       "id": "401842433",

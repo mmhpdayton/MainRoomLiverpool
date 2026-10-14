@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-14T18:36:03.956368Z",
+  "updated": "2026-10-14T18:54:28.043874Z",
   "fixtures": [
     {
       "id": "20260823-newcastle-united",
@@ -176,7 +176,7 @@
       "scoreAgainst": 3,
       "broadcastUSSource": "Paramount Press Express — every UEFA match streams on Paramount+",
       "broadcastConfidence": "official rights baseline",
-      "liveStatus": "90+3",
+      "liveStatus": "90",
       "broadcastCheckedAt": "2026-10-14T18:35:49.671723Z",
       "broadcastUSSpanish": "TBA",
       "broadcastUSSpanishSource": "",
