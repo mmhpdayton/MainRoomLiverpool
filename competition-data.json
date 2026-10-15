@@ -4485,9 +4485,9 @@
       "home": "Feyenoord",
       "away": "Como",
       "venue": "Stadion Feijenoord 'De Kuip'",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
+      "homeScore": 3,
+      "awayScore": 2,
+      "status": "final",
       "source": "FixtureDownload schedule baseline; UEFA official fixture cross-check"
     },
     {
@@ -4496,9 +4496,9 @@
       "home": "LASK",
       "away": "Liverpool",
       "venue": "Oberösterreich Arena",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
+      "homeScore": 3,
+      "awayScore": 6,
+      "status": "final",
       "source": "FixtureDownload schedule baseline; UEFA official fixture cross-check"
     },
     {
@@ -4507,9 +4507,9 @@
       "home": "Manchester City",
       "away": "Paris Saint-Germain",
       "venue": "City of Manchester Stadium",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
+      "homeScore": 2,
+      "awayScore": 4,
+      "status": "final",
       "source": "FixtureDownload schedule baseline; UEFA official fixture cross-check"
     },
     {
@@ -4518,9 +4518,9 @@
       "home": "Roma",
       "away": "Real Madrid",
       "venue": "Stadio Olimpico",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
+      "homeScore": 3,
+      "awayScore": 4,
+      "status": "final",
       "source": "FixtureDownload schedule baseline; UEFA official fixture cross-check"
     },
     {
@@ -4529,9 +4529,9 @@
       "home": "Aston Villa",
       "away": "Fenerbahçe",
       "venue": "Villa Park",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
+      "homeScore": 6,
+      "awayScore": 0,
+      "status": "final",
       "source": "FixtureDownload schedule baseline; UEFA official fixture cross-check"
     },
     {
@@ -4540,9 +4540,9 @@
       "home": "Real Betis",
       "away": "Porto",
       "venue": " La Cartuja de Sevilla",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
+      "homeScore": 3,
+      "awayScore": 2,
+      "status": "final",
       "source": "FixtureDownload schedule baseline; UEFA official fixture cross-check"
     },
     {
@@ -4551,9 +4551,9 @@
       "home": "Bodø/Glimt",
       "away": "Borussia Dortmund",
       "venue": "Aspmyra",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
+      "homeScore": 1,
+      "awayScore": 0,
+      "status": "final",
       "source": "FixtureDownload schedule baseline; UEFA official fixture cross-check"
     },
     {
@@ -4562,9 +4562,9 @@
       "home": "Shakhtar Donetsk",
       "away": "AEK Athens",
       "venue": "Stamford Bridge",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
+      "homeScore": 3,
+      "awayScore": 1,
+      "status": "final",
       "source": "FixtureDownload schedule baseline; UEFA official fixture cross-check"
     },
     {
@@ -4573,9 +4573,9 @@
       "home": "Slovan Bratislava",
       "away": "Stuttgart",
       "venue": "Národný futbalový štadión ",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
+      "homeScore": 0,
+      "awayScore": 3,
+      "status": "final",
       "source": "FixtureDownload schedule baseline; UEFA official fixture cross-check"
     },
     {
@@ -5816,7 +5816,7 @@
     "milkCupMatches": "full competition scoreboard loaded (89 matches)",
     "faCupMatches": "full competition scoreboard loaded (63 matches)"
   },
-  "updated": "2026-10-15T05:53:38.677954Z",
+  "updated": "2026-10-15T11:24:56.311459Z",
   "milkCupMatches": [
     {
       "id": "401842433",
