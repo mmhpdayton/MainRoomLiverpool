@@ -716,7 +716,7 @@
       "awayScore": 1,
       "status": "live",
       "source": "FixtureDownload schedule/results baseline",
-      "liveStatus": "37"
+      "liveStatus": "90"
     },
     {
       "round": 7,
@@ -5819,7 +5819,7 @@
     "milkCupMatches": "full competition scoreboard loaded (89 matches)",
     "faCupMatches": "full competition scoreboard loaded (63 matches)"
   },
-  "updated": "2026-10-17T17:08:27.255330Z",
+  "updated": "2026-10-17T18:47:05.530476Z",
   "milkCupMatches": [
     {
       "id": "401842433",
