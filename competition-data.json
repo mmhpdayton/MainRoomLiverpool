@@ -666,11 +666,10 @@
       "home": "Everton",
       "away": "Chelsea",
       "venue": "Hill Dickinson Stadium",
-      "homeScore": 0,
-      "awayScore": 2,
-      "status": "live",
-      "source": "FixtureDownload schedule/results baseline",
-      "liveStatus": "90"
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 7,
@@ -690,11 +689,10 @@
       "home": "Fulham",
       "away": "Hull City",
       "venue": "Craven Cottage",
-      "homeScore": 1,
-      "awayScore": 0,
-      "status": "live",
-      "source": "FixtureDownload schedule/results baseline",
-      "liveStatus": "90"
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 7,
@@ -714,10 +712,11 @@
       "home": "Newcastle United",
       "away": "Aston Villa",
       "venue": "St. James' Park",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
-      "source": "FixtureDownload schedule/results baseline"
+      "homeScore": 0,
+      "awayScore": 1,
+      "status": "live",
+      "source": "FixtureDownload schedule/results baseline",
+      "liveStatus": "37"
     },
     {
       "round": 7,
@@ -5820,7 +5819,7 @@
     "milkCupMatches": "full competition scoreboard loaded (89 matches)",
     "faCupMatches": "full competition scoreboard loaded (63 matches)"
   },
-  "updated": "2026-10-17T16:30:29.690278Z",
+  "updated": "2026-10-17T17:08:27.255330Z",
   "milkCupMatches": [
     {
       "id": "401842433",
