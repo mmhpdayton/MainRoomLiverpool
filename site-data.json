@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-17T14:12:18.095836Z",
+  "updated": "2026-10-17T16:30:29.690278Z",
   "fixtures": [
     {
       "id": "20260823-newcastle-united",
@@ -192,12 +192,12 @@
       "venue": "Gtech Community Stadium",
       "broadcastUS": "Peacock • NBCSN • NBC",
       "status": "live",
-      "scoreFor": 0,
-      "scoreAgainst": 0,
+      "scoreFor": 2,
+      "scoreAgainst": 1,
       "broadcastUSSource": "https://www.nbcsports.com/pressbox/press-releases/second-place-arsenal-visit-nottingham-forest-this-sunday-oct-18-at-11-30-a-m-et-on-peacock-and-nbcsn-headlining-nbc-sports-premier-league-coverage-this-weekend",
       "broadcastCheckedAt": "2026-10-17T14:12:04.417425Z",
       "broadcastConfidence": "official match-specific",
-      "liveStatus": "10",
+      "liveStatus": "90",
       "broadcastUSSpanish": "TBA",
       "broadcastUSSpanishSource": "",
       "broadcastUSSpanishConfidence": "",
