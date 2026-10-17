@@ -710,11 +710,10 @@
       "home": "Newcastle United",
       "away": "Aston Villa",
       "venue": "St. James' Park",
-      "homeScore": 0,
-      "awayScore": 1,
-      "status": "live",
-      "source": "FixtureDownload schedule/results baseline",
-      "liveStatus": "90"
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 7,
@@ -5817,7 +5816,7 @@
     "milkCupMatches": "full competition scoreboard loaded (89 matches)",
     "faCupMatches": "full competition scoreboard loaded (63 matches)"
   },
-  "updated": "2026-10-17T19:22:24.142355Z",
+  "updated": "2026-10-17T22:16:37.378715Z",
   "milkCupMatches": [
     {
       "id": "401842433",
