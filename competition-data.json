@@ -666,10 +666,11 @@
       "home": "Everton",
       "away": "Chelsea",
       "venue": "Hill Dickinson Stadium",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
-      "source": "FixtureDownload schedule/results baseline"
+      "homeScore": 0,
+      "awayScore": 1,
+      "status": "live",
+      "source": "FixtureDownload schedule/results baseline",
+      "liveStatus": "83"
     },
     {
       "round": 7,
@@ -5816,7 +5817,7 @@
     "milkCupMatches": "full competition scoreboard loaded (89 matches)",
     "faCupMatches": "full competition scoreboard loaded (63 matches)"
   },
-  "updated": "2026-10-17T10:39:51.390009Z",
+  "updated": "2026-10-17T13:16:14.751167Z",
   "milkCupMatches": [
     {
       "id": "401842433",
