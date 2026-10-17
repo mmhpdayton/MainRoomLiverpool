@@ -677,11 +677,10 @@
       "home": "Brentford",
       "away": "Liverpool",
       "venue": "Gtech Community Stadium",
-      "homeScore": 1,
-      "awayScore": 2,
-      "status": "live",
-      "source": "FixtureDownload schedule/results baseline",
-      "liveStatus": "90"
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 7,
@@ -700,11 +699,10 @@
       "home": "Manchester City",
       "away": "Ipswich Town",
       "venue": "Etihad Stadium",
-      "homeScore": 3,
-      "awayScore": 2,
-      "status": "live",
-      "source": "FixtureDownload schedule/results baseline",
-      "liveStatus": "90"
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 7,
@@ -5819,7 +5817,7 @@
     "milkCupMatches": "full competition scoreboard loaded (89 matches)",
     "faCupMatches": "full competition scoreboard loaded (63 matches)"
   },
-  "updated": "2026-10-17T18:47:05.530476Z",
+  "updated": "2026-10-17T19:22:24.142355Z",
   "milkCupMatches": [
     {
       "id": "401842433",
