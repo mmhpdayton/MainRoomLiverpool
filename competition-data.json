@@ -754,11 +754,10 @@
       "home": "Nottingham Forest",
       "away": "Arsenal",
       "venue": "The City Ground",
-      "homeScore": 0,
-      "awayScore": 1,
-      "status": "live",
-      "source": "FixtureDownload schedule/results baseline",
-      "liveStatus": "88"
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 7,
@@ -5817,7 +5816,7 @@
     "milkCupMatches": "full competition scoreboard loaded (89 matches)",
     "faCupMatches": "full competition scoreboard loaded (63 matches)"
   },
-  "updated": "2026-10-18T17:20:49.370548Z",
+  "updated": "2026-10-18T20:39:05.200567Z",
   "milkCupMatches": [
     {
       "id": "401842433",
