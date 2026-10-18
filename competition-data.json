@@ -721,11 +721,10 @@
       "home": "AFC Bournemouth",
       "away": "Sunderland",
       "venue": "Vitality Stadium",
-      "homeScore": 1,
-      "awayScore": 0,
-      "status": "live",
-      "source": "FixtureDownload schedule/results baseline",
-      "liveStatus": "45"
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 7,
@@ -744,11 +743,10 @@
       "home": "Leeds United",
       "away": "Manchester United",
       "venue": "Elland Road",
-      "homeScore": 0,
-      "awayScore": 1,
-      "status": "live",
-      "source": "FixtureDownload schedule/results baseline",
-      "liveStatus": "45"
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 7,
@@ -757,10 +755,10 @@
       "away": "Arsenal",
       "venue": "The City Ground",
       "homeScore": 0,
-      "awayScore": 0,
+      "awayScore": 1,
       "status": "live",
       "source": "FixtureDownload schedule/results baseline",
-      "liveStatus": "75"
+      "liveStatus": "88"
     },
     {
       "round": 7,
@@ -5819,7 +5817,7 @@
     "milkCupMatches": "full competition scoreboard loaded (89 matches)",
     "faCupMatches": "full competition scoreboard loaded (63 matches)"
   },
-  "updated": "2026-10-18T17:05:51.647412Z",
+  "updated": "2026-10-18T17:20:49.370548Z",
   "milkCupMatches": [
     {
       "id": "401842433",
