@@ -666,9 +666,9 @@
       "home": "Everton",
       "away": "Chelsea",
       "venue": "Hill Dickinson Stadium",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
+      "homeScore": 0,
+      "awayScore": 2,
+      "status": "final",
       "source": "FixtureDownload schedule/results baseline"
     },
     {
@@ -677,9 +677,9 @@
       "home": "Brentford",
       "away": "Liverpool",
       "venue": "Gtech Community Stadium",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
+      "homeScore": 1,
+      "awayScore": 2,
+      "status": "final",
       "source": "FixtureDownload schedule/results baseline"
     },
     {
@@ -688,9 +688,9 @@
       "home": "Fulham",
       "away": "Hull City",
       "venue": "Craven Cottage",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
+      "homeScore": 1,
+      "awayScore": 0,
+      "status": "final",
       "source": "FixtureDownload schedule/results baseline"
     },
     {
@@ -699,9 +699,9 @@
       "home": "Manchester City",
       "away": "Ipswich Town",
       "venue": "Etihad Stadium",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
+      "homeScore": 3,
+      "awayScore": 2,
+      "status": "final",
       "source": "FixtureDownload schedule/results baseline"
     },
     {
@@ -710,9 +710,9 @@
       "home": "Newcastle United",
       "away": "Aston Villa",
       "venue": "St. James' Park",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
+      "homeScore": 0,
+      "awayScore": 1,
+      "status": "final",
       "source": "FixtureDownload schedule/results baseline"
     },
     {
@@ -5816,7 +5816,7 @@
     "milkCupMatches": "full competition scoreboard loaded (89 matches)",
     "faCupMatches": "full competition scoreboard loaded (63 matches)"
   },
-  "updated": "2026-10-18T00:04:37.095525Z",
+  "updated": "2026-10-18T04:28:35.978291Z",
   "milkCupMatches": [
     {
       "id": "401842433",
