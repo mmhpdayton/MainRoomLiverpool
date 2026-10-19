@@ -721,9 +721,9 @@
       "home": "AFC Bournemouth",
       "away": "Sunderland",
       "venue": "Vitality Stadium",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
+      "homeScore": 2,
+      "awayScore": 0,
+      "status": "final",
       "source": "FixtureDownload schedule/results baseline"
     },
     {
@@ -732,9 +732,9 @@
       "home": "Brighton & Hove Albion",
       "away": "Crystal Palace",
       "venue": "American Express Stadium",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
+      "homeScore": 5,
+      "awayScore": 0,
+      "status": "final",
       "source": "FixtureDownload schedule/results baseline"
     },
     {
@@ -743,9 +743,9 @@
       "home": "Leeds United",
       "away": "Manchester United",
       "venue": "Elland Road",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "final",
       "source": "FixtureDownload schedule/results baseline"
     },
     {
@@ -754,9 +754,9 @@
       "home": "Nottingham Forest",
       "away": "Arsenal",
       "venue": "The City Ground",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
+      "homeScore": 0,
+      "awayScore": 1,
+      "status": "final",
       "source": "FixtureDownload schedule/results baseline"
     },
     {
@@ -5816,7 +5816,7 @@
     "milkCupMatches": "full competition scoreboard loaded (89 matches)",
     "faCupMatches": "full competition scoreboard loaded (63 matches)"
   },
-  "updated": "2026-10-19T06:12:57.445941Z",
+  "updated": "2026-10-19T13:10:17.007990Z",
   "milkCupMatches": [
     {
       "id": "401842433",
