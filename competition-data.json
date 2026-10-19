@@ -766,10 +766,10 @@
       "away": "Coventry City",
       "venue": "Tottenham Hotspur Stadium",
       "homeScore": 1,
-      "awayScore": 0,
+      "awayScore": 1,
       "status": "live",
       "source": "FixtureDownload schedule/results baseline",
-      "liveStatus": "18"
+      "liveStatus": "50"
     },
     {
       "round": 8,
@@ -5817,7 +5817,7 @@
     "milkCupMatches": "full competition scoreboard loaded (89 matches)",
     "faCupMatches": "full competition scoreboard loaded (63 matches)"
   },
-  "updated": "2026-10-19T19:19:28.121361Z",
+  "updated": "2026-10-19T20:11:56.452977Z",
   "milkCupMatches": [
     {
       "id": "401842433",
