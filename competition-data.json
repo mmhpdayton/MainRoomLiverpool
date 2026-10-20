@@ -4585,10 +4585,10 @@
       "away": "Slavia Praha",
       "venue": "Fenerbahçe Sükrü Saracoglu Spor Kompleksi",
       "homeScore": 2,
-      "awayScore": 1,
+      "awayScore": 2,
       "status": "live",
       "source": "FixtureDownload schedule baseline; UEFA official fixture cross-check",
-      "liveStatus": "50"
+      "liveStatus": "90"
     },
     {
       "round": 3,
@@ -4607,10 +4607,11 @@
       "home": "Paris Saint-Germain",
       "away": "Barcelona",
       "venue": "Parc des Princes",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
-      "source": "FixtureDownload schedule baseline; UEFA official fixture cross-check"
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "live",
+      "source": "FixtureDownload schedule baseline; UEFA official fixture cross-check",
+      "liveStatus": "9"
     },
     {
       "round": 3,
@@ -4618,10 +4619,11 @@
       "home": "Liverpool",
       "away": "Villarreal",
       "venue": "Anfield",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
-      "source": "FixtureDownload schedule baseline; UEFA official fixture cross-check"
+      "homeScore": 0,
+      "awayScore": 1,
+      "status": "live",
+      "source": "FixtureDownload schedule baseline; UEFA official fixture cross-check",
+      "liveStatus": "11"
     },
     {
       "round": 3,
@@ -4629,10 +4631,11 @@
       "home": "Manchester City",
       "away": "AEK Athens",
       "venue": "City of Manchester Stadium",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
-      "source": "FixtureDownload schedule baseline; UEFA official fixture cross-check"
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "live",
+      "source": "FixtureDownload schedule baseline; UEFA official fixture cross-check",
+      "liveStatus": "11"
     },
     {
       "round": 3,
@@ -4640,10 +4643,11 @@
       "home": "Roma",
       "away": "Slovan Bratislava",
       "venue": "Stadio Olimpico",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
-      "source": "FixtureDownload schedule baseline; UEFA official fixture cross-check"
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "live",
+      "source": "FixtureDownload schedule baseline; UEFA official fixture cross-check",
+      "liveStatus": "12"
     },
     {
       "round": 3,
@@ -4651,10 +4655,11 @@
       "home": "Porto",
       "away": "PSV Eindhoven",
       "venue": "Estádio do Dragão",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
-      "source": "FixtureDownload schedule baseline; UEFA official fixture cross-check"
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "live",
+      "source": "FixtureDownload schedule baseline; UEFA official fixture cross-check",
+      "liveStatus": "11"
     },
     {
       "round": 3,
@@ -4662,10 +4667,11 @@
       "home": "Napoli",
       "away": "Bodø/Glimt",
       "venue": "Stadio Diego Armando Maradona",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
-      "source": "FixtureDownload schedule baseline; UEFA official fixture cross-check"
+      "homeScore": 1,
+      "awayScore": 0,
+      "status": "live",
+      "source": "FixtureDownload schedule baseline; UEFA official fixture cross-check",
+      "liveStatus": "9"
     },
     {
       "round": 3,
@@ -4673,10 +4679,11 @@
       "home": "Stuttgart",
       "away": "Atlético de Madrid",
       "venue": "Arena Stuttgart",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
-      "source": "FixtureDownload schedule baseline; UEFA official fixture cross-check"
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "live",
+      "source": "FixtureDownload schedule baseline; UEFA official fixture cross-check",
+      "liveStatus": "12"
     },
     {
       "round": 3,
@@ -5817,7 +5824,7 @@
     "milkCupMatches": "full competition scoreboard loaded (89 matches)",
     "faCupMatches": "full competition scoreboard loaded (63 matches)"
   },
-  "updated": "2026-10-20T17:55:22.026227Z",
+  "updated": "2026-10-20T19:13:53.483571Z",
   "milkCupMatches": [
     {
       "id": "401842433",
