@@ -4607,11 +4607,11 @@
       "home": "Paris Saint-Germain",
       "away": "Barcelona",
       "venue": "Parc des Princes",
-      "homeScore": 0,
-      "awayScore": 0,
+      "homeScore": 4,
+      "awayScore": 2,
       "status": "live",
       "source": "FixtureDownload schedule baseline; UEFA official fixture cross-check",
-      "liveStatus": "9"
+      "liveStatus": "90"
     },
     {
       "round": 3,
@@ -4619,11 +4619,11 @@
       "home": "Liverpool",
       "away": "Villarreal",
       "venue": "Anfield",
-      "homeScore": 0,
-      "awayScore": 1,
+      "homeScore": 4,
+      "awayScore": 3,
       "status": "live",
       "source": "FixtureDownload schedule baseline; UEFA official fixture cross-check",
-      "liveStatus": "11"
+      "liveStatus": "90"
     },
     {
       "round": 3,
@@ -4631,11 +4631,11 @@
       "home": "Manchester City",
       "away": "AEK Athens",
       "venue": "City of Manchester Stadium",
-      "homeScore": 0,
-      "awayScore": 0,
+      "homeScore": 5,
+      "awayScore": 1,
       "status": "live",
       "source": "FixtureDownload schedule baseline; UEFA official fixture cross-check",
-      "liveStatus": "11"
+      "liveStatus": "90"
     },
     {
       "round": 3,
@@ -4643,11 +4643,11 @@
       "home": "Roma",
       "away": "Slovan Bratislava",
       "venue": "Stadio Olimpico",
-      "homeScore": 0,
+      "homeScore": 4,
       "awayScore": 0,
       "status": "live",
       "source": "FixtureDownload schedule baseline; UEFA official fixture cross-check",
-      "liveStatus": "12"
+      "liveStatus": "90"
     },
     {
       "round": 3,
@@ -4656,10 +4656,10 @@
       "away": "PSV Eindhoven",
       "venue": "Estádio do Dragão",
       "homeScore": 0,
-      "awayScore": 0,
+      "awayScore": 1,
       "status": "live",
       "source": "FixtureDownload schedule baseline; UEFA official fixture cross-check",
-      "liveStatus": "11"
+      "liveStatus": "90"
     },
     {
       "round": 3,
@@ -4667,11 +4667,11 @@
       "home": "Napoli",
       "away": "Bodø/Glimt",
       "venue": "Stadio Diego Armando Maradona",
-      "homeScore": 1,
-      "awayScore": 0,
+      "homeScore": 4,
+      "awayScore": 3,
       "status": "live",
       "source": "FixtureDownload schedule baseline; UEFA official fixture cross-check",
-      "liveStatus": "9"
+      "liveStatus": "90"
     },
     {
       "round": 3,
@@ -4679,11 +4679,11 @@
       "home": "Stuttgart",
       "away": "Atlético de Madrid",
       "venue": "Arena Stuttgart",
-      "homeScore": 0,
-      "awayScore": 0,
+      "homeScore": 1,
+      "awayScore": 1,
       "status": "live",
       "source": "FixtureDownload schedule baseline; UEFA official fixture cross-check",
-      "liveStatus": "12"
+      "liveStatus": "90"
     },
     {
       "round": 3,
@@ -5824,7 +5824,7 @@
     "milkCupMatches": "full competition scoreboard loaded (89 matches)",
     "faCupMatches": "full competition scoreboard loaded (63 matches)"
   },
-  "updated": "2026-10-20T19:13:53.483571Z",
+  "updated": "2026-10-20T21:25:37.676085Z",
   "milkCupMatches": [
     {
       "id": "401842433",

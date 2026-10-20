@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-20T19:13:53.483571Z",
+  "updated": "2026-10-20T21:25:37.676085Z",
   "fixtures": [
     {
       "id": "20260823-newcastle-united",
@@ -212,11 +212,11 @@
       "venue": "Anfield",
       "broadcastUS": "Paramount+",
       "status": "live",
-      "scoreFor": 0,
-      "scoreAgainst": 1,
+      "scoreFor": 4,
+      "scoreAgainst": 3,
       "broadcastUSSource": "Paramount Press Express — every UEFA match streams on Paramount+",
       "broadcastConfidence": "official rights baseline",
-      "liveStatus": "11",
+      "liveStatus": "90",
       "broadcastCheckedAt": "2026-10-20T19:13:38.186036Z",
       "broadcastUSSpanish": "TBA",
       "broadcastUSSpanishSource": "",
