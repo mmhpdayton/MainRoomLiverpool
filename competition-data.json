@@ -4687,7 +4687,7 @@
       "awayScore": 4,
       "status": "live",
       "source": "FixtureDownload schedule baseline; UEFA official fixture cross-check",
-      "liveStatus": "90+1"
+      "liveStatus": "90"
     },
     {
       "round": 3,
@@ -4696,7 +4696,7 @@
       "away": "Manchester United",
       "venue": "Giuseppe Sinigaglia",
       "homeScore": 4,
-      "awayScore": 0,
+      "awayScore": 1,
       "status": "live",
       "source": "FixtureDownload schedule baseline; UEFA official fixture cross-check",
       "liveStatus": "90"
@@ -5818,7 +5818,7 @@
     "milkCupMatches": "full competition scoreboard loaded (89 matches)",
     "faCupMatches": "full competition scoreboard loaded (102 matches)"
   },
-  "updated": "2026-10-21T18:36:12.964144Z",
+  "updated": "2026-10-21T18:57:42.634799Z",
   "milkCupMatches": [
     {
       "id": "401842433",
