@@ -4683,11 +4683,10 @@
       "home": "Lille",
       "away": "Galatasaray",
       "venue": "Stade Pierre Mauroy",
-      "homeScore": 2,
-      "awayScore": 4,
-      "status": "live",
-      "source": "FixtureDownload schedule baseline; UEFA official fixture cross-check",
-      "liveStatus": "90"
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "source": "FixtureDownload schedule baseline; UEFA official fixture cross-check"
     },
     {
       "round": 3,
@@ -4695,11 +4694,10 @@
       "home": "Como",
       "away": "Manchester United",
       "venue": "Giuseppe Sinigaglia",
-      "homeScore": 4,
-      "awayScore": 1,
-      "status": "live",
-      "source": "FixtureDownload schedule baseline; UEFA official fixture cross-check",
-      "liveStatus": "90"
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "source": "FixtureDownload schedule baseline; UEFA official fixture cross-check"
     },
     {
       "round": 3,
@@ -5818,7 +5816,7 @@
     "milkCupMatches": "full competition scoreboard loaded (89 matches)",
     "faCupMatches": "full competition scoreboard loaded (102 matches)"
   },
-  "updated": "2026-10-21T18:57:42.634799Z",
+  "updated": "2026-10-21T22:18:50.093921Z",
   "milkCupMatches": [
     {
       "id": "401842433",
