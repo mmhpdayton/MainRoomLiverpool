@@ -4584,9 +4584,9 @@
       "home": "Fenerbahçe",
       "away": "Slavia Praha",
       "venue": "Fenerbahçe Sükrü Saracoglu Spor Kompleksi",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
+      "homeScore": 2,
+      "awayScore": 2,
+      "status": "final",
       "source": "FixtureDownload schedule baseline; UEFA official fixture cross-check"
     },
     {
@@ -4595,9 +4595,9 @@
       "home": "Sabah",
       "away": "Borussia Dortmund",
       "venue": "Baku Olympic Stadium",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
+      "homeScore": 1,
+      "awayScore": 2,
+      "status": "final",
       "source": "FixtureDownload schedule baseline; UEFA official fixture cross-check"
     },
     {
@@ -4606,9 +4606,9 @@
       "home": "Paris Saint-Germain",
       "away": "Barcelona",
       "venue": "Parc des Princes",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
+      "homeScore": 4,
+      "awayScore": 2,
+      "status": "final",
       "source": "FixtureDownload schedule baseline; UEFA official fixture cross-check"
     },
     {
@@ -4617,9 +4617,9 @@
       "home": "Liverpool",
       "away": "Villarreal",
       "venue": "Anfield",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
+      "homeScore": 4,
+      "awayScore": 3,
+      "status": "final",
       "source": "FixtureDownload schedule baseline; UEFA official fixture cross-check"
     },
     {
@@ -4628,9 +4628,9 @@
       "home": "Manchester City",
       "away": "AEK Athens",
       "venue": "City of Manchester Stadium",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
+      "homeScore": 5,
+      "awayScore": 1,
+      "status": "final",
       "source": "FixtureDownload schedule baseline; UEFA official fixture cross-check"
     },
     {
@@ -4639,9 +4639,9 @@
       "home": "Roma",
       "away": "Slovan Bratislava",
       "venue": "Stadio Olimpico",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
+      "homeScore": 4,
+      "awayScore": 0,
+      "status": "final",
       "source": "FixtureDownload schedule baseline; UEFA official fixture cross-check"
     },
     {
@@ -4650,9 +4650,9 @@
       "home": "Porto",
       "away": "PSV Eindhoven",
       "venue": "Estádio do Dragão",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
+      "homeScore": 0,
+      "awayScore": 1,
+      "status": "final",
       "source": "FixtureDownload schedule baseline; UEFA official fixture cross-check"
     },
     {
@@ -4661,9 +4661,9 @@
       "home": "Napoli",
       "away": "Bodø/Glimt",
       "venue": "Stadio Diego Armando Maradona",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
+      "homeScore": 4,
+      "awayScore": 3,
+      "status": "final",
       "source": "FixtureDownload schedule baseline; UEFA official fixture cross-check"
     },
     {
@@ -4672,9 +4672,9 @@
       "home": "Stuttgart",
       "away": "Atlético de Madrid",
       "venue": "Arena Stuttgart",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "final",
       "source": "FixtureDownload schedule baseline; UEFA official fixture cross-check"
     },
     {
@@ -5814,9 +5814,9 @@
     "premierLeagueMatches": "full 380-match schedule/results baseline loaded",
     "championsLeagueMatches": "full 144-match league-phase schedule loaded",
     "milkCupMatches": "full competition scoreboard loaded (89 matches)",
-    "faCupMatches": "full competition scoreboard loaded (63 matches)"
+    "faCupMatches": "full competition scoreboard loaded (68 matches)"
   },
-  "updated": "2026-10-21T07:35:45.273344Z",
+  "updated": "2026-10-21T13:45:16.345444Z",
   "milkCupMatches": [
     {
       "id": "401842433",
@@ -7946,6 +7946,76 @@
       "status": "final",
       "liveStatus": "FT",
       "venue": "Wembley Stadium",
+      "source": "ESPN competition scoreboard"
+    },
+    {
+      "id": "401931097",
+      "round": 0,
+      "roundName": "",
+      "date": "2026-11-07T15:00Z",
+      "home": "Altrincham",
+      "away": "Notts County",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "scheduled",
+      "liveStatus": "Scheduled",
+      "venue": "J. Davidson Stadium",
+      "source": "ESPN competition scoreboard"
+    },
+    {
+      "id": "401931080",
+      "round": 0,
+      "roundName": "",
+      "date": "2026-11-07T15:00Z",
+      "home": "Cray Wanderers",
+      "away": "Stockport County",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "scheduled",
+      "liveStatus": "Scheduled",
+      "venue": "Flamingo Park",
+      "source": "ESPN competition scoreboard"
+    },
+    {
+      "id": "401931096",
+      "round": 0,
+      "roundName": "",
+      "date": "2026-11-07T15:00Z",
+      "home": "Harrogate Town",
+      "away": "AFC Fylde",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "scheduled",
+      "liveStatus": "Scheduled",
+      "venue": "EnviroVent Stadium",
+      "source": "ESPN competition scoreboard"
+    },
+    {
+      "id": "401931095",
+      "round": 0,
+      "roundName": "",
+      "date": "2026-11-07T15:00Z",
+      "home": "Mansfield Town",
+      "away": "Macclesfield FC",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "scheduled",
+      "liveStatus": "Scheduled",
+      "venue": "One Call Stadium",
+      "source": "ESPN competition scoreboard"
+    },
+    {
+      "id": "401931079",
+      "round": 0,
+      "roundName": "",
+      "date": "2026-11-07T15:00Z",
+      "home": "Stafford Rangers",
+      "away": "Grimsby Town",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "scheduled",
+      "liveStatus": "Scheduled",
+      "venue": "The Stan Robinson Stadium",
       "source": "ESPN competition scoreboard"
     }
   ]
