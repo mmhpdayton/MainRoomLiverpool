@@ -4683,9 +4683,9 @@
       "home": "Lille",
       "away": "Galatasaray",
       "venue": "Stade Pierre Mauroy",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
+      "homeScore": 2,
+      "awayScore": 4,
+      "status": "final",
       "source": "FixtureDownload schedule baseline; UEFA official fixture cross-check"
     },
     {
@@ -4694,9 +4694,9 @@
       "home": "Como",
       "away": "Manchester United",
       "venue": "Giuseppe Sinigaglia",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
+      "homeScore": 4,
+      "awayScore": 1,
+      "status": "final",
       "source": "FixtureDownload schedule baseline; UEFA official fixture cross-check"
     },
     {
@@ -4705,9 +4705,9 @@
       "home": "Bayern Munich",
       "away": "Arsenal",
       "venue": "Fußball Arena München",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
+      "homeScore": 2,
+      "awayScore": 2,
+      "status": "final",
       "source": "FixtureDownload schedule baseline; UEFA official fixture cross-check"
     },
     {
@@ -4716,9 +4716,9 @@
       "home": "Real Madrid",
       "away": "RB Leipzig",
       "venue": "Estadio Santiago Bernabéu",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
+      "homeScore": 4,
+      "awayScore": 1,
+      "status": "final",
       "source": "FixtureDownload schedule baseline; UEFA official fixture cross-check"
     },
     {
@@ -4727,9 +4727,9 @@
       "home": "Inter",
       "away": "Shakhtar Donetsk",
       "venue": "Stadio San Siro",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
+      "homeScore": 1,
+      "awayScore": 0,
+      "status": "final",
       "source": "FixtureDownload schedule baseline; UEFA official fixture cross-check"
     },
     {
@@ -4738,9 +4738,9 @@
       "home": "Sporting CP",
       "away": "LASK",
       "venue": "Estádio José Alvalade",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
+      "homeScore": 2,
+      "awayScore": 3,
+      "status": "final",
       "source": "FixtureDownload schedule baseline; UEFA official fixture cross-check"
     },
     {
@@ -4749,9 +4749,9 @@
       "home": "Aston Villa",
       "away": "Viking",
       "venue": "Villa Park",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
+      "homeScore": 3,
+      "awayScore": 1,
+      "status": "final",
       "source": "FixtureDownload schedule baseline; UEFA official fixture cross-check"
     },
     {
@@ -4760,9 +4760,9 @@
       "home": "Club Brugge",
       "away": "Lens",
       "venue": "Jan Breydelstadion",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
+      "homeScore": 3,
+      "awayScore": 0,
+      "status": "final",
       "source": "FixtureDownload schedule baseline; UEFA official fixture cross-check"
     },
     {
@@ -4771,9 +4771,9 @@
       "home": "Real Betis",
       "away": "Feyenoord",
       "venue": " La Cartuja de Sevilla",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
+      "homeScore": 1,
+      "awayScore": 0,
+      "status": "final",
       "source": "FixtureDownload schedule baseline; UEFA official fixture cross-check"
     },
     {
@@ -5816,7 +5816,7 @@
     "milkCupMatches": "full competition scoreboard loaded (89 matches)",
     "faCupMatches": "full competition scoreboard loaded (103 matches)"
   },
-  "updated": "2026-10-22T07:31:50.891922Z",
+  "updated": "2026-10-22T13:45:43.035336Z",
   "milkCupMatches": [
     {
       "id": "401842433",
