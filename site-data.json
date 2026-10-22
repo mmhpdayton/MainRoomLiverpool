@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-22T01:29:09.701447Z",
+  "updated": "2026-10-22T07:31:50.891922Z",
   "fixtures": [
     {
       "id": "20260823-newcastle-united",
@@ -13,13 +13,13 @@
       "scoreFor": 2,
       "scoreAgainst": 2,
       "broadcastUSSource": "https://www.nbcsports.com/pressbox/press-releases/the-2026-27-premier-league-season-kicks-off-in-one-month-across-platforms-of-nbcuniversal-with-nbc-sports-studio-team-on-site-in-u-k",
-      "broadcastCheckedAt": "2026-10-22T01:28:54.893955Z",
+      "broadcastCheckedAt": "2026-10-22T07:31:43.104315Z",
       "broadcastConfidence": "official match-specific",
       "liveStatus": "",
       "broadcastUSSpanish": "TBA",
       "broadcastUSSpanishSource": "",
       "broadcastUSSpanishConfidence": "",
-      "broadcastUSSpanishCheckedAt": "2026-10-22T01:28:57.916032Z"
+      "broadcastUSSpanishCheckedAt": "2026-10-22T07:31:44.483680Z"
     },
     {
       "id": "20260829-nottingham-forest",
@@ -33,13 +33,13 @@
       "scoreFor": 2,
       "scoreAgainst": 2,
       "broadcastUSSource": "",
-      "broadcastCheckedAt": "2026-10-22T01:28:54.893955Z",
+      "broadcastCheckedAt": "2026-10-22T07:31:43.104315Z",
       "broadcastConfidence": "",
       "liveStatus": "",
       "broadcastUSSpanish": "TBA",
       "broadcastUSSpanishSource": "",
       "broadcastUSSpanishConfidence": "",
-      "broadcastUSSpanishCheckedAt": "2026-10-22T01:28:57.916032Z"
+      "broadcastUSSpanishCheckedAt": "2026-10-22T07:31:44.483680Z"
     },
     {
       "id": "20260904-ipswich-town",
@@ -53,13 +53,13 @@
       "scoreFor": 2,
       "scoreAgainst": 0,
       "broadcastUSSource": "",
-      "broadcastCheckedAt": "2026-10-22T01:28:54.893955Z",
+      "broadcastCheckedAt": "2026-10-22T07:31:43.104315Z",
       "broadcastConfidence": "",
       "liveStatus": "",
       "broadcastUSSpanish": "TBA",
       "broadcastUSSpanishSource": "",
       "broadcastUSSpanishConfidence": "",
-      "broadcastUSSpanishCheckedAt": "2026-10-22T01:28:57.916032Z"
+      "broadcastUSSpanishCheckedAt": "2026-10-22T07:31:44.483680Z"
     },
     {
       "id": "20260909-atletico-de-madrid",
@@ -75,11 +75,11 @@
       "broadcastUSSource": "Paramount Press Express — every UEFA match streams on Paramount+",
       "broadcastConfidence": "official rights baseline",
       "liveStatus": "",
-      "broadcastCheckedAt": "2026-10-22T01:28:54.893955Z",
+      "broadcastCheckedAt": "2026-10-22T07:31:43.104315Z",
       "broadcastUSSpanish": "UniMás • TUDN • ViX",
       "broadcastUSSpanishSource": "https://www.tudn.com/futbol/partidos-hoy-miercoles-9-septiembre-2026-mexicanos-en-el-exterior-y-champions-league",
       "broadcastUSSpanishConfidence": "official match-specific",
-      "broadcastUSSpanishCheckedAt": "2026-10-22T01:28:57.916032Z"
+      "broadcastUSSpanishCheckedAt": "2026-10-22T07:31:44.483680Z"
     },
     {
       "id": "20260912-fulham",
@@ -93,13 +93,13 @@
       "scoreFor": 0,
       "scoreAgainst": 0,
       "broadcastUSSource": "",
-      "broadcastCheckedAt": "2026-10-22T01:28:54.893955Z",
+      "broadcastCheckedAt": "2026-10-22T07:31:43.104315Z",
       "broadcastConfidence": "",
       "liveStatus": "",
       "broadcastUSSpanish": "TBA",
       "broadcastUSSpanishSource": "",
       "broadcastUSSpanishConfidence": "",
-      "broadcastUSSpanishCheckedAt": "2026-10-22T01:28:57.916032Z"
+      "broadcastUSSpanishCheckedAt": "2026-10-22T07:31:44.483680Z"
     },
     {
       "id": "20260915-tottenham-hotspur-carabao",
@@ -115,11 +115,11 @@
       "scoreFor": null,
       "scoreAgainst": null,
       "fixtureSource": "Liverpool FC official — fixture moved to 15 September 2026",
-      "broadcastCheckedAt": "2026-10-22T01:28:54.893955Z",
+      "broadcastCheckedAt": "2026-10-22T07:31:43.104315Z",
       "broadcastUSSpanish": "TBA",
       "broadcastUSSpanishSource": "",
       "broadcastUSSpanishConfidence": "",
-      "broadcastUSSpanishCheckedAt": "2026-10-22T01:28:57.916032Z"
+      "broadcastUSSpanishCheckedAt": "2026-10-22T07:31:44.483680Z"
     },
     {
       "id": "20260920-afc-bournemouth",
@@ -133,13 +133,13 @@
       "scoreFor": 1,
       "scoreAgainst": 0,
       "broadcastUSSource": "",
-      "broadcastCheckedAt": "2026-10-22T01:28:54.893955Z",
+      "broadcastCheckedAt": "2026-10-22T07:31:43.104315Z",
       "broadcastConfidence": "",
       "liveStatus": "",
       "broadcastUSSpanish": "TBA",
       "broadcastUSSpanishSource": "",
       "broadcastUSSpanishConfidence": "",
-      "broadcastUSSpanishCheckedAt": "2026-10-22T01:28:57.916032Z"
+      "broadcastUSSpanishCheckedAt": "2026-10-22T07:31:44.483680Z"
     },
     {
       "id": "20261010-manchester-city",
@@ -153,7 +153,7 @@
       "scoreFor": 0,
       "scoreAgainst": 3,
       "broadcastUSSource": "https://www.nbcsports.com/pressbox/press-releases/premier-league-mornings-live-fan-festival-visits-denver-this-weekend-headlined-by-first-place-manchester-city-visiting-liverpool-this-sunday-oct-11-on-nbc-peacock-and-telemundo",
-      "broadcastCheckedAt": "2026-10-22T01:28:54.893955Z",
+      "broadcastCheckedAt": "2026-10-22T07:31:43.104315Z",
       "broadcastConfidence": "official match-specific",
       "fixtureChangeSource": "Premier League fixture amendment — 2026-08-17",
       "broadcastUK": "Sky Sports",
@@ -161,7 +161,7 @@
       "broadcastUSSpanish": "Telemundo",
       "broadcastUSSpanishSource": "https://www.nbcsports.com/pressbox/press-releases/premier-league-mornings-live-fan-festival-visits-denver-this-weekend-headlined-by-first-place-manchester-city-visiting-liverpool-this-sunday-oct-11-on-nbc-peacock-and-telemundo",
       "broadcastUSSpanishConfidence": "official match-specific",
-      "broadcastUSSpanishCheckedAt": "2026-10-22T01:28:57.916032Z"
+      "broadcastUSSpanishCheckedAt": "2026-10-22T07:31:44.483680Z"
     },
     {
       "id": "20261014-lask",
@@ -177,11 +177,11 @@
       "broadcastUSSource": "Paramount Press Express — every UEFA match streams on Paramount+",
       "broadcastConfidence": "official rights baseline",
       "liveStatus": "",
-      "broadcastCheckedAt": "2026-10-22T01:28:54.893955Z",
+      "broadcastCheckedAt": "2026-10-22T07:31:43.104315Z",
       "broadcastUSSpanish": "TBA",
       "broadcastUSSpanishSource": "",
       "broadcastUSSpanishConfidence": "",
-      "broadcastUSSpanishCheckedAt": "2026-10-22T01:28:57.916032Z"
+      "broadcastUSSpanishCheckedAt": "2026-10-22T07:31:44.483680Z"
     },
     {
       "id": "20261017-brentford",
@@ -195,13 +195,13 @@
       "scoreFor": 2,
       "scoreAgainst": 1,
       "broadcastUSSource": "https://www.nbcsports.com/pressbox/press-releases/second-place-arsenal-visit-nottingham-forest-this-sunday-oct-18-at-11-30-a-m-et-on-peacock-and-nbcsn-headlining-nbc-sports-premier-league-coverage-this-weekend",
-      "broadcastCheckedAt": "2026-10-22T01:28:54.893955Z",
+      "broadcastCheckedAt": "2026-10-22T07:31:43.104315Z",
       "broadcastConfidence": "official match-specific",
       "liveStatus": "",
       "broadcastUSSpanish": "TBA",
       "broadcastUSSpanishSource": "",
       "broadcastUSSpanishConfidence": "",
-      "broadcastUSSpanishCheckedAt": "2026-10-22T01:28:57.916032Z"
+      "broadcastUSSpanishCheckedAt": "2026-10-22T07:31:44.483680Z"
     },
     {
       "id": "20261020-villarreal",
@@ -217,11 +217,11 @@
       "broadcastUSSource": "Paramount Press Express — every UEFA match streams on Paramount+",
       "broadcastConfidence": "official rights baseline",
       "liveStatus": "",
-      "broadcastCheckedAt": "2026-10-22T01:28:54.893955Z",
+      "broadcastCheckedAt": "2026-10-22T07:31:43.104315Z",
       "broadcastUSSpanish": "TBA",
       "broadcastUSSpanishSource": "",
       "broadcastUSSpanishConfidence": "",
-      "broadcastUSSpanishCheckedAt": "2026-10-22T01:28:57.916032Z"
+      "broadcastUSSpanishCheckedAt": "2026-10-22T07:31:44.483680Z"
     },
     {
       "id": "20261024-brighton",
@@ -235,13 +235,13 @@
       "scoreFor": null,
       "scoreAgainst": null,
       "broadcastUSSource": "",
-      "broadcastCheckedAt": "2026-10-22T01:28:54.893955Z",
+      "broadcastCheckedAt": "2026-10-22T07:31:43.104315Z",
       "broadcastConfidence": "",
       "liveStatus": "",
       "broadcastUSSpanish": "TBA",
       "broadcastUSSpanishSource": "",
       "broadcastUSSpanishConfidence": "",
-      "broadcastUSSpanishCheckedAt": "2026-10-22T01:28:57.916032Z"
+      "broadcastUSSpanishCheckedAt": "2026-10-22T07:31:44.483680Z"
     },
     {
       "id": "20261031-arsenal",
@@ -255,7 +255,7 @@
       "scoreFor": null,
       "scoreAgainst": null,
       "broadcastUSSource": "",
-      "broadcastCheckedAt": "2026-10-22T01:28:54.893955Z",
+      "broadcastCheckedAt": "2026-10-22T07:31:43.104315Z",
       "broadcastConfidence": "",
       "fixtureChangeSource": "Premier League fixture amendment — 2026-08-17",
       "broadcastUK": "Sky Sports",
@@ -263,7 +263,7 @@
       "broadcastUSSpanish": "TBA",
       "broadcastUSSpanishSource": "",
       "broadcastUSSpanishConfidence": "",
-      "broadcastUSSpanishCheckedAt": "2026-10-22T01:28:57.916032Z"
+      "broadcastUSSpanishCheckedAt": "2026-10-22T07:31:44.483680Z"
     },
     {
       "id": "20261104-fenerbahçe",
@@ -279,11 +279,11 @@
       "broadcastUSSource": "Paramount Press Express — every UEFA match streams on Paramount+",
       "broadcastConfidence": "official rights baseline",
       "liveStatus": "",
-      "broadcastCheckedAt": "2026-10-22T01:28:54.893955Z",
+      "broadcastCheckedAt": "2026-10-22T07:31:43.104315Z",
       "broadcastUSSpanish": "TBA",
       "broadcastUSSpanishSource": "",
       "broadcastUSSpanishConfidence": "",
-      "broadcastUSSpanishCheckedAt": "2026-10-22T01:28:57.916032Z"
+      "broadcastUSSpanishCheckedAt": "2026-10-22T07:31:44.483680Z"
     },
     {
       "id": "20261107-crystal-palace",
@@ -297,13 +297,13 @@
       "scoreFor": null,
       "scoreAgainst": null,
       "broadcastUSSource": "",
-      "broadcastCheckedAt": "2026-10-22T01:28:54.893955Z",
+      "broadcastCheckedAt": "2026-10-22T07:31:43.104315Z",
       "broadcastConfidence": "",
       "liveStatus": "",
       "broadcastUSSpanish": "TBA",
       "broadcastUSSpanishSource": "",
       "broadcastUSSpanishConfidence": "",
-      "broadcastUSSpanishCheckedAt": "2026-10-22T01:28:57.916032Z"
+      "broadcastUSSpanishCheckedAt": "2026-10-22T07:31:44.483680Z"
     },
     {
       "id": "20261121-manchester-united",
@@ -317,13 +317,13 @@
       "scoreFor": null,
       "scoreAgainst": null,
       "broadcastUSSource": "",
-      "broadcastCheckedAt": "2026-10-22T01:28:54.893955Z",
+      "broadcastCheckedAt": "2026-10-22T07:31:43.104315Z",
       "broadcastConfidence": "",
       "liveStatus": "",
       "broadcastUSSpanish": "TBA",
       "broadcastUSSpanishSource": "",
       "broadcastUSSpanishConfidence": "",
-      "broadcastUSSpanishCheckedAt": "2026-10-22T01:28:57.916032Z"
+      "broadcastUSSpanishCheckedAt": "2026-10-22T07:31:44.483680Z"
     },
     {
       "id": "20261125-club-brugge",
@@ -339,11 +339,11 @@
       "broadcastUSSource": "Paramount Press Express — every UEFA match streams on Paramount+",
       "broadcastConfidence": "official rights baseline",
       "liveStatus": "",
-      "broadcastCheckedAt": "2026-10-22T01:28:54.893955Z",
+      "broadcastCheckedAt": "2026-10-22T07:31:43.104315Z",
       "broadcastUSSpanish": "TBA",
       "broadcastUSSpanishSource": "",
       "broadcastUSSpanishConfidence": "",
-      "broadcastUSSpanishCheckedAt": "2026-10-22T01:28:57.916032Z"
+      "broadcastUSSpanishCheckedAt": "2026-10-22T07:31:44.483680Z"
     },
     {
       "id": "20261128-everton",
@@ -357,13 +357,13 @@
       "scoreFor": null,
       "scoreAgainst": null,
       "broadcastUSSource": "",
-      "broadcastCheckedAt": "2026-10-22T01:28:54.893955Z",
+      "broadcastCheckedAt": "2026-10-22T07:31:43.104315Z",
       "broadcastConfidence": "",
       "liveStatus": "",
       "broadcastUSSpanish": "TBA",
       "broadcastUSSpanishSource": "",
       "broadcastUSSpanishConfidence": "",
-      "broadcastUSSpanishCheckedAt": "2026-10-22T01:28:57.916032Z"
+      "broadcastUSSpanishCheckedAt": "2026-10-22T07:31:44.483680Z"
     },
     {
       "id": "20261202-sunderland",
@@ -377,13 +377,13 @@
       "scoreFor": null,
       "scoreAgainst": null,
       "broadcastUSSource": "",
-      "broadcastCheckedAt": "2026-10-22T01:28:54.893955Z",
+      "broadcastCheckedAt": "2026-10-22T07:31:43.104315Z",
       "broadcastConfidence": "",
       "liveStatus": "",
       "broadcastUSSpanish": "TBA",
       "broadcastUSSpanishSource": "",
       "broadcastUSSpanishConfidence": "",
-      "broadcastUSSpanishCheckedAt": "2026-10-22T01:28:57.916032Z"
+      "broadcastUSSpanishCheckedAt": "2026-10-22T07:31:44.483680Z"
     },
     {
       "id": "20261205-chelsea",
@@ -397,13 +397,13 @@
       "scoreFor": null,
       "scoreAgainst": null,
       "broadcastUSSource": "",
-      "broadcastCheckedAt": "2026-10-22T01:28:54.893955Z",
+      "broadcastCheckedAt": "2026-10-22T07:31:43.104315Z",
       "broadcastConfidence": "",
       "liveStatus": "",
       "broadcastUSSpanish": "TBA",
       "broadcastUSSpanishSource": "",
       "broadcastUSSpanishConfidence": "",
-      "broadcastUSSpanishCheckedAt": "2026-10-22T01:28:57.916032Z"
+      "broadcastUSSpanishCheckedAt": "2026-10-22T07:31:44.483680Z"
     },
     {
       "id": "20261209-porto",
@@ -419,11 +419,11 @@
       "broadcastUSSource": "Paramount Press Express — every UEFA match streams on Paramount+",
       "broadcastConfidence": "official rights baseline",
       "liveStatus": "",
-      "broadcastCheckedAt": "2026-10-22T01:28:54.893955Z",
+      "broadcastCheckedAt": "2026-10-22T07:31:43.104315Z",
       "broadcastUSSpanish": "TBA",
       "broadcastUSSpanishSource": "",
       "broadcastUSSpanishConfidence": "",
-      "broadcastUSSpanishCheckedAt": "2026-10-22T01:28:57.916032Z"
+      "broadcastUSSpanishCheckedAt": "2026-10-22T07:31:44.483680Z"
     },
     {
       "id": "20261212-leeds-united",
@@ -437,13 +437,13 @@
       "scoreFor": null,
       "scoreAgainst": null,
       "broadcastUSSource": "",
-      "broadcastCheckedAt": "2026-10-22T01:28:54.893955Z",
+      "broadcastCheckedAt": "2026-10-22T07:31:43.104315Z",
       "broadcastConfidence": "",
       "liveStatus": "",
       "broadcastUSSpanish": "TBA",
       "broadcastUSSpanishSource": "",
       "broadcastUSSpanishConfidence": "",
-      "broadcastUSSpanishCheckedAt": "2026-10-22T01:28:57.916032Z"
+      "broadcastUSSpanishCheckedAt": "2026-10-22T07:31:44.483680Z"
     },
     {
       "id": "20261219-tottenham",
@@ -457,13 +457,13 @@
       "scoreFor": null,
       "scoreAgainst": null,
       "broadcastUSSource": "",
-      "broadcastCheckedAt": "2026-10-22T01:28:54.893955Z",
+      "broadcastCheckedAt": "2026-10-22T07:31:43.104315Z",
       "broadcastConfidence": "",
       "liveStatus": "",
       "broadcastUSSpanish": "TBA",
       "broadcastUSSpanishSource": "",
       "broadcastUSSpanishConfidence": "",
-      "broadcastUSSpanishCheckedAt": "2026-10-22T01:28:57.916032Z"
+      "broadcastUSSpanishCheckedAt": "2026-10-22T07:31:44.483680Z"
     },
     {
       "id": "20261226-hull-city",
@@ -477,13 +477,13 @@
       "scoreFor": null,
       "scoreAgainst": null,
       "broadcastUSSource": "",
-      "broadcastCheckedAt": "2026-10-22T01:28:54.893955Z",
+      "broadcastCheckedAt": "2026-10-22T07:31:43.104315Z",
       "broadcastConfidence": "",
       "liveStatus": "",
       "broadcastUSSpanish": "TBA",
       "broadcastUSSpanishSource": "",
       "broadcastUSSpanishConfidence": "",
-      "broadcastUSSpanishCheckedAt": "2026-10-22T01:28:57.916032Z"
+      "broadcastUSSpanishCheckedAt": "2026-10-22T07:31:44.483680Z"
     },
     {
       "id": "20261230-aston-villa",
@@ -497,13 +497,13 @@
       "scoreFor": null,
       "scoreAgainst": null,
       "broadcastUSSource": "",
-      "broadcastCheckedAt": "2026-10-22T01:28:54.893955Z",
+      "broadcastCheckedAt": "2026-10-22T07:31:43.104315Z",
       "broadcastConfidence": "",
       "liveStatus": "",
       "broadcastUSSpanish": "TBA",
       "broadcastUSSpanishSource": "",
       "broadcastUSSpanishConfidence": "",
-      "broadcastUSSpanishCheckedAt": "2026-10-22T01:28:57.916032Z"
+      "broadcastUSSpanishCheckedAt": "2026-10-22T07:31:44.483680Z"
     },
     {
       "id": "20270102-coventry-city",
@@ -517,13 +517,13 @@
       "scoreFor": null,
       "scoreAgainst": null,
       "broadcastUSSource": "",
-      "broadcastCheckedAt": "2026-10-22T01:28:54.893955Z",
+      "broadcastCheckedAt": "2026-10-22T07:31:43.104315Z",
       "broadcastConfidence": "",
       "liveStatus": "",
       "broadcastUSSpanish": "TBA",
       "broadcastUSSpanishSource": "",
       "broadcastUSSpanishConfidence": "",
-      "broadcastUSSpanishCheckedAt": "2026-10-22T01:28:57.916032Z"
+      "broadcastUSSpanishCheckedAt": "2026-10-22T07:31:44.483680Z"
     },
     {
       "id": "20270106-sunderland",
@@ -537,13 +537,13 @@
       "scoreFor": null,
       "scoreAgainst": null,
       "broadcastUSSource": "",
-      "broadcastCheckedAt": "2026-10-22T01:28:54.893955Z",
+      "broadcastCheckedAt": "2026-10-22T07:31:43.104315Z",
       "broadcastConfidence": "",
       "liveStatus": "",
       "broadcastUSSpanish": "TBA",
       "broadcastUSSpanishSource": "",
       "broadcastUSSpanishConfidence": "",
-      "broadcastUSSpanishCheckedAt": "2026-10-22T01:28:57.916032Z"
+      "broadcastUSSpanishCheckedAt": "2026-10-22T07:31:44.483680Z"
     },
     {
       "id": "20270116-crystal-palace",
@@ -557,13 +557,13 @@
       "scoreFor": null,
       "scoreAgainst": null,
       "broadcastUSSource": "",
-      "broadcastCheckedAt": "2026-10-22T01:28:54.893955Z",
+      "broadcastCheckedAt": "2026-10-22T07:31:43.104315Z",
       "broadcastConfidence": "",
       "liveStatus": "",
       "broadcastUSSpanish": "TBA",
       "broadcastUSSpanishSource": "",
       "broadcastUSSpanishConfidence": "",
-      "broadcastUSSpanishCheckedAt": "2026-10-22T01:28:57.916032Z"
+      "broadcastUSSpanishCheckedAt": "2026-10-22T07:31:44.483680Z"
     },
     {
       "id": "20270119-inter",
@@ -579,11 +579,11 @@
       "broadcastUSSource": "Paramount Press Express — every UEFA match streams on Paramount+",
       "broadcastConfidence": "official rights baseline",
       "liveStatus": "",
-      "broadcastCheckedAt": "2026-10-22T01:28:54.893955Z",
+      "broadcastCheckedAt": "2026-10-22T07:31:43.104315Z",
       "broadcastUSSpanish": "TBA",
       "broadcastUSSpanishSource": "",
       "broadcastUSSpanishConfidence": "",
-      "broadcastUSSpanishCheckedAt": "2026-10-22T01:28:57.916032Z"
+      "broadcastUSSpanishCheckedAt": "2026-10-22T07:31:44.483680Z"
     },
     {
       "id": "20270123-manchester-united",
@@ -597,13 +597,13 @@
       "scoreFor": null,
       "scoreAgainst": null,
       "broadcastUSSource": "",
-      "broadcastCheckedAt": "2026-10-22T01:28:54.893955Z",
+      "broadcastCheckedAt": "2026-10-22T07:31:43.104315Z",
       "broadcastConfidence": "",
       "liveStatus": "",
       "broadcastUSSpanish": "TBA",
       "broadcastUSSpanishSource": "",
       "broadcastUSSpanishConfidence": "",
-      "broadcastUSSpanishCheckedAt": "2026-10-22T01:28:57.916032Z"
+      "broadcastUSSpanishCheckedAt": "2026-10-22T07:31:44.483680Z"
     },
     {
       "id": "20270127-lens",
@@ -619,11 +619,11 @@
       "broadcastUSSource": "Paramount Press Express — every UEFA match streams on Paramount+",
       "broadcastConfidence": "official rights baseline",
       "liveStatus": "",
-      "broadcastCheckedAt": "2026-10-22T01:28:54.893955Z",
+      "broadcastCheckedAt": "2026-10-22T07:31:43.104315Z",
       "broadcastUSSpanish": "TBA",
       "broadcastUSSpanishSource": "",
       "broadcastUSSpanishConfidence": "",
-      "broadcastUSSpanishCheckedAt": "2026-10-22T01:28:57.916032Z"
+      "broadcastUSSpanishCheckedAt": "2026-10-22T07:31:44.483680Z"
     },
     {
       "id": "20270130-everton",
@@ -637,13 +637,13 @@
       "scoreFor": null,
       "scoreAgainst": null,
       "broadcastUSSource": "",
-      "broadcastCheckedAt": "2026-10-22T01:28:54.893955Z",
+      "broadcastCheckedAt": "2026-10-22T07:31:43.104315Z",
       "broadcastConfidence": "",
       "liveStatus": "",
       "broadcastUSSpanish": "TBA",
       "broadcastUSSpanishSource": "",
       "broadcastUSSpanishConfidence": "",
-      "broadcastUSSpanishCheckedAt": "2026-10-22T01:28:57.916032Z"
+      "broadcastUSSpanishCheckedAt": "2026-10-22T07:31:44.483680Z"
     },
     {
       "id": "20270206-arsenal",
@@ -657,13 +657,13 @@
       "scoreFor": null,
       "scoreAgainst": null,
       "broadcastUSSource": "",
-      "broadcastCheckedAt": "2026-10-22T01:28:54.893955Z",
+      "broadcastCheckedAt": "2026-10-22T07:31:43.104315Z",
       "broadcastConfidence": "",
       "liveStatus": "",
       "broadcastUSSpanish": "TBA",
       "broadcastUSSpanishSource": "",
       "broadcastUSSpanishConfidence": "",
-      "broadcastUSSpanishCheckedAt": "2026-10-22T01:28:57.916032Z"
+      "broadcastUSSpanishCheckedAt": "2026-10-22T07:31:44.483680Z"
     },
     {
       "id": "20270210-coventry-city",
@@ -677,13 +677,13 @@
       "scoreFor": null,
       "scoreAgainst": null,
       "broadcastUSSource": "",
-      "broadcastCheckedAt": "2026-10-22T01:28:54.893955Z",
+      "broadcastCheckedAt": "2026-10-22T07:31:43.104315Z",
       "broadcastConfidence": "",
       "liveStatus": "",
       "broadcastUSSpanish": "TBA",
       "broadcastUSSpanishSource": "",
       "broadcastUSSpanishConfidence": "",
-      "broadcastUSSpanishCheckedAt": "2026-10-22T01:28:57.916032Z"
+      "broadcastUSSpanishCheckedAt": "2026-10-22T07:31:44.483680Z"
     },
     {
       "id": "20270220-hull-city",
@@ -697,13 +697,13 @@
       "scoreFor": null,
       "scoreAgainst": null,
       "broadcastUSSource": "",
-      "broadcastCheckedAt": "2026-10-22T01:28:54.893955Z",
+      "broadcastCheckedAt": "2026-10-22T07:31:43.104315Z",
       "broadcastConfidence": "",
       "liveStatus": "",
       "broadcastUSSpanish": "TBA",
       "broadcastUSSpanishSource": "",
       "broadcastUSSpanishConfidence": "",
-      "broadcastUSSpanishCheckedAt": "2026-10-22T01:28:57.916032Z"
+      "broadcastUSSpanishCheckedAt": "2026-10-22T07:31:44.483680Z"
     },
     {
       "id": "20270227-tottenham",
@@ -717,13 +717,13 @@
       "scoreFor": null,
       "scoreAgainst": null,
       "broadcastUSSource": "",
-      "broadcastCheckedAt": "2026-10-22T01:28:54.893955Z",
+      "broadcastCheckedAt": "2026-10-22T07:31:43.104315Z",
       "broadcastConfidence": "",
       "liveStatus": "",
       "broadcastUSSpanish": "TBA",
       "broadcastUSSpanishSource": "",
       "broadcastUSSpanishConfidence": "",
-      "broadcastUSSpanishCheckedAt": "2026-10-22T01:28:57.916032Z"
+      "broadcastUSSpanishCheckedAt": "2026-10-22T07:31:44.483680Z"
     },
     {
       "id": "20270303-aston-villa",
@@ -737,13 +737,13 @@
       "scoreFor": null,
       "scoreAgainst": null,
       "broadcastUSSource": "",
-      "broadcastCheckedAt": "2026-10-22T01:28:54.893955Z",
+      "broadcastCheckedAt": "2026-10-22T07:31:43.104315Z",
       "broadcastConfidence": "",
       "liveStatus": "",
       "broadcastUSSpanish": "TBA",
       "broadcastUSSpanishSource": "",
       "broadcastUSSpanishConfidence": "",
-      "broadcastUSSpanishCheckedAt": "2026-10-22T01:28:57.916032Z"
+      "broadcastUSSpanishCheckedAt": "2026-10-22T07:31:44.483680Z"
     },
     {
       "id": "20270313-ipswich-town",
@@ -757,13 +757,13 @@
       "scoreFor": null,
       "scoreAgainst": null,
       "broadcastUSSource": "",
-      "broadcastCheckedAt": "2026-10-22T01:28:54.893955Z",
+      "broadcastCheckedAt": "2026-10-22T07:31:43.104315Z",
       "broadcastConfidence": "",
       "liveStatus": "",
       "broadcastUSSpanish": "TBA",
       "broadcastUSSpanishSource": "",
       "broadcastUSSpanishConfidence": "",
-      "broadcastUSSpanishCheckedAt": "2026-10-22T01:28:57.916032Z"
+      "broadcastUSSpanishCheckedAt": "2026-10-22T07:31:44.483680Z"
     },
     {
       "id": "20270320-fulham",
@@ -777,13 +777,13 @@
       "scoreFor": null,
       "scoreAgainst": null,
       "broadcastUSSource": "",
-      "broadcastCheckedAt": "2026-10-22T01:28:54.893955Z",
+      "broadcastCheckedAt": "2026-10-22T07:31:43.104315Z",
       "broadcastConfidence": "",
       "liveStatus": "",
       "broadcastUSSpanish": "TBA",
       "broadcastUSSpanishSource": "",
       "broadcastUSSpanishConfidence": "",
-      "broadcastUSSpanishCheckedAt": "2026-10-22T01:28:57.916032Z"
+      "broadcastUSSpanishCheckedAt": "2026-10-22T07:31:44.483680Z"
     },
     {
       "id": "20270410-newcastle-united",
@@ -797,13 +797,13 @@
       "scoreFor": null,
       "scoreAgainst": null,
       "broadcastUSSource": "",
-      "broadcastCheckedAt": "2026-10-22T01:28:54.893955Z",
+      "broadcastCheckedAt": "2026-10-22T07:31:43.104315Z",
       "broadcastConfidence": "",
       "liveStatus": "",
       "broadcastUSSpanish": "TBA",
       "broadcastUSSpanishSource": "",
       "broadcastUSSpanishConfidence": "",
-      "broadcastUSSpanishCheckedAt": "2026-10-22T01:28:57.916032Z"
+      "broadcastUSSpanishCheckedAt": "2026-10-22T07:31:44.483680Z"
     },
     {
       "id": "20270417-nottingham-forest",
@@ -817,13 +817,13 @@
       "scoreFor": null,
       "scoreAgainst": null,
       "broadcastUSSource": "",
-      "broadcastCheckedAt": "2026-10-22T01:28:54.893955Z",
+      "broadcastCheckedAt": "2026-10-22T07:31:43.104315Z",
       "broadcastConfidence": "",
       "liveStatus": "",
       "broadcastUSSpanish": "TBA",
       "broadcastUSSpanishSource": "",
       "broadcastUSSpanishConfidence": "",
-      "broadcastUSSpanishCheckedAt": "2026-10-22T01:28:57.916032Z"
+      "broadcastUSSpanishCheckedAt": "2026-10-22T07:31:44.483680Z"
     },
     {
       "id": "20270424-leeds-united",
@@ -837,13 +837,13 @@
       "scoreFor": null,
       "scoreAgainst": null,
       "broadcastUSSource": "",
-      "broadcastCheckedAt": "2026-10-22T01:28:54.893955Z",
+      "broadcastCheckedAt": "2026-10-22T07:31:43.104315Z",
       "broadcastConfidence": "",
       "liveStatus": "",
       "broadcastUSSpanish": "TBA",
       "broadcastUSSpanishSource": "",
       "broadcastUSSpanishConfidence": "",
-      "broadcastUSSpanishCheckedAt": "2026-10-22T01:28:57.916032Z"
+      "broadcastUSSpanishCheckedAt": "2026-10-22T07:31:44.483680Z"
     },
     {
       "id": "20270501-chelsea",
@@ -857,13 +857,13 @@
       "scoreFor": null,
       "scoreAgainst": null,
       "broadcastUSSource": "",
-      "broadcastCheckedAt": "2026-10-22T01:28:54.893955Z",
+      "broadcastCheckedAt": "2026-10-22T07:31:43.104315Z",
       "broadcastConfidence": "",
       "liveStatus": "",
       "broadcastUSSpanish": "TBA",
       "broadcastUSSpanishSource": "",
       "broadcastUSSpanishConfidence": "",
-      "broadcastUSSpanishCheckedAt": "2026-10-22T01:28:57.916032Z"
+      "broadcastUSSpanishCheckedAt": "2026-10-22T07:31:44.483680Z"
     },
     {
       "id": "20270508-manchester-city",
@@ -877,13 +877,13 @@
       "scoreFor": null,
       "scoreAgainst": null,
       "broadcastUSSource": "",
-      "broadcastCheckedAt": "2026-10-22T01:28:54.893955Z",
+      "broadcastCheckedAt": "2026-10-22T07:31:43.104315Z",
       "broadcastConfidence": "",
       "liveStatus": "",
       "broadcastUSSpanish": "TBA",
       "broadcastUSSpanishSource": "",
       "broadcastUSSpanishConfidence": "",
-      "broadcastUSSpanishCheckedAt": "2026-10-22T01:28:57.916032Z"
+      "broadcastUSSpanishCheckedAt": "2026-10-22T07:31:44.483680Z"
     },
     {
       "id": "20270515-brentford",
@@ -897,13 +897,13 @@
       "scoreFor": null,
       "scoreAgainst": null,
       "broadcastUSSource": "",
-      "broadcastCheckedAt": "2026-10-22T01:28:54.893955Z",
+      "broadcastCheckedAt": "2026-10-22T07:31:43.104315Z",
       "broadcastConfidence": "",
       "liveStatus": "",
       "broadcastUSSpanish": "TBA",
       "broadcastUSSpanishSource": "",
       "broadcastUSSpanishConfidence": "",
-      "broadcastUSSpanishCheckedAt": "2026-10-22T01:28:57.916032Z"
+      "broadcastUSSpanishCheckedAt": "2026-10-22T07:31:44.483680Z"
     },
     {
       "id": "20270523-brighton",
@@ -917,13 +917,13 @@
       "scoreFor": null,
       "scoreAgainst": null,
       "broadcastUSSource": "",
-      "broadcastCheckedAt": "2026-10-22T01:28:54.893955Z",
+      "broadcastCheckedAt": "2026-10-22T07:31:43.104315Z",
       "broadcastConfidence": "",
       "liveStatus": "",
       "broadcastUSSpanish": "TBA",
       "broadcastUSSpanishSource": "",
       "broadcastUSSpanishConfidence": "",
-      "broadcastUSSpanishCheckedAt": "2026-10-22T01:28:57.916032Z"
+      "broadcastUSSpanishCheckedAt": "2026-10-22T07:31:44.483680Z"
     },
     {
       "id": "20270530-afc-bournemouth",
@@ -937,13 +937,13 @@
       "scoreFor": null,
       "scoreAgainst": null,
       "broadcastUSSource": "",
-      "broadcastCheckedAt": "2026-10-22T01:28:54.893955Z",
+      "broadcastCheckedAt": "2026-10-22T07:31:43.104315Z",
       "broadcastConfidence": "",
       "liveStatus": "",
       "broadcastUSSpanish": "TBA",
       "broadcastUSSpanishSource": "",
       "broadcastUSSpanishConfidence": "",
-      "broadcastUSSpanishCheckedAt": "2026-10-22T01:28:57.916032Z"
+      "broadcastUSSpanishCheckedAt": "2026-10-22T07:31:44.483680Z"
     }
   ],
   "premierLeagueTable": [
@@ -1663,6 +1663,12 @@
       "published": "2026-10-21T19:02:04Z"
     },
     {
+      "title": "Iraola on Slow Start: “You Must Go Full Gas or You Are Going to Struggle”",
+      "source": "Liverpool Offside",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQcUpJSnZwQ3ZsX0RYT0psRXVXck02Z0pva0VkeEdOQ3YySUl2R0tVdmV4aGxoaXg4MHJQSTlUMHVpOTBBMW5CRlR1LTVYTGM2WkdZajBGVjE4WTJFZ1pWWVh5eXNuTXNRZkFMZ3FCZ1ZobTZmRTR2R2JpU0gyN2hJNWJEbUFwbi15MmR6MW1Jc2k5bTB0S0Q4R0l6ZGxKc0JSS0k4NjVqbHBkNnhyVmlNZUtrVGtEUm5yVE9RUHBseW1IMDBFZ2h0ZU4tWWd6Y3ZUYjNrRUk4dzc?oc=5",
+      "published": "2026-10-21T15:06:22Z"
+    },
+    {
       "title": "PSG beat Barça, Rio’s grand for Liverpool and Ronaldo’s CV | Football Weekly – video",
       "source": "The Guardian",
       "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNX29iNk1LRFVyZ2RQZGZOSXhNdVNmUXJpSVZ4NGYwMTFRV3lsQUFudGpMY01DeDJJZGFWS25xQml1UjJyRkluUHh1bXJFYXdtcmlRMlVUTnZCdEZ4MVJhblU3clNVYnhKamtPRE1PaDJLbDFnbGIydEJzdEh4MzI5UjRoRlNTZG9MZ19hQXNaQjVyczEtX3BxajdXM0tOR1d6N2h0THdPeXlXQVdFRFpqZF9zQlhqYkVLcHdWNGF2TDhVVzVvUDFEeWxDb0w?oc=5",
@@ -1699,6 +1705,12 @@
       "published": "2026-10-20T23:00:00Z"
     },
     {
+      "title": "Liverpool 4-3 Villarreal: Rio Ngumoha shines in comeback win",
+      "source": "BBC",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5VWGJadGlLY3l4Qnh4dWpCQkNYSlp3Q0xScFI0OHdMUV9VN0NybmJOUldBbDVFbFA1ekxscDlDazNWcE1LaDZsRWkxZV9XT3JNY0xkWkpnVjdKZUZXdnFVbTBBZkc1WFo4?oc=5",
+      "published": "2026-10-20T22:56:55Z"
+    },
+    {
       "title": "Ngumoha comes of age on breathless Anfield night",
       "source": "Reuters",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPaV8zWFkyQ2R5elJCSkIwb1k1QnVLSE9OVm1IdkNCMFZ6THNaOGVLLTJaVjI3eFdBV2dNVVZoOHF0bHh5MmU2SmNiLXJ2VVhXc09WcklwUGlzRW1yamw1QnhkNkltMVZPTDRGUDUtNHhjcllYUkZUY1pjSDhpRl8zQnJIaGVITlFLMEdjX0c2dE15VjdzbEhN?oc=5",
@@ -1723,12 +1735,6 @@
       "published": "2026-10-20T06:56:41Z"
     },
     {
-      "title": "Liverpool vs. Villarreal: Champions League 2026-27 Preview & Team News",
-      "source": "Liverpool Offside",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOVzBEUURyeGhSclFGVlktdHg2TWdwNWFlS2wwYzdmaTJGTVYtSFZ4RHNyRmNudDBKWEJCck1wTWMyQmxGNmxZWDg1dDRSNWxZWkVpN1VfQjhWZEZRRTNXQ0dydzRtcG1CX092djdZR280SVhxWkZzRHBVTzhyTzZ2S1o0T1VLT0tTM0xyZjY2QjNlSnJNZzBFOGl0eGowTDQxTkJZQWl6QmdSNWExOXYyLTkyc0FIUDFMUXlKc1A1aHU1bnE3LWZuc1ltRm1GUG9jcDRwTll3SndBTnYyYnRZ?oc=5",
-      "published": "2026-10-19T20:40:19Z"
-    },
-    {
       "title": "Football gossip: Nmecha, Buendia, Alexander-Arnold, Ngumoha, Hurzeler, Conte, Ramos",
       "source": "BBC",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1IN1dpc3Y1cXhzS1FoZDBmWWFSWkpialBQdUgxbm9KSG9DV1JJd2l6Ukx5a0Z1LU1UWjBzVzByYnRTSnAtbWd6eWFubEJsWk9DUV9NTENuWEYxdmtyZXdVbDBfVE1UdWhH?oc=5",
@@ -1745,12 +1751,6 @@
       "source": "Reuters",
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPeXJaRFdVQUxVS2hXWnNvLVdaZEJVSkFzT0RpeGdYSDVoeWNyVnFSRFNxS0hrZHVzZGhsazR0dWtZS3c0d2pfMU5jNE1RMW1zdnp1dU1UZEpsazVJMU1QeFpocGx1Mi1PeWJBbFFaR19BM0hvSWp5T2JqTGF2MnV6eHVZcksxNmVqZ1N6NHRVdmhpNWg0YWRrb2xwek1DN0o2YVE1R2dnM0dXWHZlci1qWEZXb19ZZmlTcXZRdGQxRzI?oc=5",
       "published": "2026-10-17T16:56:00Z"
-    },
-    {
-      "title": "Vitor Matos: Swansea boss on Jurgen Klopp influence and challenges of managing in the Championship",
-      "source": "BBC",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBUUkFKTkNWMFYwaDZRYURYbVh4MG9BaWZHT3Y3NDVSc0lXdWlQYjNuaEVFTmItV3FHOFhvYi1CVjIzbWtldnN0N1NIS25sb3VRcUlmX0FOZ0VycXRrYWI5T0d3aGZFUm9R?oc=5",
-      "published": "2026-10-17T05:56:25Z"
     }
   ],
   "dataHealth": {

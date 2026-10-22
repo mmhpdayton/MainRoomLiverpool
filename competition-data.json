@@ -5814,9 +5814,9 @@
     "premierLeagueMatches": "full 380-match schedule/results baseline loaded",
     "championsLeagueMatches": "full 144-match league-phase schedule loaded",
     "milkCupMatches": "full competition scoreboard loaded (89 matches)",
-    "faCupMatches": "full competition scoreboard loaded (102 matches)"
+    "faCupMatches": "full competition scoreboard loaded (103 matches)"
   },
-  "updated": "2026-10-22T01:29:09.701447Z",
+  "updated": "2026-10-22T07:31:50.891922Z",
   "milkCupMatches": [
     {
       "id": "401842433",
@@ -8408,6 +8408,20 @@
       "status": "scheduled",
       "liveStatus": "Scheduled",
       "venue": "London Road Stadium",
+      "source": "ESPN competition scoreboard"
+    },
+    {
+      "id": "401931275",
+      "round": 0,
+      "roundName": "",
+      "date": "2026-11-07T15:00Z",
+      "home": "Plymouth Argyle",
+      "away": "Alvechurch",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "scheduled",
+      "liveStatus": "Scheduled",
+      "venue": "Home Park",
       "source": "ESPN competition scoreboard"
     },
     {
