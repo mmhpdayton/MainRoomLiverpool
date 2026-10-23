@@ -5816,7 +5816,7 @@
     "milkCupMatches": "full competition scoreboard loaded (89 matches)",
     "faCupMatches": "full competition scoreboard loaded (103 matches)"
   },
-  "updated": "2026-10-23T01:28:38.045658Z",
+  "updated": "2026-10-23T07:28:54.467019Z",
   "milkCupMatches": [
     {
       "id": "401842433",
@@ -7949,6 +7949,20 @@
       "source": "ESPN competition scoreboard"
     },
     {
+      "id": "401931109",
+      "round": 0,
+      "roundName": "",
+      "date": "2026-11-06T19:45Z",
+      "home": "Oxford City",
+      "away": "Leicester City",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "scheduled",
+      "liveStatus": "Scheduled",
+      "venue": "RAW Charging Stadium",
+      "source": "ESPN competition scoreboard"
+    },
+    {
       "id": "401931119",
       "round": 0,
       "roundName": "",
@@ -7974,20 +7988,6 @@
       "status": "scheduled",
       "liveStatus": "Scheduled",
       "venue": "Hornchurch Stadium",
-      "source": "ESPN competition scoreboard"
-    },
-    {
-      "id": "401931097",
-      "round": 0,
-      "roundName": "",
-      "date": "2026-11-07T15:00Z",
-      "home": "Altrincham",
-      "away": "Notts County",
-      "homeScore": 0,
-      "awayScore": 0,
-      "status": "scheduled",
-      "liveStatus": "Scheduled",
-      "venue": "J. Davidson Stadium",
       "source": "ESPN competition scoreboard"
     },
     {
@@ -8142,20 +8142,6 @@
       "status": "scheduled",
       "liveStatus": "Scheduled",
       "venue": "JobServe Community Stadium",
-      "source": "ESPN competition scoreboard"
-    },
-    {
-      "id": "401931080",
-      "round": 0,
-      "roundName": "",
-      "date": "2026-11-07T15:00Z",
-      "home": "Cray Wanderers",
-      "away": "Stockport County",
-      "homeScore": 0,
-      "awayScore": 0,
-      "status": "scheduled",
-      "liveStatus": "Scheduled",
-      "venue": "Flamingo Park",
       "source": "ESPN competition scoreboard"
     },
     {
@@ -8355,34 +8341,6 @@
       "source": "ESPN competition scoreboard"
     },
     {
-      "id": "401931108",
-      "round": 0,
-      "roundName": "",
-      "date": "2026-11-07T15:00Z",
-      "home": "Oldham Athletic",
-      "away": "Sheffield Wednesday",
-      "homeScore": 0,
-      "awayScore": 0,
-      "status": "scheduled",
-      "liveStatus": "Scheduled",
-      "venue": "Boundary Park",
-      "source": "ESPN competition scoreboard"
-    },
-    {
-      "id": "401931109",
-      "round": 0,
-      "roundName": "",
-      "date": "2026-11-07T15:00Z",
-      "home": "Oxford City",
-      "away": "Leicester City",
-      "homeScore": 0,
-      "awayScore": 0,
-      "status": "scheduled",
-      "liveStatus": "Scheduled",
-      "venue": "RAW Charging Stadium",
-      "source": "ESPN competition scoreboard"
-    },
-    {
       "id": "401931121",
       "round": 0,
       "roundName": "",
@@ -8397,20 +8355,6 @@
       "source": "ESPN competition scoreboard"
     },
     {
-      "id": "401931104",
-      "round": 0,
-      "roundName": "",
-      "date": "2026-11-07T15:00Z",
-      "home": "Peterborough United",
-      "away": "Reading",
-      "homeScore": 0,
-      "awayScore": 0,
-      "status": "scheduled",
-      "liveStatus": "Scheduled",
-      "venue": "London Road Stadium",
-      "source": "ESPN competition scoreboard"
-    },
-    {
       "id": "401931275",
       "round": 0,
       "roundName": "",
@@ -8422,20 +8366,6 @@
       "status": "scheduled",
       "liveStatus": "Scheduled",
       "venue": "Home Park",
-      "source": "ESPN competition scoreboard"
-    },
-    {
-      "id": "401931098",
-      "round": 0,
-      "roundName": "",
-      "date": "2026-11-07T15:00Z",
-      "home": "Plymouth Parkway",
-      "away": "Berkhamsted",
-      "homeScore": 0,
-      "awayScore": 0,
-      "status": "scheduled",
-      "liveStatus": "Scheduled",
-      "venue": "Manadon Sports Hub",
       "source": "ESPN competition scoreboard"
     },
     {
@@ -8467,34 +8397,6 @@
       "source": "ESPN competition scoreboard"
     },
     {
-      "id": "401931079",
-      "round": 0,
-      "roundName": "",
-      "date": "2026-11-07T15:00Z",
-      "home": "Stafford Rangers",
-      "away": "Grimsby Town",
-      "homeScore": 0,
-      "awayScore": 0,
-      "status": "scheduled",
-      "liveStatus": "Scheduled",
-      "venue": "The Stan Robinson Stadium",
-      "source": "ESPN competition scoreboard"
-    },
-    {
-      "id": "401931093",
-      "round": 0,
-      "roundName": "",
-      "date": "2026-11-07T15:00Z",
-      "home": "Wimborne Town",
-      "away": "Crawley Town",
-      "homeScore": 0,
-      "awayScore": 0,
-      "status": "scheduled",
-      "liveStatus": "Scheduled",
-      "venue": "The Wyatt Homes Stadium",
-      "source": "ESPN competition scoreboard"
-    },
-    {
       "id": "401931084",
       "round": 0,
       "roundName": "",
@@ -8506,6 +8408,104 @@
       "status": "scheduled",
       "liveStatus": "Scheduled",
       "venue": "LNER Community Stadium",
+      "source": "ESPN competition scoreboard"
+    },
+    {
+      "id": "401931097",
+      "round": 0,
+      "roundName": "",
+      "date": "2026-11-07T17:30Z",
+      "home": "Altrincham",
+      "away": "Notts County",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "scheduled",
+      "liveStatus": "Scheduled",
+      "venue": "J. Davidson Stadium",
+      "source": "ESPN competition scoreboard"
+    },
+    {
+      "id": "401931104",
+      "round": 0,
+      "roundName": "",
+      "date": "2026-11-07T20:00Z",
+      "home": "Peterborough United",
+      "away": "Reading",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "scheduled",
+      "liveStatus": "Scheduled",
+      "venue": "London Road Stadium",
+      "source": "ESPN competition scoreboard"
+    },
+    {
+      "id": "401931079",
+      "round": 0,
+      "roundName": "",
+      "date": "2026-11-08T12:00Z",
+      "home": "Stafford Rangers",
+      "away": "Grimsby Town",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "scheduled",
+      "liveStatus": "Scheduled",
+      "venue": "The Stan Robinson Stadium",
+      "source": "ESPN competition scoreboard"
+    },
+    {
+      "id": "401931080",
+      "round": 0,
+      "roundName": "",
+      "date": "2026-11-08T14:15Z",
+      "home": "Cray Wanderers",
+      "away": "Stockport County",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "scheduled",
+      "liveStatus": "Scheduled",
+      "venue": "Flamingo Park",
+      "source": "ESPN competition scoreboard"
+    },
+    {
+      "id": "401931093",
+      "round": 0,
+      "roundName": "",
+      "date": "2026-11-08T15:00Z",
+      "home": "Wimborne Town",
+      "away": "Crawley Town",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "scheduled",
+      "liveStatus": "Scheduled",
+      "venue": "The Wyatt Homes Stadium",
+      "source": "ESPN competition scoreboard"
+    },
+    {
+      "id": "401931108",
+      "round": 0,
+      "roundName": "",
+      "date": "2026-11-08T17:15Z",
+      "home": "Oldham Athletic",
+      "away": "Sheffield Wednesday",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "scheduled",
+      "liveStatus": "Scheduled",
+      "venue": "Boundary Park",
+      "source": "ESPN competition scoreboard"
+    },
+    {
+      "id": "401931098",
+      "round": 0,
+      "roundName": "",
+      "date": "2026-11-09T19:30Z",
+      "home": "Plymouth Parkway",
+      "away": "Berkhamsted",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "scheduled",
+      "liveStatus": "Scheduled",
+      "venue": "Manadon Sports Hub",
       "source": "ESPN competition scoreboard"
     }
   ]
