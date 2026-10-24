@@ -820,11 +820,10 @@
       "home": "Chelsea",
       "away": "Tottenham Hotspur",
       "venue": "Stamford Bridge",
-      "homeScore": 0,
-      "awayScore": 0,
-      "status": "live",
-      "source": "FixtureDownload schedule/results baseline",
-      "liveStatus": "77"
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 8,
@@ -5817,7 +5816,7 @@
     "milkCupMatches": "full competition scoreboard loaded (89 matches)",
     "faCupMatches": "full competition scoreboard loaded (103 matches)"
   },
-  "updated": "2026-10-24T18:07:04.054343Z",
+  "updated": "2026-10-24T20:45:46.367689Z",
   "milkCupMatches": [
     {
       "id": "401842433",
