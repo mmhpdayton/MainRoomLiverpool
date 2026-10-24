@@ -787,11 +787,10 @@
       "home": "Aston Villa",
       "away": "Manchester City",
       "venue": "Villa Park",
-      "homeScore": 2,
-      "awayScore": 1,
-      "status": "live",
-      "source": "FixtureDownload schedule/results baseline",
-      "liveStatus": "90"
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 8,
@@ -799,11 +798,11 @@
       "home": "Arsenal",
       "away": "Everton",
       "venue": "Emirates Stadium",
-      "homeScore": 0,
+      "homeScore": 1,
       "awayScore": 0,
       "status": "live",
       "source": "FixtureDownload schedule/results baseline",
-      "liveStatus": "4"
+      "liveStatus": "29"
     },
     {
       "round": 8,
@@ -815,7 +814,7 @@
       "awayScore": 0,
       "status": "live",
       "source": "FixtureDownload schedule/results baseline",
-      "liveStatus": "4"
+      "liveStatus": "29"
     },
     {
       "round": 8,
@@ -5819,7 +5818,7 @@
     "milkCupMatches": "full competition scoreboard loaded (89 matches)",
     "faCupMatches": "full competition scoreboard loaded (103 matches)"
   },
-  "updated": "2026-10-24T14:05:45.587167Z",
+  "updated": "2026-10-24T14:30:08.996702Z",
   "milkCupMatches": [
     {
       "id": "401842433",
