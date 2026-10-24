@@ -776,9 +776,9 @@
       "home": "Ipswich Town",
       "away": "Nottingham Forest",
       "venue": "Portman Road",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "final",
       "source": "FixtureDownload schedule/results baseline"
     },
     {
@@ -5816,7 +5816,7 @@
     "milkCupMatches": "full competition scoreboard loaded (89 matches)",
     "faCupMatches": "full competition scoreboard loaded (103 matches)"
   },
-  "updated": "2026-10-24T00:39:30.672313Z",
+  "updated": "2026-10-24T05:49:48.243943Z",
   "milkCupMatches": [
     {
       "id": "401842433",
