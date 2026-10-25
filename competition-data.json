@@ -831,10 +831,11 @@
       "home": "Crystal Palace",
       "away": "Newcastle United",
       "venue": "Selhurst Park",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
-      "source": "FixtureDownload schedule/results baseline"
+      "homeScore": 0,
+      "awayScore": 2,
+      "status": "live",
+      "source": "FixtureDownload schedule/results baseline",
+      "liveStatus": "90"
     },
     {
       "round": 8,
@@ -842,10 +843,11 @@
       "home": "Hull City",
       "away": "Brentford",
       "venue": "MKM Stadium",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
-      "source": "FixtureDownload schedule/results baseline"
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "live",
+      "source": "FixtureDownload schedule/results baseline",
+      "liveStatus": "90"
     },
     {
       "round": 8,
@@ -864,10 +866,11 @@
       "home": "Manchester United",
       "away": "AFC Bournemouth",
       "venue": "Old Trafford",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
-      "source": "FixtureDownload schedule/results baseline"
+      "homeScore": 0,
+      "awayScore": 3,
+      "status": "live",
+      "source": "FixtureDownload schedule/results baseline",
+      "liveStatus": "90"
     },
     {
       "round": 8,
@@ -5816,7 +5819,7 @@
     "milkCupMatches": "full competition scoreboard loaded (89 matches)",
     "faCupMatches": "full competition scoreboard loaded (103 matches)"
   },
-  "updated": "2026-10-25T11:22:20.637800Z",
+  "updated": "2026-10-25T16:13:52.343942Z",
   "milkCupMatches": [
     {
       "id": "401842433",
