@@ -878,10 +878,11 @@
       "home": "Sunderland",
       "away": "Leeds United",
       "venue": "Stadium of Light",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
-      "source": "FixtureDownload schedule/results baseline"
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "live",
+      "source": "FixtureDownload schedule/results baseline",
+      "liveStatus": "45"
     },
     {
       "round": 9,
@@ -5819,7 +5820,7 @@
     "milkCupMatches": "full competition scoreboard loaded (89 matches)",
     "faCupMatches": "full competition scoreboard loaded (103 matches)"
   },
-  "updated": "2026-10-25T16:13:52.343942Z",
+  "updated": "2026-10-25T17:23:54.342116Z",
   "milkCupMatches": [
     {
       "id": "401842433",
