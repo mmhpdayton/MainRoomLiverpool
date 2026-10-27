@@ -5816,7 +5816,7 @@
     "milkCupMatches": "full competition scoreboard loaded (89 matches)",
     "faCupMatches": "full competition scoreboard loaded (103 matches)"
   },
-  "updated": "2026-10-27T07:48:42.441881Z",
+  "updated": "2026-10-27T14:28:33.427197Z",
   "milkCupMatches": [
     {
       "id": "401842433",
@@ -7963,20 +7963,6 @@
       "source": "ESPN competition scoreboard"
     },
     {
-      "id": "401931079",
-      "round": 0,
-      "roundName": "",
-      "date": "2026-11-07T12:00Z",
-      "home": "Stafford Rangers",
-      "away": "Grimsby Town",
-      "homeScore": 0,
-      "awayScore": 0,
-      "status": "scheduled",
-      "liveStatus": "Scheduled",
-      "venue": "The Stan Robinson Stadium",
-      "source": "ESPN competition scoreboard"
-    },
-    {
       "id": "401931119",
       "round": 0,
       "roundName": "",
@@ -8450,6 +8436,20 @@
       "status": "scheduled",
       "liveStatus": "Scheduled",
       "venue": "London Road Stadium",
+      "source": "ESPN competition scoreboard"
+    },
+    {
+      "id": "401931079",
+      "round": 0,
+      "roundName": "",
+      "date": "2026-11-08T12:00Z",
+      "home": "Stafford Rangers",
+      "away": "Grimsby Town",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "scheduled",
+      "liveStatus": "Scheduled",
+      "venue": "The Stan Robinson Stadium",
       "source": "ESPN competition scoreboard"
     },
     {
