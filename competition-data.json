@@ -5816,7 +5816,7 @@
     "milkCupMatches": "full competition scoreboard loaded (89 matches)",
     "faCupMatches": "full competition scoreboard loaded (103 matches)"
   },
-  "updated": "2026-10-27T20:04:10.853306Z",
+  "updated": "2026-10-27T23:45:46.246980Z",
   "milkCupMatches": [
     {
       "id": "401842433",
@@ -6959,24 +6959,24 @@
       "date": "2026-10-27T19:45Z",
       "home": "Bradford City",
       "away": "Peterborough United",
-      "homeScore": 1,
+      "homeScore": 2,
       "awayScore": 0,
-      "status": "live",
-      "liveStatus": "18'",
+      "status": "final",
+      "liveStatus": "FT",
       "venue": "Valley Parade",
       "source": "ESPN competition scoreboard"
     },
     {
       "id": "401921835",
-      "round": 0,
-      "roundName": "",
+      "round": 5,
+      "roundName": "Fleetwood Town win 5-3 on penalties",
       "date": "2026-10-27T20:00Z",
       "home": "Fleetwood Town",
       "away": "Arsenal",
-      "homeScore": 0,
-      "awayScore": 0,
-      "status": "live",
-      "liveStatus": "3'",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "final",
+      "liveStatus": "FT-Pens",
       "venue": "Highbury Stadium",
       "source": "ESPN competition scoreboard"
     },
