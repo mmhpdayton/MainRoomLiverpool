@@ -5816,7 +5816,7 @@
     "milkCupMatches": "full competition scoreboard loaded (89 matches)",
     "faCupMatches": "full competition scoreboard loaded (103 matches)"
   },
-  "updated": "2026-10-27T14:28:33.427197Z",
+  "updated": "2026-10-27T20:04:10.853306Z",
   "milkCupMatches": [
     {
       "id": "401842433",
@@ -6959,10 +6959,10 @@
       "date": "2026-10-27T19:45Z",
       "home": "Bradford City",
       "away": "Peterborough United",
-      "homeScore": 0,
+      "homeScore": 1,
       "awayScore": 0,
-      "status": "scheduled",
-      "liveStatus": "Scheduled",
+      "status": "live",
+      "liveStatus": "18'",
       "venue": "Valley Parade",
       "source": "ESPN competition scoreboard"
     },
@@ -6975,8 +6975,8 @@
       "away": "Arsenal",
       "homeScore": 0,
       "awayScore": 0,
-      "status": "scheduled",
-      "liveStatus": "Scheduled",
+      "status": "live",
+      "liveStatus": "3'",
       "venue": "Highbury Stadium",
       "source": "ESPN competition scoreboard"
     },
