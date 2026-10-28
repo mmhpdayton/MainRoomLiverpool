@@ -5816,7 +5816,7 @@
     "milkCupMatches": "full competition scoreboard loaded (89 matches)",
     "faCupMatches": "full competition scoreboard loaded (103 matches)"
   },
-  "updated": "2026-10-28T05:38:04.215888Z",
+  "updated": "2026-10-28T12:49:03.639507Z",
   "milkCupMatches": [
     {
       "id": "401842433",
@@ -7949,6 +7949,20 @@
       "source": "ESPN competition scoreboard"
     },
     {
+      "id": "401931085",
+      "round": 0,
+      "roundName": "",
+      "date": "2026-11-06T19:30Z",
+      "home": "Bristol Rovers",
+      "away": "Cambridge United",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "scheduled",
+      "liveStatus": "Scheduled",
+      "venue": "Memorial Stadium",
+      "source": "ESPN competition scoreboard"
+    },
+    {
       "id": "401931109",
       "round": 0,
       "roundName": "",
@@ -8044,20 +8058,6 @@
       "status": "scheduled",
       "liveStatus": "Scheduled",
       "venue": "Valley Parade",
-      "source": "ESPN competition scoreboard"
-    },
-    {
-      "id": "401931085",
-      "round": 0,
-      "roundName": "",
-      "date": "2026-11-07T15:00Z",
-      "home": "Bristol Rovers",
-      "away": "Cambridge United",
-      "homeScore": 0,
-      "awayScore": 0,
-      "status": "scheduled",
-      "liveStatus": "Scheduled",
-      "venue": "Memorial Stadium",
       "source": "ESPN competition scoreboard"
     },
     {
