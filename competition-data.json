@@ -5816,7 +5816,7 @@
     "milkCupMatches": "full competition scoreboard loaded (93 matches)",
     "faCupMatches": "full competition scoreboard loaded (103 matches)"
   },
-  "updated": "2026-10-29T16:54:56.109837Z",
+  "updated": "2026-10-29T21:47:47.150444Z",
   "milkCupMatches": [
     {
       "id": "401842433",
@@ -7057,10 +7057,10 @@
       "date": "2026-10-29T19:45Z",
       "home": "Everton",
       "away": "Newcastle United",
-      "homeScore": 0,
-      "awayScore": 0,
-      "status": "scheduled",
-      "liveStatus": "Scheduled",
+      "homeScore": 3,
+      "awayScore": 1,
+      "status": "final",
+      "liveStatus": "FT",
       "venue": "Hill Dickinson Stadium",
       "source": "ESPN competition scoreboard"
     },
@@ -7084,7 +7084,7 @@
       "roundName": "",
       "date": "2026-12-15T20:00Z",
       "home": "Fleetwood Town",
-      "away": "TBD Away",
+      "away": "Everton",
       "homeScore": 0,
       "awayScore": 0,
       "status": "scheduled",
