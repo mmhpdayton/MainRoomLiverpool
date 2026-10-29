@@ -5813,10 +5813,10 @@
   "health": {
     "premierLeagueMatches": "full 380-match schedule/results baseline loaded",
     "championsLeagueMatches": "full 144-match league-phase schedule loaded",
-    "milkCupMatches": "full competition scoreboard loaded (89 matches)",
+    "milkCupMatches": "full competition scoreboard loaded (93 matches)",
     "faCupMatches": "full competition scoreboard loaded (103 matches)"
   },
-  "updated": "2026-10-29T09:54:29.760891Z",
+  "updated": "2026-10-29T16:54:56.109837Z",
   "milkCupMatches": [
     {
       "id": "401842433",
@@ -7062,6 +7062,62 @@
       "status": "scheduled",
       "liveStatus": "Scheduled",
       "venue": "Hill Dickinson Stadium",
+      "source": "ESPN competition scoreboard"
+    },
+    {
+      "id": "401932163",
+      "round": 0,
+      "roundName": "",
+      "date": "2026-12-15T20:00Z",
+      "home": "Crystal Palace",
+      "away": "Sunderland",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "scheduled",
+      "liveStatus": "TBD",
+      "venue": "Selhurst Park",
+      "source": "ESPN competition scoreboard"
+    },
+    {
+      "id": "401932186",
+      "round": 0,
+      "roundName": "",
+      "date": "2026-12-15T20:00Z",
+      "home": "Fleetwood Town",
+      "away": "TBD Away",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "scheduled",
+      "liveStatus": "TBD",
+      "venue": "Highbury Stadium",
+      "source": "ESPN competition scoreboard"
+    },
+    {
+      "id": "401932187",
+      "round": 0,
+      "roundName": "",
+      "date": "2026-12-15T20:00Z",
+      "home": "Liverpool",
+      "away": "AFC Bournemouth",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "scheduled",
+      "liveStatus": "TBD",
+      "venue": "Anfield",
+      "source": "ESPN competition scoreboard"
+    },
+    {
+      "id": "401932185",
+      "round": 0,
+      "roundName": "",
+      "date": "2026-12-15T20:00Z",
+      "home": "Manchester City",
+      "away": "Bradford City",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "scheduled",
+      "liveStatus": "TBD",
+      "venue": "Etihad Stadium",
       "source": "ESPN competition scoreboard"
     }
   ],
