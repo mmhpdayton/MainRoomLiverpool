@@ -886,11 +886,11 @@
       "home": "Chelsea",
       "away": "Manchester United",
       "venue": "Stamford Bridge",
-      "homeScore": 0,
+      "homeScore": 2,
       "awayScore": 0,
       "status": "live",
       "source": "FixtureDownload schedule/results baseline",
-      "liveStatus": "47"
+      "liveStatus": "88"
     },
     {
       "round": 9,
@@ -5817,7 +5817,7 @@
     "milkCupMatches": "full competition scoreboard loaded (93 matches)",
     "faCupMatches": "full competition scoreboard loaded (103 matches)"
   },
-  "updated": "2026-10-31T13:37:59.053505Z",
+  "updated": "2026-10-31T14:21:00.469342Z",
   "milkCupMatches": [
     {
       "id": "401842433",
