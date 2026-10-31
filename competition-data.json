@@ -952,11 +952,10 @@
       "home": "Tottenham Hotspur",
       "away": "Crystal Palace",
       "venue": "Tottenham Hotspur Stadium",
-      "homeScore": 1,
-      "awayScore": 0,
-      "status": "live",
-      "source": "FixtureDownload schedule/results baseline",
-      "liveStatus": "50"
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 9,
@@ -968,7 +967,7 @@
       "awayScore": 1,
       "status": "live",
       "source": "FixtureDownload schedule/results baseline",
-      "liveStatus": "89"
+      "liveStatus": "90"
     },
     {
       "round": 9,
@@ -5818,7 +5817,7 @@
     "milkCupMatches": "full competition scoreboard loaded (93 matches)",
     "faCupMatches": "full competition scoreboard loaded (103 matches)"
   },
-  "updated": "2026-10-31T21:52:58.094988Z",
+  "updated": "2026-10-31T22:27:52.228173Z",
   "milkCupMatches": [
     {
       "id": "401842433",
