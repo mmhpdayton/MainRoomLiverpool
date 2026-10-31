@@ -964,10 +964,11 @@
       "home": "Aston Villa",
       "away": "Fulham",
       "venue": "Villa Park",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
-      "source": "FixtureDownload schedule/results baseline"
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "live",
+      "source": "FixtureDownload schedule/results baseline",
+      "liveStatus": "89"
     },
     {
       "round": 9,
@@ -5817,7 +5818,7 @@
     "milkCupMatches": "full competition scoreboard loaded (93 matches)",
     "faCupMatches": "full competition scoreboard loaded (103 matches)"
   },
-  "updated": "2026-10-31T18:40:05.987059Z",
+  "updated": "2026-10-31T21:52:58.094988Z",
   "milkCupMatches": [
     {
       "id": "401842433",
