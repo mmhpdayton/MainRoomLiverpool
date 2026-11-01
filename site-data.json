@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-01T16:00:26.968302Z",
+  "updated": "2026-11-01T18:52:31.362553Z",
   "fixtures": [
     {
       "id": "20260823-newcastle-united",
@@ -251,15 +251,15 @@
       "competition": "Premier League",
       "venue": "Anfield",
       "broadcastUS": "Peacock • NBCSN • NBC",
-      "status": "scheduled",
-      "scoreFor": null,
-      "scoreAgainst": null,
+      "status": "live",
+      "scoreFor": 0,
+      "scoreAgainst": 1,
       "broadcastUSSource": "https://www.nbcsports.com/pressbox/press-releases/second-place-arsenal-visit-fourth-place-liverpool-this-sunday-nov-1-at-11-30-a-m-et-on-peacock-nbcsn-and-telemundo-headlining-nbc-sports-premier-league-coverage-this-weekend",
       "broadcastCheckedAt": "2026-11-01T16:00:16.446904Z",
       "broadcastConfidence": "official match-specific",
       "fixtureChangeSource": "Premier League fixture amendment — 2026-08-17",
       "broadcastUK": "Sky Sports",
-      "liveStatus": "",
+      "liveStatus": "90",
       "broadcastUSSpanish": "Telemundo",
       "broadcastUSSpanishSource": "https://www.nbcsports.com/pressbox/press-releases/second-place-arsenal-visit-fourth-place-liverpool-this-sunday-nov-1-at-11-30-a-m-et-on-peacock-nbcsn-and-telemundo-headlining-nbc-sports-premier-league-coverage-this-weekend",
       "broadcastUSSpanishConfidence": "official match-specific",
