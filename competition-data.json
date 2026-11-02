@@ -974,9 +974,9 @@
       "home": "Liverpool",
       "away": "Arsenal",
       "venue": "Anfield",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
+      "homeScore": 0,
+      "awayScore": 1,
+      "status": "final",
       "source": "FixtureDownload schedule/results baseline"
     },
     {
@@ -5816,7 +5816,7 @@
     "milkCupMatches": "full competition scoreboard loaded (93 matches)",
     "faCupMatches": "full competition scoreboard loaded (103 matches)"
   },
-  "updated": "2026-11-02T07:39:45.017355Z",
+  "updated": "2026-11-02T18:19:09.179063Z",
   "milkCupMatches": [
     {
       "id": "401842433",
