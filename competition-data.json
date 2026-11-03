@@ -4782,11 +4782,10 @@
       "home": "Shakhtar Donetsk",
       "away": "Sporting CP",
       "venue": "Stamford Bridge",
-      "homeScore": 0,
-      "awayScore": 0,
-      "status": "live",
-      "source": "FixtureDownload schedule baseline; UEFA official fixture cross-check",
-      "liveStatus": "3"
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "source": "FixtureDownload schedule baseline; UEFA official fixture cross-check"
     },
     {
       "round": 4,
@@ -4794,11 +4793,10 @@
       "home": "Galatasaray",
       "away": "Stuttgart",
       "venue": "Ali Sami Yen Spor Kompleksi",
-      "homeScore": 0,
-      "awayScore": 0,
-      "status": "live",
-      "source": "FixtureDownload schedule baseline; UEFA official fixture cross-check",
-      "liveStatus": "2"
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "source": "FixtureDownload schedule baseline; UEFA official fixture cross-check"
     },
     {
       "round": 4,
@@ -4806,11 +4804,10 @@
       "home": "Barcelona",
       "away": "Aston Villa",
       "venue": "Camp Nou",
-      "homeScore": 3,
-      "awayScore": 0,
-      "status": "live",
-      "source": "FixtureDownload schedule baseline; UEFA official fixture cross-check",
-      "liveStatus": "88"
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "source": "FixtureDownload schedule baseline; UEFA official fixture cross-check"
     },
     {
       "round": 4,
@@ -4818,11 +4815,10 @@
       "home": "Atlético de Madrid",
       "away": "Bayern Munich",
       "venue": "Estadio Metropolitano",
-      "homeScore": 0,
-      "awayScore": 2,
-      "status": "live",
-      "source": "FixtureDownload schedule baseline; UEFA official fixture cross-check",
-      "liveStatus": "90"
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "source": "FixtureDownload schedule baseline; UEFA official fixture cross-check"
     },
     {
       "round": 4,
@@ -4830,11 +4826,10 @@
       "home": "Manchester United",
       "away": "Roma",
       "venue": "Old Trafford",
-      "homeScore": 3,
-      "awayScore": 2,
-      "status": "live",
-      "source": "FixtureDownload schedule baseline; UEFA official fixture cross-check",
-      "liveStatus": "89"
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "source": "FixtureDownload schedule baseline; UEFA official fixture cross-check"
     },
     {
       "round": 4,
@@ -4853,11 +4848,10 @@
       "home": "Bodø/Glimt",
       "away": "Lille",
       "venue": "Aspmyra",
-      "homeScore": 0,
-      "awayScore": 0,
-      "status": "live",
-      "source": "FixtureDownload schedule baseline; UEFA official fixture cross-check",
-      "liveStatus": "90+3"
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "source": "FixtureDownload schedule baseline; UEFA official fixture cross-check"
     },
     {
       "round": 4,
@@ -4865,11 +4859,10 @@
       "home": "Villarreal",
       "away": "Paris Saint-Germain",
       "venue": "Estadio de la Cerámica",
-      "homeScore": 0,
-      "awayScore": 6,
-      "status": "live",
-      "source": "FixtureDownload schedule baseline; UEFA official fixture cross-check",
-      "liveStatus": "89"
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "source": "FixtureDownload schedule baseline; UEFA official fixture cross-check"
     },
     {
       "round": 4,
@@ -4877,11 +4870,10 @@
       "home": "LASK",
       "away": "Slovan Bratislava",
       "venue": "Oberösterreich Arena",
-      "homeScore": 4,
-      "awayScore": 0,
-      "status": "live",
-      "source": "FixtureDownload schedule baseline; UEFA official fixture cross-check",
-      "liveStatus": "89"
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "source": "FixtureDownload schedule baseline; UEFA official fixture cross-check"
     },
     {
       "round": 4,
@@ -5824,7 +5816,7 @@
     "milkCupMatches": "full competition scoreboard loaded (93 matches)",
     "faCupMatches": "full competition scoreboard loaded (103 matches)"
   },
-  "updated": "2026-11-03T21:50:50.014458Z",
+  "updated": "2026-11-03T23:19:02.124254Z",
   "milkCupMatches": [
     {
       "id": "401842433",
