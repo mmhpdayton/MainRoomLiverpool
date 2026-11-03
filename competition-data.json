@@ -4782,10 +4782,11 @@
       "home": "Shakhtar Donetsk",
       "away": "Sporting CP",
       "venue": "Stamford Bridge",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
-      "source": "FixtureDownload schedule baseline; UEFA official fixture cross-check"
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "live",
+      "source": "FixtureDownload schedule baseline; UEFA official fixture cross-check",
+      "liveStatus": "3"
     },
     {
       "round": 4,
@@ -4793,10 +4794,11 @@
       "home": "Galatasaray",
       "away": "Stuttgart",
       "venue": "Ali Sami Yen Spor Kompleksi",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
-      "source": "FixtureDownload schedule baseline; UEFA official fixture cross-check"
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "live",
+      "source": "FixtureDownload schedule baseline; UEFA official fixture cross-check",
+      "liveStatus": "2"
     },
     {
       "round": 4,
@@ -5816,7 +5818,7 @@
     "milkCupMatches": "full competition scoreboard loaded (93 matches)",
     "faCupMatches": "full competition scoreboard loaded (103 matches)"
   },
-  "updated": "2026-11-03T09:29:29.313078Z",
+  "updated": "2026-11-03T17:49:57.219784Z",
   "milkCupMatches": [
     {
       "id": "401842433",
