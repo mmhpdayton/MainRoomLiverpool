@@ -4782,9 +4782,9 @@
       "home": "Shakhtar Donetsk",
       "away": "Sporting CP",
       "venue": "Stamford Bridge",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
+      "homeScore": 0,
+      "awayScore": 1,
+      "status": "final",
       "source": "FixtureDownload schedule baseline; UEFA official fixture cross-check"
     },
     {
@@ -4793,9 +4793,9 @@
       "home": "Galatasaray",
       "away": "Stuttgart",
       "venue": "Ali Sami Yen Spor Kompleksi",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
+      "homeScore": 2,
+      "awayScore": 0,
+      "status": "final",
       "source": "FixtureDownload schedule baseline; UEFA official fixture cross-check"
     },
     {
@@ -4804,9 +4804,9 @@
       "home": "Barcelona",
       "away": "Aston Villa",
       "venue": "Camp Nou",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
+      "homeScore": 3,
+      "awayScore": 0,
+      "status": "final",
       "source": "FixtureDownload schedule baseline; UEFA official fixture cross-check"
     },
     {
@@ -4815,9 +4815,9 @@
       "home": "Atlético de Madrid",
       "away": "Bayern Munich",
       "venue": "Estadio Metropolitano",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
+      "homeScore": 0,
+      "awayScore": 2,
+      "status": "final",
       "source": "FixtureDownload schedule baseline; UEFA official fixture cross-check"
     },
     {
@@ -4826,9 +4826,9 @@
       "home": "Manchester United",
       "away": "Roma",
       "venue": "Old Trafford",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
+      "homeScore": 3,
+      "awayScore": 2,
+      "status": "final",
       "source": "FixtureDownload schedule baseline; UEFA official fixture cross-check"
     },
     {
@@ -4837,9 +4837,9 @@
       "home": "Feyenoord",
       "away": "Inter",
       "venue": "Stadion Feijenoord 'De Kuip'",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
+      "homeScore": 0,
+      "awayScore": 3,
+      "status": "final",
       "source": "FixtureDownload schedule baseline; UEFA official fixture cross-check"
     },
     {
@@ -4848,9 +4848,9 @@
       "home": "Bodø/Glimt",
       "away": "Lille",
       "venue": "Aspmyra",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "final",
       "source": "FixtureDownload schedule baseline; UEFA official fixture cross-check"
     },
     {
@@ -4859,9 +4859,9 @@
       "home": "Villarreal",
       "away": "Paris Saint-Germain",
       "venue": "Estadio de la Cerámica",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
+      "homeScore": 0,
+      "awayScore": 6,
+      "status": "final",
       "source": "FixtureDownload schedule baseline; UEFA official fixture cross-check"
     },
     {
@@ -4870,9 +4870,9 @@
       "home": "LASK",
       "away": "Slovan Bratislava",
       "venue": "Oberösterreich Arena",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
+      "homeScore": 4,
+      "awayScore": 0,
+      "status": "final",
       "source": "FixtureDownload schedule baseline; UEFA official fixture cross-check"
     },
     {
@@ -5816,7 +5816,7 @@
     "milkCupMatches": "full competition scoreboard loaded (93 matches)",
     "faCupMatches": "full competition scoreboard loaded (103 matches)"
   },
-  "updated": "2026-11-04T06:13:17.506976Z",
+  "updated": "2026-11-04T14:29:36.838378Z",
   "milkCupMatches": [
     {
       "id": "401842433",
@@ -7065,48 +7065,6 @@
       "source": "ESPN competition scoreboard"
     },
     {
-      "id": "401932163",
-      "round": 0,
-      "roundName": "",
-      "date": "2026-12-15T20:00Z",
-      "home": "Crystal Palace",
-      "away": "Sunderland",
-      "homeScore": 0,
-      "awayScore": 0,
-      "status": "scheduled",
-      "liveStatus": "TBD",
-      "venue": "Selhurst Park",
-      "source": "ESPN competition scoreboard"
-    },
-    {
-      "id": "401932186",
-      "round": 0,
-      "roundName": "",
-      "date": "2026-12-15T20:00Z",
-      "home": "Fleetwood Town",
-      "away": "Everton",
-      "homeScore": 0,
-      "awayScore": 0,
-      "status": "scheduled",
-      "liveStatus": "TBD",
-      "venue": "Highbury Stadium",
-      "source": "ESPN competition scoreboard"
-    },
-    {
-      "id": "401932187",
-      "round": 0,
-      "roundName": "",
-      "date": "2026-12-15T20:00Z",
-      "home": "Liverpool",
-      "away": "AFC Bournemouth",
-      "homeScore": 0,
-      "awayScore": 0,
-      "status": "scheduled",
-      "liveStatus": "TBD",
-      "venue": "Anfield",
-      "source": "ESPN competition scoreboard"
-    },
-    {
       "id": "401932185",
       "round": 0,
       "roundName": "",
@@ -7116,8 +7074,50 @@
       "homeScore": 0,
       "awayScore": 0,
       "status": "scheduled",
-      "liveStatus": "TBD",
+      "liveStatus": "Scheduled",
       "venue": "Etihad Stadium",
+      "source": "ESPN competition scoreboard"
+    },
+    {
+      "id": "401932163",
+      "round": 0,
+      "roundName": "",
+      "date": "2026-12-16T19:30Z",
+      "home": "Crystal Palace",
+      "away": "Sunderland",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "scheduled",
+      "liveStatus": "Scheduled",
+      "venue": "Selhurst Park",
+      "source": "ESPN competition scoreboard"
+    },
+    {
+      "id": "401932187",
+      "round": 0,
+      "roundName": "",
+      "date": "2026-12-16T20:00Z",
+      "home": "Liverpool",
+      "away": "AFC Bournemouth",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "scheduled",
+      "liveStatus": "Scheduled",
+      "venue": "Anfield",
+      "source": "ESPN competition scoreboard"
+    },
+    {
+      "id": "401932186",
+      "round": 0,
+      "roundName": "",
+      "date": "2026-12-17T20:00Z",
+      "home": "Fleetwood Town",
+      "away": "Everton",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "scheduled",
+      "liveStatus": "Scheduled",
+      "venue": "Highbury Stadium",
       "source": "ESPN competition scoreboard"
     }
   ],
