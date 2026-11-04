@@ -4903,10 +4903,11 @@
       "home": "Borussia Dortmund",
       "away": "Real Betis",
       "venue": "BVB Stadion Dortmund",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
-      "source": "FixtureDownload schedule baseline; UEFA official fixture cross-check"
+      "homeScore": 1,
+      "awayScore": 0,
+      "status": "live",
+      "source": "FixtureDownload schedule baseline; UEFA official fixture cross-check",
+      "liveStatus": "53"
     },
     {
       "round": 4,
@@ -4914,10 +4915,11 @@
       "home": "Porto",
       "away": "Napoli",
       "venue": "Estádio do Dragão",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
-      "source": "FixtureDownload schedule baseline; UEFA official fixture cross-check"
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "live",
+      "source": "FixtureDownload schedule baseline; UEFA official fixture cross-check",
+      "liveStatus": "56"
     },
     {
       "round": 4,
@@ -4925,10 +4927,11 @@
       "home": "PSV Eindhoven",
       "away": "Club Brugge",
       "venue": "PSV Stadion",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
-      "source": "FixtureDownload schedule baseline; UEFA official fixture cross-check"
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "live",
+      "source": "FixtureDownload schedule baseline; UEFA official fixture cross-check",
+      "liveStatus": "55"
     },
     {
       "round": 4,
@@ -4936,10 +4939,11 @@
       "home": "RB Leipzig",
       "away": "Manchester City",
       "venue": "RB Arena",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
-      "source": "FixtureDownload schedule baseline; UEFA official fixture cross-check"
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "live",
+      "source": "FixtureDownload schedule baseline; UEFA official fixture cross-check",
+      "liveStatus": "56"
     },
     {
       "round": 4,
@@ -4947,10 +4951,11 @@
       "home": "Slavia Praha",
       "away": "Arsenal",
       "venue": "Eden Arena",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
-      "source": "FixtureDownload schedule baseline; UEFA official fixture cross-check"
+      "homeScore": 0,
+      "awayScore": 2,
+      "status": "live",
+      "source": "FixtureDownload schedule baseline; UEFA official fixture cross-check",
+      "liveStatus": "58"
     },
     {
       "round": 4,
@@ -4958,10 +4963,11 @@
       "home": "Lens",
       "away": "Como",
       "venue": "Stade Bollaert-Delelis",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
-      "source": "FixtureDownload schedule baseline; UEFA official fixture cross-check"
+      "homeScore": 0,
+      "awayScore": 5,
+      "status": "live",
+      "source": "FixtureDownload schedule baseline; UEFA official fixture cross-check",
+      "liveStatus": "54"
     },
     {
       "round": 4,
@@ -5816,7 +5822,7 @@
     "milkCupMatches": "full competition scoreboard loaded (93 matches)",
     "faCupMatches": "full competition scoreboard loaded (103 matches)"
   },
-  "updated": "2026-11-04T14:29:36.838378Z",
+  "updated": "2026-11-04T21:17:39.039771Z",
   "milkCupMatches": [
     {
       "id": "401842433",
