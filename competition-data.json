@@ -996,10 +996,11 @@
       "home": "Everton",
       "away": "Coventry City",
       "venue": "Hill Dickinson Stadium",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
-      "source": "FixtureDownload schedule/results baseline"
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "live",
+      "source": "FixtureDownload schedule/results baseline",
+      "liveStatus": "45"
     },
     {
       "round": 10,
@@ -5816,7 +5817,7 @@
     "milkCupMatches": "full competition scoreboard loaded (93 matches)",
     "faCupMatches": "full competition scoreboard loaded (103 matches)"
   },
-  "updated": "2026-11-06T14:59:54.656073Z",
+  "updated": "2026-11-06T20:52:15.404262Z",
   "milkCupMatches": [
     {
       "id": "401842433",
@@ -8011,10 +8012,10 @@
       "date": "2026-11-06T19:30Z",
       "home": "Bristol Rovers",
       "away": "Cambridge United",
-      "homeScore": 0,
+      "homeScore": 1,
       "awayScore": 0,
-      "status": "scheduled",
-      "liveStatus": "Scheduled",
+      "status": "live",
+      "liveStatus": "60",
       "venue": "Memorial Stadium",
       "source": "ESPN competition scoreboard"
     },
@@ -8025,10 +8026,10 @@
       "date": "2026-11-06T19:45Z",
       "home": "Oxford City",
       "away": "Leicester City",
-      "homeScore": 0,
-      "awayScore": 0,
-      "status": "scheduled",
-      "liveStatus": "Scheduled",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "live",
+      "liveStatus": "48",
       "venue": "RAW Charging Stadium",
       "source": "ESPN competition scoreboard"
     },
