@@ -998,9 +998,8 @@
       "venue": "Hill Dickinson Stadium",
       "homeScore": 3,
       "awayScore": 1,
-      "status": "live",
-      "source": "FixtureDownload schedule/results baseline",
-      "liveStatus": "90"
+      "status": "final",
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 10,
@@ -5817,7 +5816,7 @@
     "milkCupMatches": "full competition scoreboard loaded (93 matches)",
     "faCupMatches": "full competition scoreboard loaded (103 matches)"
   },
-  "updated": "2026-11-06T22:54:27.010017Z",
+  "updated": "2026-11-07T00:54:44.364539Z",
   "milkCupMatches": [
     {
       "id": "401842433",
@@ -8012,10 +8011,10 @@
       "date": "2026-11-06T19:30Z",
       "home": "Bristol Rovers",
       "away": "Cambridge United",
-      "homeScore": 1,
+      "homeScore": 2,
       "awayScore": 0,
-      "status": "live",
-      "liveStatus": "60",
+      "status": "final",
+      "liveStatus": "FT",
       "venue": "Memorial Stadium",
       "source": "ESPN competition scoreboard"
     },
@@ -8026,10 +8025,10 @@
       "date": "2026-11-06T19:45Z",
       "home": "Oxford City",
       "away": "Leicester City",
-      "homeScore": 1,
-      "awayScore": 1,
-      "status": "live",
-      "liveStatus": "48",
+      "homeScore": 2,
+      "awayScore": 4,
+      "status": "final",
+      "liveStatus": "FT",
       "venue": "RAW Charging Stadium",
       "source": "ESPN competition scoreboard"
     },
