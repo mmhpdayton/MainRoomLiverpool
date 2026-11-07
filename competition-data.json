@@ -1040,11 +1040,11 @@
       "home": "Nottingham Forest",
       "away": "Manchester City",
       "venue": "The City Ground",
-      "homeScore": 2,
+      "homeScore": 3,
       "awayScore": 1,
       "status": "live",
       "source": "FixtureDownload schedule/results baseline",
-      "liveStatus": "54"
+      "liveStatus": "90"
     },
     {
       "round": 10,
@@ -5817,7 +5817,7 @@
     "milkCupMatches": "full competition scoreboard loaded (93 matches)",
     "faCupMatches": "full competition scoreboard loaded (103 matches)"
   },
-  "updated": "2026-11-07T18:45:13.206585Z",
+  "updated": "2026-11-07T19:40:33.933199Z",
   "milkCupMatches": [
     {
       "id": "401842433",
@@ -8474,10 +8474,10 @@
       "date": "2026-11-07T17:30Z",
       "home": "Altrincham",
       "away": "Notts County",
-      "homeScore": 1,
-      "awayScore": 1,
+      "homeScore": 2,
+      "awayScore": 2,
       "status": "live",
-      "liveStatus": "58",
+      "liveStatus": "101",
       "venue": "J. Davidson Stadium",
       "source": "ESPN competition scoreboard"
     },
