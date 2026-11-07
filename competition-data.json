@@ -1040,11 +1040,10 @@
       "home": "Nottingham Forest",
       "away": "Manchester City",
       "venue": "The City Ground",
-      "homeScore": 3,
-      "awayScore": 1,
-      "status": "live",
-      "source": "FixtureDownload schedule/results baseline",
-      "liveStatus": "90"
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 10,
@@ -5817,7 +5816,7 @@
     "milkCupMatches": "full competition scoreboard loaded (93 matches)",
     "faCupMatches": "full competition scoreboard loaded (103 matches)"
   },
-  "updated": "2026-11-07T19:40:33.933199Z",
+  "updated": "2026-11-07T22:43:04.302437Z",
   "milkCupMatches": [
     {
       "id": "401842433",
@@ -8469,15 +8468,15 @@
     },
     {
       "id": "401931097",
-      "round": 0,
-      "roundName": "",
+      "round": 3,
+      "roundName": "Notts County win 3-2 on penalties",
       "date": "2026-11-07T17:30Z",
       "home": "Altrincham",
       "away": "Notts County",
       "homeScore": 2,
       "awayScore": 2,
-      "status": "live",
-      "liveStatus": "101",
+      "status": "final",
+      "liveStatus": "FT-Pens",
       "venue": "J. Davidson Stadium",
       "source": "ESPN competition scoreboard"
     },
@@ -8489,9 +8488,9 @@
       "home": "Peterborough United",
       "away": "Reading",
       "homeScore": 0,
-      "awayScore": 0,
-      "status": "scheduled",
-      "liveStatus": "Scheduled",
+      "awayScore": 5,
+      "status": "live",
+      "liveStatus": "90",
       "venue": "London Road Stadium",
       "source": "ESPN competition scoreboard"
     },
