@@ -1007,10 +1007,11 @@
       "home": "Leeds United",
       "away": "Tottenham Hotspur",
       "venue": "Elland Road",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
-      "source": "FixtureDownload schedule/results baseline"
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "live",
+      "source": "FixtureDownload schedule/results baseline",
+      "liveStatus": "65"
     },
     {
       "round": 10,
@@ -5816,7 +5817,7 @@
     "milkCupMatches": "full competition scoreboard loaded (93 matches)",
     "faCupMatches": "full competition scoreboard loaded (103 matches)"
   },
-  "updated": "2026-11-07T07:06:01.353846Z",
+  "updated": "2026-11-07T13:58:29.570627Z",
   "milkCupMatches": [
     {
       "id": "401842433",
