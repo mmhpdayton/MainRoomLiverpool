@@ -1007,9 +1007,9 @@
       "home": "Leeds United",
       "away": "Tottenham Hotspur",
       "venue": "Elland Road",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
+      "homeScore": 1,
+      "awayScore": 0,
+      "status": "final",
       "source": "FixtureDownload schedule/results baseline"
     },
     {
@@ -1018,9 +1018,9 @@
       "home": "Arsenal",
       "away": "Hull City",
       "venue": "Emirates Stadium",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
+      "homeScore": 1,
+      "awayScore": 0,
+      "status": "final",
       "source": "FixtureDownload schedule/results baseline"
     },
     {
@@ -1029,9 +1029,9 @@
       "home": "Fulham",
       "away": "Newcastle United",
       "venue": "Craven Cottage",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "final",
       "source": "FixtureDownload schedule/results baseline"
     },
     {
@@ -1040,9 +1040,9 @@
       "home": "Nottingham Forest",
       "away": "Manchester City",
       "venue": "The City Ground",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
+      "homeScore": 3,
+      "awayScore": 1,
+      "status": "final",
       "source": "FixtureDownload schedule/results baseline"
     },
     {
@@ -1098,10 +1098,11 @@
       "home": "Manchester United",
       "away": "Aston Villa",
       "venue": "Old Trafford",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
-      "source": "FixtureDownload schedule/results baseline"
+      "homeScore": 0,
+      "awayScore": 2,
+      "status": "live",
+      "source": "FixtureDownload schedule/results baseline",
+      "liveStatus": "9"
     },
     {
       "round": 11,
@@ -1699,17 +1700,6 @@
     },
     {
       "round": 16,
-      "date": "2026-12-19T15:00:00Z",
-      "home": "Nottingham Forest",
-      "away": "Everton",
-      "venue": "The City Ground",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
-      "source": "FixtureDownload schedule/results baseline"
-    },
-    {
-      "round": 16,
       "date": "2026-12-19T17:30:00Z",
       "home": "Liverpool",
       "away": "Tottenham Hotspur",
@@ -1725,6 +1715,17 @@
       "home": "Brighton & Hove Albion",
       "away": "Ipswich Town",
       "venue": "American Express Stadium",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "source": "FixtureDownload schedule/results baseline"
+    },
+    {
+      "round": 16,
+      "date": "2026-12-20T14:00:00Z",
+      "home": "Nottingham Forest",
+      "away": "Everton",
+      "venue": "The City Ground",
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
@@ -5819,7 +5820,7 @@
     "milkCupMatches": "full competition scoreboard loaded (93 matches)",
     "faCupMatches": "full competition scoreboard loaded (103 matches)"
   },
-  "updated": "2026-11-08T16:08:11.346479Z",
+  "updated": "2026-11-08T16:41:14.556347Z",
   "milkCupMatches": [
     {
       "id": "401842433",
@@ -8499,15 +8500,15 @@
     },
     {
       "id": "401931079",
-      "round": 0,
-      "roundName": "",
+      "round": 3,
+      "roundName": "Grimsby Town win 3-2 on penalties",
       "date": "2026-11-08T12:00Z",
       "home": "Stafford Rangers",
       "away": "Grimsby Town",
-      "homeScore": 0,
-      "awayScore": 0,
-      "status": "scheduled",
-      "liveStatus": "Scheduled",
+      "homeScore": 3,
+      "awayScore": 3,
+      "status": "final",
+      "liveStatus": "FT-Pens",
       "venue": "The Stan Robinson Stadium",
       "source": "ESPN competition scoreboard"
     },
@@ -8519,9 +8520,9 @@
       "home": "Cray Wanderers",
       "away": "Stockport County",
       "homeScore": 2,
-      "awayScore": 1,
+      "awayScore": 3,
       "status": "live",
-      "liveStatus": "89",
+      "liveStatus": "BT",
       "venue": "Flamingo Park",
       "source": "ESPN competition scoreboard"
     },
@@ -8532,10 +8533,10 @@
       "date": "2026-11-08T15:00Z",
       "home": "Wimborne Town",
       "away": "Crawley Town",
-      "homeScore": 1,
+      "homeScore": 2,
       "awayScore": 0,
       "status": "live",
-      "liveStatus": "50",
+      "liveStatus": "84",
       "venue": "The Wyatt Homes Stadium",
       "source": "ESPN competition scoreboard"
     },
