@@ -5820,7 +5820,7 @@
     "milkCupMatches": "full competition scoreboard loaded (93 matches)",
     "faCupMatches": "full competition scoreboard loaded (103 matches)"
   },
-  "updated": "2026-11-08T16:41:14.556347Z",
+  "updated": "2026-11-08T20:28:28.909154Z",
   "milkCupMatches": [
     {
       "id": "401842433",
@@ -8547,10 +8547,10 @@
       "date": "2026-11-08T17:15Z",
       "home": "Oldham Athletic",
       "away": "Sheffield Wednesday",
-      "homeScore": 0,
-      "awayScore": 0,
-      "status": "scheduled",
-      "liveStatus": "Scheduled",
+      "homeScore": 2,
+      "awayScore": 1,
+      "status": "live",
+      "liveStatus": "120+1",
       "venue": "Boundary Park",
       "source": "ESPN competition scoreboard"
     },
