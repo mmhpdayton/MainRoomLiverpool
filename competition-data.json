@@ -1062,10 +1062,11 @@
       "home": "Crystal Palace",
       "away": "Liverpool",
       "venue": "Selhurst Park",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
-      "source": "FixtureDownload schedule/results baseline"
+      "homeScore": 1,
+      "awayScore": 3,
+      "status": "live",
+      "source": "FixtureDownload schedule/results baseline",
+      "liveStatus": "90"
     },
     {
       "round": 10,
@@ -1073,10 +1074,11 @@
       "home": "Ipswich Town",
       "away": "AFC Bournemouth",
       "venue": "Portman Road",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
-      "source": "FixtureDownload schedule/results baseline"
+      "homeScore": 1,
+      "awayScore": 2,
+      "status": "live",
+      "source": "FixtureDownload schedule/results baseline",
+      "liveStatus": "90"
     },
     {
       "round": 10,
@@ -1084,10 +1086,11 @@
       "home": "Sunderland",
       "away": "Chelsea",
       "venue": "Stadium of Light",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
-      "source": "FixtureDownload schedule/results baseline"
+      "homeScore": 1,
+      "awayScore": 0,
+      "status": "live",
+      "source": "FixtureDownload schedule/results baseline",
+      "liveStatus": "90"
     },
     {
       "round": 10,
@@ -5816,7 +5819,7 @@
     "milkCupMatches": "full competition scoreboard loaded (93 matches)",
     "faCupMatches": "full competition scoreboard loaded (103 matches)"
   },
-  "updated": "2026-11-08T10:16:03.584307Z",
+  "updated": "2026-11-08T16:08:11.346479Z",
   "milkCupMatches": [
     {
       "id": "401842433",
@@ -8515,10 +8518,10 @@
       "date": "2026-11-08T14:15Z",
       "home": "Cray Wanderers",
       "away": "Stockport County",
-      "homeScore": 0,
-      "awayScore": 0,
-      "status": "scheduled",
-      "liveStatus": "Scheduled",
+      "homeScore": 2,
+      "awayScore": 1,
+      "status": "live",
+      "liveStatus": "89",
       "venue": "Flamingo Park",
       "source": "ESPN competition scoreboard"
     },
@@ -8529,10 +8532,10 @@
       "date": "2026-11-08T15:00Z",
       "home": "Wimborne Town",
       "away": "Crawley Town",
-      "homeScore": 0,
+      "homeScore": 1,
       "awayScore": 0,
-      "status": "scheduled",
-      "liveStatus": "Scheduled",
+      "status": "live",
+      "liveStatus": "50",
       "venue": "The Wyatt Homes Stadium",
       "source": "ESPN competition scoreboard"
     },

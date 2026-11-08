@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-08T10:16:03.584307Z",
+  "updated": "2026-11-08T16:08:11.346479Z",
   "fixtures": [
     {
       "id": "20260823-newcastle-united",
@@ -293,13 +293,13 @@
       "competition": "Premier League",
       "venue": "Selhurst Park",
       "broadcastUS": "Peacock • NBCSN • NBC",
-      "status": "scheduled",
-      "scoreFor": null,
-      "scoreAgainst": null,
+      "status": "live",
+      "scoreFor": 3,
+      "scoreAgainst": 1,
       "broadcastUSSource": "https://www.nbcsports.com/pressbox/press-releases/second-place-manchester-city-visit-nottingham-forest-this-saturday-nov-7-at-12-30-p-m-et-on-nbc-peacock-and-telemundo-headlining-nbc-sports-premier-league-coverage-this-weekend",
       "broadcastCheckedAt": "2026-11-08T10:15:52.957971Z",
       "broadcastConfidence": "official match-specific",
-      "liveStatus": "",
+      "liveStatus": "90",
       "broadcastUSSpanish": "TBA",
       "broadcastUSSpanishSource": "",
       "broadcastUSSpanishConfidence": "",
