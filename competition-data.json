@@ -5816,7 +5816,7 @@
     "milkCupMatches": "full competition scoreboard loaded (93 matches)",
     "faCupMatches": "full competition scoreboard loaded (103 matches)"
   },
-  "updated": "2026-11-07T22:43:04.302437Z",
+  "updated": "2026-11-08T02:26:18.180358Z",
   "milkCupMatches": [
     {
       "id": "401842433",
@@ -8489,8 +8489,8 @@
       "away": "Reading",
       "homeScore": 0,
       "awayScore": 5,
-      "status": "live",
-      "liveStatus": "90",
+      "status": "final",
+      "liveStatus": "FT",
       "venue": "London Road Stadium",
       "source": "ESPN competition scoreboard"
     },
