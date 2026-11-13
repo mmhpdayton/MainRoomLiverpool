@@ -5816,7 +5816,7 @@
     "milkCupMatches": "full competition scoreboard loaded (93 matches)",
     "faCupMatches": "full competition scoreboard loaded (123 matches)"
   },
-  "updated": "2026-11-12T23:40:31.947527Z",
+  "updated": "2026-11-13T06:39:24.423540Z",
   "milkCupMatches": [
     {
       "id": "401842433",
@@ -8565,31 +8565,17 @@
       "source": "ESPN competition scoreboard"
     },
     {
-      "id": "401933792",
+      "id": "401933793",
       "round": 0,
       "roundName": "",
-      "date": "2026-12-05T15:00Z",
-      "home": "AFC Fylde",
-      "away": "Luton Town",
+      "date": "2026-12-04T19:30Z",
+      "home": "Wimborne Town",
+      "away": "Bradford City",
       "homeScore": 0,
       "awayScore": 0,
       "status": "scheduled",
       "liveStatus": "Scheduled",
-      "venue": "Mill Farm Sports Village",
-      "source": "ESPN competition scoreboard"
-    },
-    {
-      "id": "401933791",
-      "round": 0,
-      "roundName": "",
-      "date": "2026-12-05T15:00Z",
-      "home": "Barrow",
-      "away": "Kidderminster Harriers",
-      "homeScore": 0,
-      "awayScore": 0,
-      "status": "scheduled",
-      "liveStatus": "Scheduled",
-      "venue": "SO Legal Stadium",
+      "venue": "The Wyatt Homes Stadium",
       "source": "ESPN competition scoreboard"
     },
     {
@@ -8621,34 +8607,6 @@
       "source": "ESPN competition scoreboard"
     },
     {
-      "id": "401933794",
-      "round": 0,
-      "roundName": "",
-      "date": "2026-12-05T15:00Z",
-      "home": "Crewe Alexandra",
-      "away": "Plymouth Argyle",
-      "homeScore": 0,
-      "awayScore": 0,
-      "status": "scheduled",
-      "liveStatus": "Scheduled",
-      "venue": "Mornflake Stadium",
-      "source": "ESPN competition scoreboard"
-    },
-    {
-      "id": "401933789",
-      "round": 0,
-      "roundName": "",
-      "date": "2026-12-05T15:00Z",
-      "home": "Dover Athletic",
-      "away": "Leicester City",
-      "homeScore": 0,
-      "awayScore": 0,
-      "status": "scheduled",
-      "liveStatus": "Scheduled",
-      "venue": "Crabble Athletic Ground",
-      "source": "ESPN competition scoreboard"
-    },
-    {
       "id": "401933816",
       "round": 0,
       "roundName": "",
@@ -8674,34 +8632,6 @@
       "status": "scheduled",
       "liveStatus": "Scheduled",
       "venue": "Blundell Park",
-      "source": "ESPN competition scoreboard"
-    },
-    {
-      "id": "401933801",
-      "round": 0,
-      "roundName": "",
-      "date": "2026-12-05T15:00Z",
-      "home": "Guiseley",
-      "away": "Notts County",
-      "homeScore": 0,
-      "awayScore": 0,
-      "status": "scheduled",
-      "liveStatus": "Scheduled",
-      "venue": "Nethermoor Park",
-      "source": "ESPN competition scoreboard"
-    },
-    {
-      "id": "401933815",
-      "round": 0,
-      "roundName": "",
-      "date": "2026-12-05T15:00Z",
-      "home": "Plymouth Parkway",
-      "away": "Barnet",
-      "homeScore": 0,
-      "awayScore": 0,
-      "status": "scheduled",
-      "liveStatus": "Scheduled",
-      "venue": "Manadon Sports Hub",
       "source": "ESPN competition scoreboard"
     },
     {
@@ -8761,20 +8691,6 @@
       "source": "ESPN competition scoreboard"
     },
     {
-      "id": "401933795",
-      "round": 0,
-      "roundName": "",
-      "date": "2026-12-05T15:00Z",
-      "home": "Salisbury FC",
-      "away": "Blackpool",
-      "homeScore": 0,
-      "awayScore": 0,
-      "status": "scheduled",
-      "liveStatus": "Scheduled",
-      "venue": "The Raymond McEnhill Stadium",
-      "source": "ESPN competition scoreboard"
-    },
-    {
       "id": "401933796",
       "round": 0,
       "roundName": "",
@@ -8803,20 +8719,6 @@
       "source": "ESPN competition scoreboard"
     },
     {
-      "id": "401933793",
-      "round": 0,
-      "roundName": "",
-      "date": "2026-12-05T15:00Z",
-      "home": "Wimborne Town",
-      "away": "Bradford City",
-      "homeScore": 0,
-      "awayScore": 0,
-      "status": "scheduled",
-      "liveStatus": "Scheduled",
-      "venue": "The Wyatt Homes Stadium",
-      "source": "ESPN competition scoreboard"
-    },
-    {
       "id": "401933818",
       "round": 0,
       "roundName": "",
@@ -8842,6 +8744,104 @@
       "status": "scheduled",
       "liveStatus": "Scheduled",
       "venue": "LNER Community Stadium",
+      "source": "ESPN competition scoreboard"
+    },
+    {
+      "id": "401933789",
+      "round": 0,
+      "roundName": "",
+      "date": "2026-12-05T17:15Z",
+      "home": "Dover Athletic",
+      "away": "Leicester City",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "scheduled",
+      "liveStatus": "Scheduled",
+      "venue": "Crabble Athletic Ground",
+      "source": "ESPN competition scoreboard"
+    },
+    {
+      "id": "401933791",
+      "round": 0,
+      "roundName": "",
+      "date": "2026-12-05T20:00Z",
+      "home": "Barrow",
+      "away": "Kidderminster Harriers",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "scheduled",
+      "liveStatus": "Scheduled",
+      "venue": "SO Legal Stadium",
+      "source": "ESPN competition scoreboard"
+    },
+    {
+      "id": "401933795",
+      "round": 0,
+      "roundName": "",
+      "date": "2026-12-06T12:15Z",
+      "home": "Salisbury FC",
+      "away": "Blackpool",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "scheduled",
+      "liveStatus": "Scheduled",
+      "venue": "The Raymond McEnhill Stadium",
+      "source": "ESPN competition scoreboard"
+    },
+    {
+      "id": "401933792",
+      "round": 0,
+      "roundName": "",
+      "date": "2026-12-06T14:30Z",
+      "home": "AFC Fylde",
+      "away": "Luton Town",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "scheduled",
+      "liveStatus": "Scheduled",
+      "venue": "Mill Farm Sports Village",
+      "source": "ESPN competition scoreboard"
+    },
+    {
+      "id": "401933794",
+      "round": 0,
+      "roundName": "",
+      "date": "2026-12-06T15:15Z",
+      "home": "Crewe Alexandra",
+      "away": "Plymouth Argyle",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "scheduled",
+      "liveStatus": "Scheduled",
+      "venue": "Mornflake Stadium",
+      "source": "ESPN competition scoreboard"
+    },
+    {
+      "id": "401933815",
+      "round": 0,
+      "roundName": "",
+      "date": "2026-12-06T17:30Z",
+      "home": "Plymouth Parkway",
+      "away": "Barnet",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "scheduled",
+      "liveStatus": "Scheduled",
+      "venue": "Manadon Sports Hub",
+      "source": "ESPN competition scoreboard"
+    },
+    {
+      "id": "401933801",
+      "round": 0,
+      "roundName": "",
+      "date": "2026-12-07T19:30Z",
+      "home": "Guiseley",
+      "away": "Notts County",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "scheduled",
+      "liveStatus": "Scheduled",
+      "venue": "Nethermoor Park",
       "source": "ESPN competition scoreboard"
     }
   ]
