@@ -5816,7 +5816,7 @@
     "milkCupMatches": "full competition scoreboard loaded (93 matches)",
     "faCupMatches": "full competition scoreboard loaded (123 matches)"
   },
-  "updated": "2026-11-16T09:36:51.356743Z",
+  "updated": "2026-11-16T20:26:00.934221Z",
   "milkCupMatches": [
     {
       "id": "401842433",
@@ -8579,6 +8579,20 @@
       "source": "ESPN competition scoreboard"
     },
     {
+      "id": "401933818",
+      "round": 0,
+      "roundName": "",
+      "date": "2026-12-04T19:45Z",
+      "home": "Wycombe Wanderers",
+      "away": "Milton Keynes Dons",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "scheduled",
+      "liveStatus": "Scheduled",
+      "venue": "Adams Park",
+      "source": "ESPN competition scoreboard"
+    },
+    {
       "id": "401933817",
       "round": 0,
       "roundName": "",
@@ -8716,20 +8730,6 @@
       "status": "scheduled",
       "liveStatus": "Scheduled",
       "venue": "DW Stadium",
-      "source": "ESPN competition scoreboard"
-    },
-    {
-      "id": "401933818",
-      "round": 0,
-      "roundName": "",
-      "date": "2026-12-05T15:00Z",
-      "home": "Wycombe Wanderers",
-      "away": "Milton Keynes Dons",
-      "homeScore": 0,
-      "awayScore": 0,
-      "status": "scheduled",
-      "liveStatus": "Scheduled",
-      "venue": "Adams Park",
       "source": "ESPN competition scoreboard"
     },
     {
