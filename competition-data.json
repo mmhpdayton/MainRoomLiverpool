@@ -1177,10 +1177,11 @@
       "home": "Newcastle United",
       "away": "Arsenal",
       "venue": "St. James' Park",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
-      "source": "FixtureDownload schedule/results baseline"
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "live",
+      "source": "FixtureDownload schedule/results baseline",
+      "liveStatus": "7"
     },
     {
       "round": 11,
@@ -5821,7 +5822,7 @@
     "milkCupMatches": "full competition scoreboard loaded (93 matches)",
     "faCupMatches": "full competition scoreboard loaded (123 matches)"
   },
-  "updated": "2026-11-21T17:28:14.169382Z",
+  "updated": "2026-11-21T17:37:47.277952Z",
   "milkCupMatches": [
     {
       "id": "401842433",
