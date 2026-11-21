@@ -1117,11 +1117,10 @@
       "home": "AFC Bournemouth",
       "away": "Nottingham Forest",
       "venue": "Vitality Stadium",
-      "homeScore": 2,
-      "awayScore": 0,
-      "status": "live",
-      "source": "FixtureDownload schedule/results baseline",
-      "liveStatus": "90"
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 11,
@@ -1129,11 +1128,10 @@
       "home": "Aston Villa",
       "away": "Sunderland",
       "venue": "Villa Park",
-      "homeScore": 0,
-      "awayScore": 0,
-      "status": "live",
-      "source": "FixtureDownload schedule/results baseline",
-      "liveStatus": "90"
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 11,
@@ -1141,11 +1139,10 @@
       "home": "Chelsea",
       "away": "Leeds United",
       "venue": "Stamford Bridge",
-      "homeScore": 1,
-      "awayScore": 4,
-      "status": "live",
-      "source": "FixtureDownload schedule/results baseline",
-      "liveStatus": "90"
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 11,
@@ -1153,11 +1150,10 @@
       "home": "Coventry City",
       "away": "Crystal Palace",
       "venue": "Coventry Building Society Arena",
-      "homeScore": 3,
-      "awayScore": 2,
-      "status": "live",
-      "source": "FixtureDownload schedule/results baseline",
-      "liveStatus": "90"
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 11,
@@ -1165,11 +1161,10 @@
       "home": "Tottenham Hotspur",
       "away": "Ipswich Town",
       "venue": "Tottenham Hotspur Stadium",
-      "homeScore": 2,
-      "awayScore": 0,
-      "status": "live",
-      "source": "FixtureDownload schedule/results baseline",
-      "liveStatus": "90"
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 11,
@@ -1177,11 +1172,10 @@
       "home": "Newcastle United",
       "away": "Arsenal",
       "venue": "St. James' Park",
-      "homeScore": 0,
-      "awayScore": 0,
-      "status": "live",
-      "source": "FixtureDownload schedule/results baseline",
-      "liveStatus": "7"
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "source": "FixtureDownload schedule/results baseline"
     },
     {
       "round": 11,
@@ -5822,7 +5816,7 @@
     "milkCupMatches": "full competition scoreboard loaded (93 matches)",
     "faCupMatches": "full competition scoreboard loaded (123 matches)"
   },
-  "updated": "2026-11-21T17:37:47.277952Z",
+  "updated": "2026-11-21T23:11:26.385534Z",
   "milkCupMatches": [
     {
       "id": "401842433",
