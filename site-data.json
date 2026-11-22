@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-22T11:16:11.729914Z",
+  "updated": "2026-11-22T17:52:54.105982Z",
   "fixtures": [
     {
       "id": "20260823-newcastle-united",
@@ -313,13 +313,13 @@
       "competition": "Premier League",
       "venue": "Anfield",
       "broadcastUS": "USA Network",
-      "status": "scheduled",
-      "scoreFor": null,
-      "scoreAgainst": null,
+      "status": "live",
+      "scoreFor": 2,
+      "scoreAgainst": 0,
       "broadcastUSSource": "https://www.nbcsports.com/pressbox/press-releases/liverpool-host-manchester-united-this-sunday-nov-22-on-usa-network-and-telemundo-headlining-nbc-sports-premier-league-coverage-this-weekend",
       "broadcastCheckedAt": "2026-11-22T11:16:03.285492Z",
       "broadcastConfidence": "official match-specific",
-      "liveStatus": "",
+      "liveStatus": "62",
       "broadcastUSSpanish": "Telemundo",
       "broadcastUSSpanishSource": "https://www.nbcsports.com/pressbox/press-releases/liverpool-host-manchester-united-this-sunday-nov-22-on-usa-network-and-telemundo-headlining-nbc-sports-premier-league-coverage-this-weekend",
       "broadcastUSSpanishConfidence": "official match-specific",

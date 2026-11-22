@@ -1194,10 +1194,11 @@
       "home": "Liverpool",
       "away": "Manchester United",
       "venue": "Anfield",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
-      "source": "FixtureDownload schedule/results baseline"
+      "homeScore": 2,
+      "awayScore": 0,
+      "status": "live",
+      "source": "FixtureDownload schedule/results baseline",
+      "liveStatus": "62"
     },
     {
       "round": 11,
@@ -5816,7 +5817,7 @@
     "milkCupMatches": "full competition scoreboard loaded (93 matches)",
     "faCupMatches": "full competition scoreboard loaded (123 matches)"
   },
-  "updated": "2026-11-22T11:16:11.729914Z",
+  "updated": "2026-11-22T17:52:54.105982Z",
   "milkCupMatches": [
     {
       "id": "401842433",
