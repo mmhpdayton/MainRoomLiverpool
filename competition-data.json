@@ -1183,9 +1183,9 @@
       "home": "Hull City",
       "away": "Brighton & Hove Albion",
       "venue": "MKM Stadium",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
+      "homeScore": 2,
+      "awayScore": 0,
+      "status": "final",
       "source": "FixtureDownload schedule/results baseline"
     },
     {
@@ -1194,9 +1194,9 @@
       "home": "Liverpool",
       "away": "Manchester United",
       "venue": "Anfield",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
+      "homeScore": 4,
+      "awayScore": 0,
+      "status": "final",
       "source": "FixtureDownload schedule/results baseline"
     },
     {
@@ -1205,9 +1205,9 @@
       "home": "Brentford",
       "away": "Everton",
       "venue": "Gtech Community Stadium",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
+      "homeScore": 4,
+      "awayScore": 0,
+      "status": "final",
       "source": "FixtureDownload schedule/results baseline"
     },
     {
@@ -5816,7 +5816,7 @@
     "milkCupMatches": "full competition scoreboard loaded (93 matches)",
     "faCupMatches": "full competition scoreboard loaded (123 matches)"
   },
-  "updated": "2026-11-24T05:58:57.896326Z",
+  "updated": "2026-11-24T17:38:48.840181Z",
   "milkCupMatches": [
     {
       "id": "401842433",
