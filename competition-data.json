@@ -5002,11 +5002,10 @@
       "home": "Real Madrid",
       "away": "PSV Eindhoven",
       "venue": "Estadio Santiago Bernabéu",
-      "homeScore": 0,
-      "awayScore": 1,
-      "status": "live",
-      "source": "FixtureDownload schedule baseline; UEFA official fixture cross-check",
-      "liveStatus": "49"
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "source": "FixtureDownload schedule baseline; UEFA official fixture cross-check"
     },
     {
       "round": 5,
@@ -5014,11 +5013,10 @@
       "home": "Manchester City",
       "away": "Napoli",
       "venue": "City of Manchester Stadium",
-      "homeScore": 0,
-      "awayScore": 0,
-      "status": "live",
-      "source": "FixtureDownload schedule baseline; UEFA official fixture cross-check",
-      "liveStatus": "50"
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "source": "FixtureDownload schedule baseline; UEFA official fixture cross-check"
     },
     {
       "round": 5,
@@ -5026,11 +5024,10 @@
       "home": "Arsenal",
       "away": "Borussia Dortmund",
       "venue": "Arsenal Stadium",
-      "homeScore": 1,
-      "awayScore": 0,
-      "status": "live",
-      "source": "FixtureDownload schedule baseline; UEFA official fixture cross-check",
-      "liveStatus": "52"
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "source": "FixtureDownload schedule baseline; UEFA official fixture cross-check"
     },
     {
       "round": 5,
@@ -5038,11 +5035,10 @@
       "home": "Feyenoord",
       "away": "Porto",
       "venue": "Stadion Feijenoord 'De Kuip'",
-      "homeScore": 0,
-      "awayScore": 1,
-      "status": "live",
-      "source": "FixtureDownload schedule baseline; UEFA official fixture cross-check",
-      "liveStatus": "48"
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "source": "FixtureDownload schedule baseline; UEFA official fixture cross-check"
     },
     {
       "round": 5,
@@ -5050,11 +5046,10 @@
       "home": "RB Leipzig",
       "away": "Lens",
       "venue": "RB Arena",
-      "homeScore": 2,
-      "awayScore": 0,
-      "status": "live",
-      "source": "FixtureDownload schedule baseline; UEFA official fixture cross-check",
-      "liveStatus": "52"
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "source": "FixtureDownload schedule baseline; UEFA official fixture cross-check"
     },
     {
       "round": 5,
@@ -5062,11 +5057,10 @@
       "home": "Slovan Bratislava",
       "away": "Real Betis",
       "venue": "Národný futbalový štadión ",
-      "homeScore": 0,
-      "awayScore": 1,
-      "status": "live",
-      "source": "FixtureDownload schedule baseline; UEFA official fixture cross-check",
-      "liveStatus": "52"
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "source": "FixtureDownload schedule baseline; UEFA official fixture cross-check"
     },
     {
       "round": 5,
@@ -5074,11 +5068,10 @@
       "home": "Como",
       "away": "AEK Athens",
       "venue": "Giuseppe Sinigaglia",
-      "homeScore": 0,
-      "awayScore": 0,
-      "status": "live",
-      "source": "FixtureDownload schedule baseline; UEFA official fixture cross-check",
-      "liveStatus": "47"
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "source": "FixtureDownload schedule baseline; UEFA official fixture cross-check"
     },
     {
       "round": 5,
@@ -5823,7 +5816,7 @@
     "milkCupMatches": "full competition scoreboard loaded (93 matches)",
     "faCupMatches": "full competition scoreboard loaded (123 matches)"
   },
-  "updated": "2026-11-24T21:09:53.938307Z",
+  "updated": "2026-11-25T02:22:39.093195Z",
   "milkCupMatches": [
     {
       "id": "401842433",
