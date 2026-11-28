@@ -1227,10 +1227,11 @@
       "home": "Leeds United",
       "away": "Coventry City",
       "venue": "Elland Road",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
-      "source": "FixtureDownload schedule/results baseline"
+      "homeScore": 3,
+      "awayScore": 0,
+      "status": "live",
+      "source": "FixtureDownload schedule/results baseline",
+      "liveStatus": "90"
     },
     {
       "round": 12,
@@ -1238,10 +1239,11 @@
       "home": "Manchester United",
       "away": "Brentford",
       "venue": "Old Trafford",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
-      "source": "FixtureDownload schedule/results baseline"
+      "homeScore": 0,
+      "awayScore": 4,
+      "status": "live",
+      "source": "FixtureDownload schedule/results baseline",
+      "liveStatus": "90"
     },
     {
       "round": 12,
@@ -1249,10 +1251,11 @@
       "home": "Ipswich Town",
       "away": "Aston Villa",
       "venue": "Portman Road",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
-      "source": "FixtureDownload schedule/results baseline"
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "live",
+      "source": "FixtureDownload schedule/results baseline",
+      "liveStatus": "9"
     },
     {
       "round": 12,
@@ -5816,7 +5819,7 @@
     "milkCupMatches": "full competition scoreboard loaded (93 matches)",
     "faCupMatches": "full competition scoreboard loaded (123 matches)"
   },
-  "updated": "2026-11-28T10:20:50.919099Z",
+  "updated": "2026-11-28T17:40:00.222981Z",
   "milkCupMatches": [
     {
       "id": "401842433",
