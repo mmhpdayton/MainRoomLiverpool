@@ -1216,9 +1216,9 @@
       "home": "Nottingham Forest",
       "away": "Chelsea",
       "venue": "The City Ground",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
+      "homeScore": 3,
+      "awayScore": 2,
+      "status": "final",
       "source": "FixtureDownload schedule/results baseline"
     },
     {
@@ -5816,7 +5816,7 @@
     "milkCupMatches": "full competition scoreboard loaded (93 matches)",
     "faCupMatches": "full competition scoreboard loaded (123 matches)"
   },
-  "updated": "2026-11-28T01:56:50.070498Z",
+  "updated": "2026-11-28T10:20:50.919099Z",
   "milkCupMatches": [
     {
       "id": "401842433",
